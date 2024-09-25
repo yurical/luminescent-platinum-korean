@@ -35685,7 +35685,7 @@
                 },
                 {
                     "patternID": 7,
-                    "eventID": 1,
+                    "eventID": 4,
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "아무리 사용해도 없어지지 않으니",
@@ -44582,7 +44582,7 @@
             "wordDataArray": [
                 {
                     "patternID": 7,
-                    "eventID": 1,
+                    "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "나는 체육관 가이드란다",
@@ -44590,7 +44590,7 @@
                 },
                 {
                     "patternID": 7,
-                    "eventID": 4,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "새내기 트레이너가 체육관에",
@@ -44598,7 +44598,7 @@
                 },
                 {
                     "patternID": 7,
-                    "eventID": 3,
+                    "eventID": 4,
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "도전할 수 있도록 조언을",
@@ -44606,7 +44606,7 @@
                 },
                 {
                     "patternID": 7,
-                    "eventID": 1,
+                    "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "아끼지 않는 게 내 일이지",
@@ -44614,7 +44614,7 @@
                 },
                 {
                     "patternID": 7,
-                    "eventID": 3,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "사실 요즘 신오지방의 체육관 관장들이",
@@ -44622,7 +44622,7 @@
                 },
                 {
                     "patternID": 7,
-                    "eventID": 1,
+                    "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "재미있는 트릭을 사용하고 있거든",
@@ -44630,7 +44630,7 @@
                 },
                 {
                     "patternID": 7,
-                    "eventID": 3,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "나에게 다시 말을 걸면",

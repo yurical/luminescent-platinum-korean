@@ -85297,8 +85297,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "우리에게 말을 걸어 줘!",
-                    "strWidth": 328.875
+                    "str": "우리 리포터에게 말을 걸어 줘!",
+                    "strWidth": 435.53125
                 }
             ]
         },
@@ -98674,7 +98674,7 @@
                 },
                 {
                     "patternID": 7,
-                    "eventID": 3,
+                    "eventID": 4,
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "이야기할 수 있고",
@@ -106194,8 +106194,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "언제든지  환영할게",
-                    "strWidth": 277.3125
+                    "str": "언제든지 환영할게",
+                    "strWidth": 266.65625
                 }
             ]
         },

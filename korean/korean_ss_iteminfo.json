@@ -51099,23 +51099,23 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "싸움의 춤을 격렬하게 춰서",
-                    "strWidth": 383.96875
+                    "str": "전격의 다발을 상대에게",
+                    "strWidth": 341.3125
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "기세를 높인다.",
-                    "strWidth": 211.25
+                    "str": "발사한다. 전기를 모아서 자신의",
+                    "strWidth": 456.5625
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "자신의 공격을 크게 올린다.",
+                    "str": "특수공격을 올릴 때가 있다.",
                     "strWidth": 392.5625
                 }
             ]
@@ -51145,24 +51145,24 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "몸 전체로",
-                    "strWidth": 138.65625
+                    "str": "땅을 힘껏 밟아 자신의",
+                    "strWidth": 319.96875
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "상대를 덮쳐눌러 공격한다.",
-                    "strWidth": 381.90625
+                    "str": "주위에 있는 포켓몬을 공격한다.",
+                    "strWidth": 456.5625
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "마비 상태로 만들 때가 있다.",
-                    "strWidth": 403.21875
+                    "str": "상대의 스피드를 떨어뜨린다.",
+                    "strWidth": 413.90625
                 }
             ]
         },
@@ -51191,24 +51191,24 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "세찬 불꽃을",
-                    "strWidth": 170.65625
+                    "str": "부리로 공격한다.",
+                    "strWidth": 243.25
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "상대에게 발사하여 공격한다.",
-                    "strWidth": 413.90625
+                    "str": "상대가 나무열매를 지니고 있을 때",
+                    "strWidth": 490.625
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "화상 상태로 만들 때가 있다.",
-                    "strWidth": 403.21875
+                    "str": "먹어서 나무열매의 효과를 받을 수 있다.",
+                    "strWidth": 573.875
                 }
             ]
         },
@@ -51237,24 +51237,16 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "대량의 물을",
-                    "strWidth": 170.65625
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "세찬 기세로",
-                    "strWidth": 170.65625
+                    "str": "스스로 분발해서",
+                    "strWidth": 234.65625
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "상대에게 발사하여 공격한다.",
-                    "strWidth": 413.90625
+                    "str": "공격과 특수공격을 올린다.",
+                    "strWidth": 381.90625
                 }
             ]
         },

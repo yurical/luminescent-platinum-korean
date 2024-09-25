@@ -3169,8 +3169,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "종류 순",
-                    "strWidth": 106.65625
+                    "str": "종류순",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -3199,8 +3199,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "이름 순",
-                    "strWidth": 106.65625
+                    "str": "이름순",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -3379,8 +3379,8 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "종류 순으로",
-                    "strWidth": 170.65625
+                    "str": "종류순으로",
+                    "strWidth": 160.0
                 },
                 {
                     "patternID": 7,
@@ -3417,8 +3417,8 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "이름 순으로",
-                    "strWidth": 170.65625
+                    "str": "이름순으로",
+                    "strWidth": 160.0
                 },
                 {
                     "patternID": 7,
