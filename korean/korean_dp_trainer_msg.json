@@ -32389,10 +32389,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -32401,8 +32401,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Oh! My poor Rattata and Zubat!",
-                    "strWidth": 410.21875
+                    "str": "앗! 내 꼬렛와 주뱃...",
+                    "strWidth": 290.65625
                 }
             ]
         },
@@ -58819,36 +58819,36 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
                     "patternID": 7,
-                    "eventID": 3,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "You’re going to Renegade Park?",
-                    "strWidth": 404.96875
-                },
-                {
-                    "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "It’s not right that you get to go before a",
-                    "strWidth": 520.578125
+                    "str": "너도 레니게이드파크에 가니!?",
+                    "strWidth": 432.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 4,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "컬렉터보다 먼저 간다니",
+                    "strWidth": 341.3125
                 },
                 {
                     "patternID": 7,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "collector like me!",
-                    "strWidth": 222.921875
+                    "str": "용서할 수 없겠는걸!",
+                    "strWidth": 286.21875
                 }
             ]
         },
@@ -58895,10 +58895,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -58907,16 +58907,16 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Renegade Park, huh? I wonder what kinds of",
-                    "strWidth": 558.40625
+                    "str": "레니게이드파크! 어떤 포켓몬과 만날까!",
+                    "strWidth": 561.78125
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon you can see there?",
-                    "strWidth": 371.4375
+                    "str": "두근두근!",
+                    "strWidth": 136.90625
                 }
             ]
         },
@@ -58933,10 +58933,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -58945,16 +58945,16 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Listen—did you go to Renegade Park? What was it",
-                    "strWidth": 638.171875
+                    "str": "너 레니게이드파크에 갔다 왔어!?",
+                    "strWidth": 474.65625
                 },
                 {
                     "patternID": 7,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "like? What was it like?",
-                    "strWidth": 289.8125
+                    "str": "어땠어? 어땠어?",
+                    "strWidth": 238.21875
                 }
             ]
         },
@@ -63493,10 +63493,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -63505,8 +63505,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Oh! Be one with me, my Mr. Mime!",
-                    "strWidth": 436.6875
+                    "str": "아아! 나와 하나가 되어 줘! 마임맨!",
+                    "strWidth": 496.0
                 }
             ]
         },
@@ -65331,8 +65331,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "2 vs 2 승부를 하고 싶어",
-                    "strWidth": 352.15625
+                    "str": "2대2 승부를 하고 싶어",
+                    "strWidth": 330.21875
                 }
             ]
         },
@@ -77051,44 +77051,36 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
                     "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "I had to come here because I lost a dare with",
-                    "strWidth": 584.40625
-                },
-                {
-                    "patternID": 7,
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "some kids at school.",
-                    "strWidth": 260.984375
+                    "str": "벌칙 게임으로 로스트타워에 왔어",
+                    "strWidth": 479.96875
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "The loser had to go to the top of",
-                    "strWidth": 595.171875
+                    "str": "진 사람은 타워 꼭대기까지",
+                    "strWidth": 383.96875
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "the Lost Tower.",
-                    "strWidth": 263.71875
+                    "str": "갔다 오기로 했거든...",
+                    "strWidth": 303.09375
                 }
             ]
         },
@@ -103361,10 +103353,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -103373,16 +103365,16 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Listen—did you go to Renegade Park? What was it",
-                    "strWidth": 638.171875
+                    "str": "너 레니게이드파크에 갔다 왔어!?",
+                    "strWidth": 474.65625
                 },
                 {
                     "patternID": 7,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "like? What was it like?",
-                    "strWidth": 289.8125
+                    "str": "어땠어? 어땠어?",
+                    "strWidth": 238.21875
                 }
             ]
         },
@@ -113063,20 +113055,20 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
-                    "patternID": 7,
+                    "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "We have a winner!",
-                    "strWidth": 246.984375
+                    "str": "승자가 나왔습니다!",
+                    "strWidth": 275.5625
                 }
             ]
         },
@@ -113093,20 +113085,20 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
-                    "patternID": 7,
+                    "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "We have a winner!",
-                    "strWidth": 246.984375
+                    "str": "승자가 나왔습니다!",
+                    "strWidth": 275.5625
                 }
             ]
         },
@@ -113123,20 +113115,20 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
-                    "patternID": 7,
+                    "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Oh. You won... ",
-                    "strWidth": 176.203125
+                    "str": "앗 네가 이겼어...",
+                    "strWidth": 239.09375
                 }
             ]
         },
@@ -113153,10 +113145,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -113165,8 +113157,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "You may be strong enough after all.",
-                    "strWidth": 465.390625
+                    "str": "역시 너는 강한 트레이너군...",
+                    "strWidth": 409.75
                 }
             ]
         },
@@ -113183,10 +113175,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -113196,7 +113188,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "...",
-                    "strWidth": 23.71875
+                    "strWidth": 25.78125
                 }
             ]
         },
@@ -113213,10 +113205,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -113225,16 +113217,16 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Striking the right balance of offense",
-                    "strWidth": 464.75
+                    "str": "공격과 방어의 균형을 맞추는 건...",
+                    "strWidth": 484.40625
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "and defense... It's not easy to do.",
-                    "strWidth": 434.21875
+                    "str": "정말 어렵네",
+                    "strWidth": 170.65625
                 }
             ]
         },
@@ -113251,10 +113243,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -113263,16 +113255,16 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Ah!",
-                    "strWidth": 42.96875
+                    "str": "아앗!",
+                    "strWidth": 72.90625
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Did Mira make a mistake?",
-                    "strWidth": 336.765625
+                    "str": "미루가 실수했나?",
+                    "strWidth": 252.4375
                 }
             ]
         }

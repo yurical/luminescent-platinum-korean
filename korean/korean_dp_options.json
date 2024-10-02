@@ -10222,20 +10222,20 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
                     "patternID": 0,
-                    "eventID": 0,
+                    "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Experience",
-                    "strWidth": 150.9375
+                    "str": "경험치",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -10252,20 +10252,20 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
                     "patternID": 0,
-                    "eventID": 0,
+                    "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "HP",
-                    "strWidth": 46.96875
+                    "strWidth": 42.65625
                 }
             ]
         },
@@ -10282,20 +10282,20 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
                     "patternID": 0,
-                    "eventID": 0,
+                    "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Attack",
-                    "strWidth": 92.953125
+                    "str": "공격",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -10312,20 +10312,20 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
                     "patternID": 0,
-                    "eventID": 0,
+                    "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Defense",
-                    "strWidth": 115.546875
+                    "str": "방어",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -10342,20 +10342,20 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
                     "patternID": 0,
-                    "eventID": 0,
+                    "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Special Attack",
-                    "strWidth": 194.9375
+                    "str": "특수공격",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -10372,20 +10372,20 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
                     "patternID": 0,
-                    "eventID": 0,
+                    "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Special Defense",
-                    "strWidth": 217.53125
+                    "str": "특수방어",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -10402,20 +10402,20 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
                     "patternID": 0,
-                    "eventID": 0,
+                    "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Speed",
-                    "strWidth": 90.59375
+                    "str": "스피드",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -10432,20 +10432,20 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
                     "patternID": 0,
-                    "eventID": 0,
+                    "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Cancel",
-                    "strWidth": 97.5
+                    "str": "취소",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -10462,20 +10462,20 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
                     "patternID": 0,
-                    "eventID": 0,
+                    "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "High",
-                    "strWidth": 70.0625
+                    "str": "높음",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -10492,20 +10492,20 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
                     "patternID": 0,
-                    "eventID": 0,
+                    "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Medium",
-                    "strWidth": 113.8125
+                    "str": "보통",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -10522,20 +10522,20 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
                     "patternID": 0,
-                    "eventID": 0,
+                    "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Low",
-                    "strWidth": 60.609375
+                    "str": "낮음",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -10552,20 +10552,20 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
                     "patternID": 0,
-                    "eventID": 0,
+                    "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Lv. 25",
-                    "strWidth": 54.296875
+                    "str": "Lv.25",
+                    "strWidth": 83.1875
                 }
             ]
         },
@@ -10582,20 +10582,20 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
                     "patternID": 0,
-                    "eventID": 0,
+                    "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Lv. 35",
-                    "strWidth": 54.296875
+                    "str": "Lv.35",
+                    "strWidth": 83.1875
                 }
             ]
         },
@@ -10612,20 +10612,20 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
                     "patternID": 0,
-                    "eventID": 0,
+                    "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Lv. 45",
-                    "strWidth": 54.296875
+                    "str": "Lv.45",
+                    "strWidth": 83.1875
                 }
             ]
         },
@@ -10642,20 +10642,20 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
                     "patternID": 0,
-                    "eventID": 0,
+                    "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Lv. 55",
-                    "strWidth": 54.296875
+                    "str": "Lv.55",
+                    "strWidth": 83.1875
                 }
             ]
         },
@@ -10672,20 +10672,20 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
                     "patternID": 0,
-                    "eventID": 0,
+                    "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Lv. 65",
-                    "strWidth": 54.296875
+                    "str": "Lv.65",
+                    "strWidth": 83.1875
                 }
             ]
         },
@@ -10702,20 +10702,20 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
                     "patternID": 0,
-                    "eventID": 0,
+                    "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Lv. 75",
-                    "strWidth": 54.296875
+                    "str": "Lv.75",
+                    "strWidth": 83.1875
                 }
             ]
         },
@@ -10732,20 +10732,20 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
                     "patternID": 0,
-                    "eventID": 0,
+                    "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Lv. 85",
-                    "strWidth": 54.296875
+                    "str": "Lv.85",
+                    "strWidth": 83.1875
                 }
             ]
         },
@@ -10762,20 +10762,20 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
                     "patternID": 0,
-                    "eventID": 0,
+                    "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Water Stone",
-                    "strWidth": 171.15625
+                    "str": "물의돌",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -10792,20 +10792,20 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
                     "patternID": 0,
-                    "eventID": 0,
+                    "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Thunder Stone",
-                    "strWidth": 198.3125
+                    "str": "천둥의돌",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -10822,20 +10822,20 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
                     "patternID": 0,
-                    "eventID": 0,
+                    "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Fire Stone",
-                    "strWidth": 140.9375
+                    "str": "불꽃의돌",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -10852,20 +10852,20 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
                     "patternID": 0,
-                    "eventID": 0,
+                    "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Sun Stone",
-                    "strWidth": 138.15625
+                    "str": "태양의돌",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -10882,20 +10882,20 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
                     "patternID": 0,
-                    "eventID": 0,
+                    "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Moon Stone",
-                    "strWidth": 167.421875
+                    "str": "달의돌",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -10912,20 +10912,20 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
                     "patternID": 0,
-                    "eventID": 0,
+                    "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Leaf Stone",
-                    "strWidth": 147.546875
+                    "str": "리프의돌",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -10942,20 +10942,20 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
                     "patternID": 0,
-                    "eventID": 0,
+                    "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Ice Stone",
-                    "strWidth": 129.859375
+                    "str": "얼음의돌",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -10972,10 +10972,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -10984,8 +10984,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Fashion Catalogue",
-                    "strWidth": 106.921875
+                    "str": "패션 카탈로그",
+                    "strWidth": 202.65625
                 }
             ]
         },
@@ -11002,10 +11002,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -11014,8 +11014,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Clothing",
-                    "strWidth": 106.921875
+                    "str": "의상",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -11032,10 +11032,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -11044,8 +11044,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Settings",
-                    "strWidth": 106.921875
+                    "str": "설정",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -11062,10 +11062,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -11074,8 +11074,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "EXP Share (Off)",
-                    "strWidth": 106.921875
+                    "str": "학습장치 (꺼짐)",
+                    "strWidth": 226.34375
                 }
             ]
         },
@@ -11092,10 +11092,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -11104,8 +11104,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "EXP Share (On)",
-                    "strWidth": 106.921875
+                    "str": "학습장치 (켜짐)",
+                    "strWidth": 226.34375
                 }
             ]
         },
@@ -11122,10 +11122,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -11134,8 +11134,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Affection (Off)",
-                    "strWidth": 106.921875
+                    "str": "절친도 (꺼짐)",
+                    "strWidth": 194.34375
                 }
             ]
         },
@@ -11152,10 +11152,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -11164,8 +11164,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Affection (On)",
-                    "strWidth": 106.921875
+                    "str": "절친도 (켜짐)",
+                    "strWidth": 194.34375
                 }
             ]
         },
@@ -11182,10 +11182,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -11194,8 +11194,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Turtwig",
-                    "strWidth": 106.921875
+                    "str": "모부기",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -11212,10 +11212,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -11224,8 +11224,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Piplup",
-                    "strWidth": 106.921875
+                    "str": "팽도리",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -11242,10 +11242,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -11254,8 +11254,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Chimchar",
-                    "strWidth": 106.921875
+                    "str": "불꽃숭이",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -11272,10 +11272,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -11284,8 +11284,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Level Cap (Off)",
-                    "strWidth": 106.921875
+                    "str": "레벨 제한 (꺼짐)",
+                    "strWidth": 237.0
                 }
             ]
         },
@@ -11302,10 +11302,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -11314,8 +11314,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Level Cap (On)",
-                    "strWidth": 106.921875
+                    "str": "레벨 제한 (켜짐)",
+                    "strWidth": 237.0
                 }
             ]
         },
@@ -11332,10 +11332,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -11344,8 +11344,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Show new Abra",
-                    "strWidth": 199.03125
+                    "str": "새 캐이시 보기",
+                    "strWidth": 213.3125
                 }
             ]
         },
@@ -11362,10 +11362,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -11374,8 +11374,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Get mints",
-                    "strWidth": 125.484375
+                    "str": "민트 얻기",
+                    "strWidth": 138.65625
                 }
             ]
         },
@@ -11392,10 +11392,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -11404,8 +11404,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Hardy",
-                    "strWidth": 78.625
+                    "str": "노력",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -11422,10 +11422,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -11434,8 +11434,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Lonely",
-                    "strWidth": 85.828125
+                    "str": "외로움",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -11452,10 +11452,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -11464,8 +11464,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Brave",
-                    "strWidth": 72.3125
+                    "str": "용감",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -11482,10 +11482,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -11494,8 +11494,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Adamant",
-                    "strWidth": 116.34375
+                    "str": "고집",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -11512,10 +11512,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -11524,8 +11524,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Naughty",
-                    "strWidth": 108.6875
+                    "str": "개구쟁이",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -11542,10 +11542,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -11554,8 +11554,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Bold",
-                    "strWidth": 59.53125
+                    "str": "대담",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -11572,10 +11572,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -11584,8 +11584,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Docile",
-                    "strWidth": 84.578125
+                    "str": "온순",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -11602,10 +11602,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -11614,8 +11614,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Relaxed",
-                    "strWidth": 104.390625
+                    "str": "무사태평",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -11632,10 +11632,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -11644,8 +11644,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Impish",
-                    "strWidth": 83.0625
+                    "str": "장난꾸러기",
+                    "strWidth": 160.0
                 }
             ]
         },
@@ -11662,10 +11662,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -11674,8 +11674,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Lax",
-                    "strWidth": 44.734375
+                    "str": "촐랑",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -11692,10 +11692,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -11704,8 +11704,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Timid",
-                    "strWidth": 72.34375
+                    "str": "겁쟁이",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -11722,10 +11722,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -11734,8 +11734,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Hasty",
-                    "strWidth": 73.25
+                    "str": "성급",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -11752,10 +11752,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -11764,8 +11764,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Serious",
-                    "strWidth": 92.9375
+                    "str": "성실",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -11782,10 +11782,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -11794,8 +11794,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Jolly",
-                    "strWidth": 59.734375
+                    "str": "명랑",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -11812,10 +11812,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -11824,8 +11824,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Naive",
-                    "strWidth": 74.578125
+                    "str": "천진난만",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -11842,10 +11842,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -11854,8 +11854,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Modest",
-                    "strWidth": 97.953125
+                    "str": "조심",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -11872,10 +11872,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -11884,8 +11884,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Mild",
-                    "strWidth": 58.65625
+                    "str": "의젓",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -11902,10 +11902,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -11914,8 +11914,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Quiet",
-                    "strWidth": 73.59375
+                    "str": "냉정",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -11932,10 +11932,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -11944,8 +11944,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Bashful",
-                    "strWidth": 92.828125
+                    "str": "수줍음",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -11962,10 +11962,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -11974,8 +11974,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Rash",
-                    "strWidth": 60.015625
+                    "str": "덜렁",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -11992,10 +11992,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -12004,8 +12004,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Calm",
-                    "strWidth": 66.046875
+                    "str": "차분",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -12022,10 +12022,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -12034,8 +12034,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Gentle",
-                    "strWidth": 88.671875
+                    "str": "얌전",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -12052,10 +12052,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -12064,8 +12064,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Sassy",
-                    "strWidth": 68.15625
+                    "str": "건방",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -12082,10 +12082,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -12094,8 +12094,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Careful",
-                    "strWidth": 94.296875
+                    "str": "신중",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -12112,10 +12112,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -12124,8 +12124,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Quirky",
-                    "strWidth": 86.421875
+                    "str": "변덕",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -12142,10 +12142,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -12154,8 +12154,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "General",
-                    "strWidth": 103.578125
+                    "str": "일반",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -12172,10 +12172,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -12184,8 +12184,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "PokéDex",
-                    "strWidth": 116.765625
+                    "str": "포켓몬 도감",
+                    "strWidth": 170.65625
                 }
             ]
         },
@@ -12202,10 +12202,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -12214,8 +12214,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Quests",
-                    "strWidth": 89.015625
+                    "str": "퀘스트",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -12232,10 +12232,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -12244,8 +12244,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Nothing",
-                    "strWidth": 103.78125
+                    "str": "없음",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -12262,10 +12262,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -12274,8 +12274,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Toggle Box System",
-                    "strWidth": 246.765625
+                    "str": "박스 시스템 켜기/끄기",
+                    "strWidth": 325.3125
                 }
             ]
         },
@@ -12292,10 +12292,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -12304,8 +12304,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Bulbasaur",
-                    "strWidth": 125.265625
+                    "str": "이상해씨",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -12322,10 +12322,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -12334,8 +12334,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Squirtle",
-                    "strWidth": 99.375
+                    "str": "꼬부기",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -12352,10 +12352,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -12364,8 +12364,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Charmander",
-                    "strWidth": 157.28125
+                    "str": "파이리",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -12382,10 +12382,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -12394,8 +12394,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Cancel",
-                    "strWidth": 88.828125
+                    "str": "취소",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -12412,10 +12412,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -12424,8 +12424,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Lv. 100",
-                    "strWidth": 45.625
+                    "str": "Lv.100",
+                    "strWidth": 104.3125
                 }
             ]
         },
@@ -12442,10 +12442,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -12454,8 +12454,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Attack Mints",
-                    "strWidth": 163.6875
+                    "str": "공격 민트",
+                    "strWidth": 138.65625
                 }
             ]
         },
@@ -12472,10 +12472,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -12484,8 +12484,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Defense Mints",
-                    "strWidth": 186.28125
+                    "str": "방어 민트",
+                    "strWidth": 138.65625
                 }
             ]
         },
@@ -12502,10 +12502,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -12514,8 +12514,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Special Attack Mints",
-                    "strWidth": 265.671875
+                    "str": "특수공격 민트",
+                    "strWidth": 202.65625
                 }
             ]
         },
@@ -12532,10 +12532,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -12544,8 +12544,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Special Defense Mints",
-                    "strWidth": 288.265625
+                    "str": "특수방어 민트",
+                    "strWidth": 202.65625
                 }
             ]
         },
@@ -12562,10 +12562,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -12574,8 +12574,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Speed Mints",
-                    "strWidth": 161.328125
+                    "str": "스피드 민트",
+                    "strWidth": 170.65625
                 }
             ]
         },
@@ -12592,10 +12592,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -12604,8 +12604,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Neutral Mints",
-                    "strWidth": 175.359375
+                    "str": "일반 민트",
+                    "strWidth": 138.65625
                 }
             ]
         },
@@ -12622,10 +12622,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -12634,8 +12634,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Chikorita",
-                    "strWidth": 118.015625
+                    "str": "치코리타",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -12652,10 +12652,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -12664,8 +12664,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Totodile",
-                    "strWidth": 110.125
+                    "str": "리아코",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -12682,10 +12682,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -12694,8 +12694,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Cyndaquil",
-                    "strWidth": 131.03125
+                    "str": "브케인",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -12712,10 +12712,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -12724,8 +12724,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Treecko",
-                    "strWidth": 104.640625
+                    "str": "나무돌이",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -12742,10 +12742,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -12754,8 +12754,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Torchic",
-                    "strWidth": 95.03125
+                    "str": "아차모",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -12772,10 +12772,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -12784,8 +12784,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Mudkip",
-                    "strWidth": 98.515625
+                    "str": "물짱이",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -12802,10 +12802,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -12814,8 +12814,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Red",
-                    "strWidth": 50.875
+                    "str": "붉은 꿈",
+                    "strWidth": 106.65625
                 }
             ]
         },
@@ -12832,10 +12832,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -12844,8 +12844,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Blue",
-                    "strWidth": 56.640625
+                    "str": "푸른 꿈",
+                    "strWidth": 106.65625
                 }
             ]
         },
@@ -12862,10 +12862,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -12874,8 +12874,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Neither",
-                    "strWidth": 96.453125
+                    "str": "무채색의 꿈",
+                    "strWidth": 170.65625
                 }
             ]
         },
@@ -12892,10 +12892,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -12904,8 +12904,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Cancel",
-                    "strWidth": 88.828125
+                    "str": "취소",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -12922,10 +12922,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -12934,8 +12934,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Coal Badge",
-                    "strWidth": 151.203125
+                    "str": "콜배지",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -12952,10 +12952,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -12964,8 +12964,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Forest Badge",
-                    "strWidth": 171.21875
+                    "str": "포리스트배지",
+                    "strWidth": 192.0
                 }
             ]
         },
@@ -12982,10 +12982,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -12994,8 +12994,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Relic Badge",
-                    "strWidth": 153.65625
+                    "str": "레릭배지",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -13012,10 +13012,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -13024,8 +13024,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Cobble Badge",
-                    "strWidth": 186.375
+                    "str": "코블배지",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -13042,10 +13042,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -13054,8 +13054,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Fen Badge",
-                    "strWidth": 138.421875
+                    "str": "펜배지",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -13072,10 +13072,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -13084,8 +13084,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Mine Badge",
-                    "strWidth": 155.859375
+                    "str": "마인배지",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -13102,10 +13102,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -13114,8 +13114,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Icicle Badge",
-                    "strWidth": 158.375
+                    "str": "글레이셔배지",
+                    "strWidth": 192.0
                 }
             ]
         },
@@ -13132,10 +13132,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -13144,8 +13144,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Beacon Badge",
-                    "strWidth": 185.984375
+                    "str": "비컨배지",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -13162,10 +13162,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [
                 {
@@ -13185,8 +13185,8 @@
                     "eventID": 0,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Slot 1: ",
-                    "strWidth": 76.453125
+                    "str": "",
+                    "strWidth": 0.0
                 },
                 {
                     "patternID": 5,
@@ -13219,10 +13219,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [
                 {
@@ -13242,8 +13242,8 @@
                     "eventID": 0,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Slot 2: ",
-                    "strWidth": 76.453125
+                    "str": "",
+                    "strWidth": 0.0
                 },
                 {
                     "patternID": 5,
@@ -13276,10 +13276,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [
                 {
@@ -13299,8 +13299,8 @@
                     "eventID": 0,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Slot 3: ",
-                    "strWidth": 76.453125
+                    "str": "",
+                    "strWidth": 0.0
                 },
                 {
                     "patternID": 5,
@@ -13333,10 +13333,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [
                 {
@@ -13356,8 +13356,8 @@
                     "eventID": 0,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Slot 4: ",
-                    "strWidth": 76.453125
+                    "str": "",
+                    "strWidth": 0.0
                 },
                 {
                     "patternID": 5,
@@ -13390,10 +13390,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [
                 {
@@ -13413,8 +13413,8 @@
                     "eventID": 0,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Slot 5: ",
-                    "strWidth": 76.453125
+                    "str": "",
+                    "strWidth": 0.0
                 },
                 {
                     "patternID": 5,
@@ -13447,10 +13447,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [
                 {
@@ -13470,8 +13470,8 @@
                     "eventID": 0,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Slot 6: ",
-                    "strWidth": 76.453125
+                    "str": "",
+                    "strWidth": 0.0
                 },
                 {
                     "patternID": 5,
@@ -13504,10 +13504,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [
                 {
@@ -13527,8 +13527,8 @@
                     "eventID": 0,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Slot 1: ",
-                    "strWidth": 76.453125
+                    "str": "",
+                    "strWidth": 0.0
                 },
                 {
                     "patternID": 5,
@@ -13561,10 +13561,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [
                 {
@@ -13584,8 +13584,8 @@
                     "eventID": 0,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Slot 2: ",
-                    "strWidth": 76.453125
+                    "str": "",
+                    "strWidth": 0.0
                 },
                 {
                     "patternID": 5,
@@ -13618,10 +13618,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [
                 {
@@ -13641,8 +13641,8 @@
                     "eventID": 0,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Slot 3: ",
-                    "strWidth": 76.453125
+                    "str": "",
+                    "strWidth": 0.0
                 },
                 {
                     "patternID": 5,
@@ -13675,10 +13675,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [
                 {
@@ -13698,8 +13698,8 @@
                     "eventID": 0,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Slot 4: ",
-                    "strWidth": 76.453125
+                    "str": "",
+                    "strWidth": 0.0
                 },
                 {
                     "patternID": 5,
@@ -13732,10 +13732,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [
                 {
@@ -13755,8 +13755,8 @@
                     "eventID": 0,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Slot 5: ",
-                    "strWidth": 76.453125
+                    "str": "",
+                    "strWidth": 0.0
                 },
                 {
                     "patternID": 5,
@@ -13789,10 +13789,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [
                 {
@@ -13812,8 +13812,8 @@
                     "eventID": 0,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Slot 6: ",
-                    "strWidth": 76.453125
+                    "str": "",
+                    "strWidth": 0.0
                 },
                 {
                     "patternID": 5,
@@ -13846,10 +13846,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -13858,8 +13858,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "like the change of a season. (Unova)",
-                    "strWidth": 470.3125
+                    "str": "계절이 바뀌는 것 같은 향기 (하나)",
+                    "strWidth": 492.96875
                 }
             ]
         },
@@ -13876,10 +13876,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -13888,8 +13888,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "old, almost ancient. (Kalos)",
-                    "strWidth": 351.65625
+                    "str": "머나먼 옛날을 생각나게 하는 향기 (칼로스)",
+                    "strWidth": 620.96875
                 }
             ]
         },
@@ -13906,10 +13906,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -13918,8 +13918,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "tropical, infused with sunlight. (Alola)",
-                    "strWidth": 481.875
+                    "str": "햇살 가득한 열대 지방의 향기 (알로라)",
+                    "strWidth": 556.96875
                 }
             ]
         },
@@ -13936,10 +13936,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -13948,8 +13948,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "like lush, open fields. (Galar)",
-                    "strWidth": 372.625
+                    "str": "풀이 무성한 열린 들판의 향기 (가라르)",
+                    "strWidth": 556.96875
                 }
             ]
         },
@@ -13966,10 +13966,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -13978,8 +13978,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Shiny Stone",
-                    "strWidth": 151.46875
+                    "str": "색다른스톤",
+                    "strWidth": 160.0
                 }
             ]
         },
@@ -13996,10 +13996,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -14008,8 +14008,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Current Levelcap",
-                    "strWidth": 220.671875
+                    "str": "현재 레벨 제한",
+                    "strWidth": 213.3125
                 }
             ]
         },
@@ -14026,10 +14026,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -14038,8 +14038,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "General",
-                    "strWidth": 103.578125
+                    "str": "일반",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -14056,10 +14056,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -14068,8 +14068,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Quests",
-                    "strWidth": 89.015625
+                    "str": "퀘스트",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -14086,10 +14086,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -14098,8 +14098,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Battle",
-                    "strWidth": 76.453125
+                    "str": "배틀",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -14116,10 +14116,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -14128,8 +14128,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Nothing",
-                    "strWidth": 103.78125
+                    "str": "없음",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -14146,10 +14146,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -14158,8 +14158,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Lick it.",
-                    "strWidth": 85.578125
+                    "str": "핥는다",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -14176,10 +14176,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -14188,8 +14188,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "I’ll pass.",
-                    "strWidth": 104.78125
+                    "str": "안 할래요",
+                    "strWidth": 138.65625
                 }
             ]
         },
@@ -14206,10 +14206,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -14218,8 +14218,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Armored Mk. 1",
-                    "strWidth": 178.609375
+                    "str": "아머드 Mk. 1",
+                    "strWidth": 197.0625
                 }
             ]
         },
@@ -14236,10 +14236,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -14248,8 +14248,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Armored Mk. 2",
-                    "strWidth": 178.609375
+                    "str": "아머드 Mk. 2",
+                    "strWidth": 197.0625
                 }
             ]
         },
@@ -14266,10 +14266,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -14278,8 +14278,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Original Forme",
-                    "strWidth": 194.4375
+                    "str": "오리지널폼",
+                    "strWidth": 160.0
                 }
             ]
         }

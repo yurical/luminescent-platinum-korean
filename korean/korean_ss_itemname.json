@@ -12927,10 +12927,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -12939,8 +12939,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Rainbow Wing",
-                    "strWidth": 132.0625
+                    "str": "무지개날개",
+                    "strWidth": 160.0
                 }
             ]
         },
@@ -13707,10 +13707,10 @@
             },
             "attributeValueArray": [
                 -1,
-                2,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -13719,8 +13719,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Tea",
-                    "strWidth": 78.90625
+                    "str": "차",
+                    "strWidth": 32.0
                 }
             ]
         },
@@ -23889,8 +23889,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "은왕관",
-                    "strWidth": 96.0
+                    "str": "은색병뚜껑",
+                    "strWidth": 160.0
                 }
             ]
         },
@@ -23919,8 +23919,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "금왕관",
-                    "strWidth": 96.0
+                    "str": "금색병뚜껑",
+                    "strWidth": 160.0
                 }
             ]
         },
@@ -33957,10 +33957,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                1
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -33969,8 +33969,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "TM101",
-                    "strWidth": 66.71875762939453
+                    "str": "기술레코드101",
+                    "strWidth": 223.375
                 }
             ]
         },
@@ -33987,10 +33987,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                1
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -33999,8 +33999,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "TM102",
-                    "strWidth": 70.71875
+                    "str": "기술레코드102",
+                    "strWidth": 223.375
                 }
             ]
         },
@@ -34017,10 +34017,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                1
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -34029,8 +34029,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "TM103",
-                    "strWidth": 70.71875
+                    "str": "기술레코드103",
+                    "strWidth": 223.375
                 }
             ]
         },
@@ -34047,10 +34047,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                1
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -34059,8 +34059,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "TM104",
-                    "strWidth": 70.71875
+                    "str": "기술레코드104",
+                    "strWidth": 223.375
                 }
             ]
         },
@@ -51357,10 +51357,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -51369,8 +51369,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Exp. Share",
-                    "strWidth": 150.34375
+                    "str": "학습장치",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -51717,10 +51717,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -51729,8 +51729,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "GS Ball",
-                    "strWidth": 138.796875
+                    "str": "GS볼",
+                    "strWidth": 76.71875
                 }
             ]
         },
@@ -51747,10 +51747,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                2,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -51759,8 +51759,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Odd Invitation",
-                    "strWidth": 420.0
+                    "str": "괴상한초대장",
+                    "strWidth": 192.0
                 }
             ]
         },
@@ -51777,10 +51777,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                2,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -51789,8 +51789,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Everlasting Candy",
-                    "strWidth": 420.0
+                    "str": "영원한사탕",
+                    "strWidth": 160.0
                 }
             ]
         },
@@ -51807,10 +51807,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                2,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -51819,8 +51819,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Wind Badge",
-                    "strWidth": 420.0
+                    "str": "윈드배지",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -51837,10 +51837,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                2,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -51849,8 +51849,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Fang Badge",
-                    "strWidth": 420.0
+                    "str": "팽배지",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -51867,10 +51867,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                2,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -51879,8 +51879,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Acid Badge",
-                    "strWidth": 420.0
+                    "str": "애시드배지",
+                    "strWidth": 160.0
                 }
             ]
         },
@@ -51897,10 +51897,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                2,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -51909,8 +51909,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Shadow Badge",
-                    "strWidth": 420.0
+                    "str": "섀도배지",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -51927,10 +51927,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                2,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -51939,8 +51939,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "General Badge",
-                    "strWidth": 420.0
+                    "str": "제너럴배지",
+                    "strWidth": 160.0
                 }
             ]
         },
@@ -51957,10 +51957,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                2,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -51969,8 +51969,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Moon Badge",
-                    "strWidth": 420.0
+                    "str": "문배지",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -51987,10 +51987,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -51999,8 +51999,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Silver Wing",
-                    "strWidth": 140.828125
+                    "str": "은빛날개",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -52017,10 +52017,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -52029,8 +52029,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Incense Burner",
-                    "strWidth": 140.828125
+                    "str": "그라시데아향로",
+                    "strWidth": 224.0
                 }
             ]
         },
@@ -52047,10 +52047,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -52059,8 +52059,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Mewtwo Armor",
-                    "strWidth": 140.828125
+                    "str": "뮤츠갑옷",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -52077,10 +52077,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -52089,8 +52089,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Infinite Repel",
-                    "strWidth": 140.828125
+                    "str": "무한스프레이",
+                    "strWidth": 192.0
                 }
             ]
         },
@@ -52107,10 +52107,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -52119,8 +52119,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Old Mewtwo Armor",
-                    "strWidth": 140.828125
+                    "str": "뮤츠옛갑옷",
+                    "strWidth": 160.0
                 }
             ]
         }

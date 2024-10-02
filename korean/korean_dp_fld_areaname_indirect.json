@@ -1077,10 +1077,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -1089,8 +1089,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "at Renegade Park",
-                    "strWidth": 212.0625
+                    "str": "레니게이드파크",
+                    "strWidth": 224.0
                 }
             ]
         },
@@ -6567,10 +6567,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                1
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -6579,8 +6579,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "T.G. Eterna Bldg",
-                    "strWidth": 149.8125
+                    "str": "갤럭시단 영원시티 빌딩",
+                    "strWidth": 341.3125
                 }
             ]
         },
@@ -6597,10 +6597,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                1
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -6609,8 +6609,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "the Sinnoh Champion",
-                    "strWidth": 149.8125
+                    "str": "신오지방 챔피언",
+                    "strWidth": 234.65625
                 }
             ]
         },
@@ -6627,10 +6627,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                1
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -6639,8 +6639,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "a grateful Bachelor",
-                    "strWidth": 149.8125
+                    "str": "고마운 집사",
+                    "strWidth": 170.65625
                 }
             ]
         },
@@ -6657,10 +6657,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                1
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -6669,8 +6669,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "in the Lost Tower",
-                    "strWidth": 149.8125
+                    "str": "로스트타워",
+                    "strWidth": 160.0
                 }
             ]
         }

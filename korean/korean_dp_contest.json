@@ -11103,10 +11103,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [
                 {
@@ -11122,12 +11122,12 @@
             ],
             "wordDataArray": [
                 {
-                    "patternID": 0,
-                    "eventID": 0,
+                    "patternID": 7,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "So far, you’ve taken ",
-                    "strWidth": 268.375
+                    "str": "네가 쓴 턴은 모두",
+                    "strWidth": 255.96875
                 },
                 {
                     "patternID": 5,
@@ -11139,19 +11139,19 @@
                 },
                 {
                     "patternID": 7,
-                    "eventID": 1,
+                    "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": " turns.",
-                    "strWidth": 78.953125
+                    "str": "턴!",
+                    "strWidth": 40.90625
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Do you think you’re in good time?",
-                    "strWidth": 445.21875
+                    "str": "여유가 있다고 생각하나?",
+                    "strWidth": 359.09375
                 }
             ]
         },
@@ -11168,10 +11168,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [
                 {
@@ -11187,12 +11187,12 @@
             ],
             "wordDataArray": [
                 {
-                    "patternID": 0,
-                    "eventID": 0,
+                    "patternID": 7,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "You’ve had ",
-                    "strWidth": 156.28125
+                    "str": "이제 총 ",
+                    "strWidth": 117.3125
                 },
                 {
                     "patternID": 5,
@@ -11204,19 +11204,19 @@
                 },
                 {
                     "patternID": 7,
-                    "eventID": 1,
+                    "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": " turns.",
-                    "strWidth": 78.953125
+                    "str": "턴!",
+                    "strWidth": 40.90625
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Still think you can do it?",
-                    "strWidth": 314.15625
+                    "str": "아직도 할 수 있을 것 같아?",
+                    "strWidth": 391.0625
                 }
             ]
         },
@@ -11233,10 +11233,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [
                 {
@@ -11256,16 +11256,16 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "You beat all three of us!",
-                    "strWidth": 313.34375
+                    "str": "우리 셋을 모두 쓰러뜨리는 데",
+                    "strWidth": 426.625
                 },
                 {
                     "patternID": 0,
-                    "eventID": 0,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "It took you ",
-                    "strWidth": 150.734375
+                    "str": "사용한 턴은 총 ",
+                    "strWidth": 223.96875
                 },
                 {
                     "patternID": 5,
@@ -11280,8 +11280,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": " turns in all.",
-                    "strWidth": 150.34375
+                    "str": "턴!",
+                    "strWidth": 40.90625
                 }
             ]
         },
@@ -11298,44 +11298,44 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
                     "patternID": 7,
-                    "eventID": 3,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Oh, hey. Nice job, kiddo.",
-                    "strWidth": 329.078125
-                },
-                {
-                    "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "You met the requirement alright.",
-                    "strWidth": 423.171875
+                    "str": "정확히 6턴이라...",
+                    "strWidth": 249.5625
                 },
                 {
                     "patternID": 7,
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "But who said we have to keep promises!",
-                    "strWidth": 516.453125
+                    "str": "조건은 잘 맞췄어",
+                    "strWidth": 245.3125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 3,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "하지만 약속은 깨라고 있는 거라고!",
+                    "strWidth": 499.53125
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Fwahahaha...",
-                    "strWidth": 167.609375
+                    "str": "흐하하하...",
+                    "strWidth": 153.78125
                 }
             ]
         }

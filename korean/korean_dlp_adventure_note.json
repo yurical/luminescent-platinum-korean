@@ -357,10 +357,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -369,8 +369,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "New Features",
-                    "strWidth": 203.484375
+                    "str": "새로운 기능",
+                    "strWidth": 170.65625
                 }
             ]
         },
@@ -387,84 +387,76 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "추가 기능을 사용할 수 있는",
+                    "strWidth": 394.625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "새로운 PC 시스템이 추가되었습니다.",
+                    "strWidth": 531.8125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "■ 의상 변경",
+                    "strWidth": 159.96875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "■ 학습장치 켜기/끄기",
+                    "strWidth": 303.96875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "■ 절친도 켜기/끄기",
+                    "strWidth": 271.96875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "■ 레벨 제한 켜기/끄기",
+                    "strWidth": 314.625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "기능을 사용하려면 PC에서",
+                    "strWidth": 384.5625
+                },
+                {
                     "patternID": 0,
-                    "eventID": 0,
+                    "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "The new PC System ",
-                    "strWidth": 60.5
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "has extra features added that",
-                    "strWidth": 353.859375
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "will allow you to do the following:",
-                    "strWidth": 615.953125
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "■ Change your clothing. ",
-                    "strWidth": 455.90625
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "■ Toggle XP Share ON/OFF",
-                    "strWidth": 484.609375
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "■ Toggle Affection ON/OFF",
-                    "strWidth": 484.609375
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "■ Toggle Level Cap ON/OFF ",
-                    "strWidth": 261.546875
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "To change these toggles be sure to check ",
-                    "strWidth": 198.890625
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "out the Settings option within the PC.",
-                    "strWidth": 118.171875
+                    "str": "설정 옵션을 확인하세요.",
+                    "strWidth": 349.90625
                 }
             ]
         },
@@ -6085,10 +6077,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -6097,8 +6089,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Renegade Park",
-                    "strWidth": 178.046875
+                    "str": "레니게이드파크",
+                    "strWidth": 224.0
                 }
             ]
         },
@@ -6115,22 +6107,14 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Lying at the end of ",
-                    "strWidth": 254.765625
-                },
-                {
                     "patternID": 2,
                     "eventID": 0,
                     "tagIndex": -1,
@@ -6143,8 +6127,8 @@
                     "eventID": 0,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Route 221",
-                    "strWidth": 135.0
+                    "str": "221번도로",
+                    "strWidth": 159.375
                 },
                 {
                     "patternID": 2,
@@ -6159,8 +6143,8 @@
                     "eventID": 0,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": ", ",
-                    "strWidth": 17.5
+                    "str": " 끝에 있는 ",
+                    "strWidth": 159.96875
                 },
                 {
                     "patternID": 2,
@@ -6175,8 +6159,8 @@
                     "eventID": 0,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Renegade Park",
-                    "strWidth": 178.046875
+                    "str": "레니게이드파크",
+                    "strWidth": 224.0
                 },
                 {
                     "patternID": 2,
@@ -6191,40 +6175,48 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": " is",
-                    "strWidth": 27.796875
+                    "str": "에는",
+                    "strWidth": 64.0
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "visited by Trainers and Pokémon from all over.",
-                    "strWidth": 601.59375
+                    "str": "전국에서 트레이너와 포켓몬들이 찾아옵니다.",
+                    "strWidth": 648.5625
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "It is said that Renegade Park’s abundance of",
-                    "strWidth": 559.359375
+                    "str": "예나 지금이나",
+                    "strWidth": 202.65625
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "blooming roses attracts those with great strength,",
-                    "strWidth": 639.015625
+                    "str": "흐드러지게 피어 있는 해당화에는",
+                    "strWidth": 479.96875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "강한 자를 끌어당기는",
+                    "strWidth": 309.3125
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "as it has since the Sinnoh region’s bygone days.",
-                    "strWidth": 614.796875
+                    "str": "힘이 있다고 전해집니다.",
+                    "strWidth": 349.90625
                 }
             ]
         },
@@ -6241,52 +6233,20 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
-                    "patternID": 2,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "<color=#F01E1EFF>",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Mysterious Shards",
-                    "strWidth": 232.859375
-                },
-                {
-                    "patternID": 2,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "</color>",
-                    "strWidth": -1.0
-                },
-                {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": " that you dig up while in the",
-                    "strWidth": 364.21875
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Grand Underground can be traded for ",
-                    "strWidth": 504.59375
+                    "str": "지하대동굴에서 파낸",
+                    "strWidth": 298.65625
                 },
                 {
                     "patternID": 2,
@@ -6301,8 +6261,8 @@
                     "eventID": 0,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "slates",
-                    "strWidth": 72.125
+                    "str": "수수께끼의조각",
+                    "strWidth": 224.0
                 },
                 {
                     "patternID": 2,
@@ -6317,24 +6277,8 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": ".",
-                    "strWidth": 7.90625
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "You can then use these slates in various rooms",
-                    "strWidth": 599.984375
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "at ",
-                    "strWidth": 34.015625
+                    "str": "을 가져가면",
+                    "strWidth": 170.65625
                 },
                 {
                     "patternID": 2,
@@ -6349,8 +6293,8 @@
                     "eventID": 0,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Renegade Park",
-                    "strWidth": 178.046875
+                    "str": "석판",
+                    "strWidth": 64.0
                 },
                 {
                     "patternID": 2,
@@ -6359,14 +6303,86 @@
                     "tagValue": 0.0,
                     "str": "</color>",
                     "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "으로 교환할 수 있습니다.",
+                    "strWidth": 360.5625
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#F01E1EFF>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "석판",
+                    "strWidth": 64.0
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "</color>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "은 ",
+                    "strWidth": 42.65625
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#F01E1EFF>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "레니게이드파크",
+                    "strWidth": 224.0
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "</color>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": " 여기저기에 있는 방에서",
+                    "strWidth": 351.96875
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": ".",
-                    "strWidth": 7.90625
+                    "str": "사용할 수 있습니다.",
+                    "strWidth": 285.90625
                 }
             ]
         },
@@ -6383,20 +6399,28 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "각각의 방에는 대좌가 놓여 있으며",
+                    "strWidth": 490.625
+                },
+                {
                     "patternID": 0,
                     "eventID": 0,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Each room at ",
-                    "strWidth": 178.71875
+                    "str": "대좌에 맞는 ",
+                    "strWidth": 181.3125
                 },
                 {
                     "patternID": 2,
@@ -6411,40 +6435,8 @@
                     "eventID": 0,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Renegade Park ",
-                    "strWidth": 186.71875
-                },
-                {
-                    "patternID": 2,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "</color>",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "holds a ",
-                    "strWidth": 101.953125
-                },
-                {
-                    "patternID": 2,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "<color=#F01E1EFF>",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "pedestal",
-                    "strWidth": 111.109375
+                    "str": "석판",
+                    "strWidth": 64.0
                 },
                 {
                     "patternID": 2,
@@ -6459,96 +6451,32 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": ".",
-                    "strWidth": 7.90625
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "If you use the ",
-                    "strWidth": 184.609375
-                },
-                {
-                    "patternID": 2,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "<color=#F01E1EFF>",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "slate ",
-                    "strWidth": 69.28125
-                },
-                {
-                    "patternID": 2,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "</color>",
-                    "strWidth": -1.0
+                    "str": "을 사용하면",
+                    "strWidth": 170.65625
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "that matches a given pedestal,",
-                    "strWidth": 395.390625
+                    "str": "다른 공간으로 전송됩니다.",
+                    "strWidth": 381.90625
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "you may find yourself in a mysterious new space.",
-                    "strWidth": 628.78125
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "In these spaces, you can encounter",
-                    "strWidth": 452.15625
-                },
-                {
-                    "patternID": 2,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "<color=#F01E1EFF>",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Legendary Pokémon",
-                    "strWidth": 263.625
-                },
-                {
-                    "patternID": 2,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "</color>",
-                    "strWidth": -1.0
+                    "str": "그곳에서는 전설의 포켓몬을",
+                    "strWidth": 405.3125
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "!",
-                    "strWidth": 7.265625
+                    "str": "만날 수 있습니다!",
+                    "strWidth": 254.21875
                 }
             ]
         },
@@ -8598,10 +8526,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -8610,8 +8538,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Incense Burner",
-                    "strWidth": 189.375
+                    "str": "그라시데아향로",
+                    "strWidth": 224.0
                 }
             ]
         },
@@ -8628,52 +8556,140 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#F01E1EFF>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "그라시데아향로",
+                    "strWidth": 224.0
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "</color>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "를 켜면 ",
+                    "strWidth": 117.3125
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#F01E1EFF>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "리전폼 포켓몬",
+                    "strWidth": 202.65625
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "</color>",
+                    "strWidth": -1.0
+                },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "This toggleable item allows you to encounter extra",
-                    "strWidth": 657.078125
+                    "str": "을 만날 수",
+                    "strWidth": 149.3125
                 },
                 {
                     "patternID": 7,
-                    "eventID": 3,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "<color=#F01E1EFF>Regional Pokemon</color>!",
-                    "strWidth": 521.078125
+                    "str": "있습니다. 꽃 선택은 이전 세대 지방 포켓몬을",
+                    "strWidth": 648.53125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "야생에서 볼 수 있는 ",
+                    "strWidth": 298.625
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#F01E1EFF>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "3.0 버전",
+                    "strWidth": 125.5
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "</color>",
+                    "strWidth": -1.0
                 },
                 {
                     "patternID": 7,
-                    "eventID": 3,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Choosing a flower is for Luminescent 3.0 when",
-                    "strWidth": 567.203125
+                    "str": "부터 가능합니다.",
+                    "strWidth": 243.25
                 },
                 {
                     "patternID": 7,
-                    "eventID": 3,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "all previous regions will be available in the wild.",
-                    "strWidth": 620.453125
+                    "str": "더 자세한 정보는 luminescent.team 에서",
+                    "strWidth": 614.0625
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "See luminescent.team for more details.",
-                    "strWidth": 501.796875
+                    "str": "볼 수 있습니다.",
+                    "strWidth": 221.90625
                 }
             ]
         },
@@ -8690,100 +8706,236 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#F01E1EFF>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "그라시데아향로",
+                    "strWidth": 224.0
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "</color>",
+                    "strWidth": -1.0
+                },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "This toggleable item allows you to encounter extra",
-                    "strWidth": 657.078125
+                    "str": "를 켜면",
+                    "strWidth": 106.65625
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#F01E1EFF>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "리전폼 포켓몬",
+                    "strWidth": 202.65625
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "</color>",
+                    "strWidth": -1.0
                 },
                 {
                     "patternID": 7,
-                    "eventID": 3,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "<color=#F01E1EFF>Regional Pokemon</color>!",
-                    "strWidth": 521.078125
+                    "str": "을",
+                    "strWidth": 32.0
                 },
                 {
                     "patternID": 7,
-                    "eventID": 3,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Choosing a flower is for Luminescent 3.0 when all",
-                    "strWidth": 606.734375
+                    "str": "만날 수 있습니다.",
+                    "strWidth": 253.90625
                 },
                 {
                     "patternID": 7,
-                    "eventID": 3,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "previous regions will be available in the wild.",
-                    "strWidth": 580.921875
+                    "str": "꽃 선택은",
+                    "strWidth": 138.65625
                 },
                 {
                     "patternID": 7,
-                    "eventID": 3,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "In the current build, all flowers lead to the same",
-                    "strWidth": 621.515625
+                    "str": "이전 세대 지방 포켓몬을",
+                    "strWidth": 351.96875
                 },
                 {
                     "patternID": 7,
-                    "eventID": 3,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "encounters. \"Regional\" Pokémon include anything",
-                    "strWidth": 637.8125
+                    "str": "야생에서 볼 수 있는",
+                    "strWidth": 287.96875
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#F01E1EFF>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "루미니센트 플래티넘 3.0",
+                    "strWidth": 360.15625
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "</color>",
+                    "strWidth": -1.0
                 },
                 {
                     "patternID": 7,
-                    "eventID": 3,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "up to gen 4 that has regionals, or regional",
-                    "strWidth": 528.125
+                    "str": "부터 가능합니다.",
+                    "strWidth": 243.25
                 },
                 {
                     "patternID": 7,
-                    "eventID": 3,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "evolutions (Braviary is not in gen 4, so there is no",
-                    "strWidth": 624.90625
+                    "str": "현재 버전에서는 꽃을 바꿔도",
+                    "strWidth": 415.96875
                 },
                 {
                     "patternID": 7,
-                    "eventID": 3,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Braviary or Hisuian Braviary).",
-                    "strWidth": 375.53125
+                    "str": "만날 수 있는 포켓몬이",
+                    "strWidth": 319.96875
                 },
                 {
                     "patternID": 7,
-                    "eventID": 3,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "More information can be found on",
-                    "strWidth": 446.4375
+                    "str": "바뀌지 않습니다.",
+                    "strWidth": 243.25
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "“리전폼 포켓몬”은",
+                    "strWidth": 261.40625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "4세대까지 등장한 포켓몬 중",
+                    "strWidth": 405.09375
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "리전폼 또는 리전폼 진화를",
+                    "strWidth": 383.96875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "가진 포켓몬을 말합니다.",
+                    "strWidth": 349.90625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "워글은 4세대에 등장하지 않으므로",
+                    "strWidth": 501.09375
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "워글과 히스이 워글은",
+                    "strWidth": 309.3125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "등장하지 않습니다.",
+                    "strWidth": 275.25
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "luminescent.team 에서",
+                    "strWidth": 358.09375
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "https://luminescent.team/.",
-                    "strWidth": 331.265625
+                    "str": "더 자세한 정보를 볼 수 있습니다.",
+                    "strWidth": 477.875
                 }
             ]
         },
@@ -8800,10 +8952,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -8812,8 +8964,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Move Reminder",
-                    "strWidth": 204.265625
+                    "str": "기술 떠올리기",
+                    "strWidth": 202.65625
                 }
             ]
         },
@@ -8830,52 +8982,116 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
-                    "patternID": 7,
-                    "eventID": 3,
+                    "patternID": 0,
+                    "eventID": 0,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "The <color=#F01E1EFF>Move Reminder</color> is now in your party menu!",
-                    "strWidth": 609.0
+                    "str": "이제 ",
+                    "strWidth": 74.65625
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#F01E1EFF>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "기술 떠올리기",
+                    "strWidth": 202.65625
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "</color>",
+                    "strWidth": -1.0
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "It only appears if the Pokémon has five or more",
-                    "strWidth": 614.375
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 3,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "moves in its memory, and includes TMs you own.",
-                    "strWidth": 630.203125
+                    "str": "를 파티 메뉴에서 사용할 수",
+                    "strWidth": 394.625
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "(Wonder what the <color=#F01E1EFF>old Reminder</color> is doing now,",
-                    "strWidth": 599.28125
+                    "str": "있습니다! 떠올릴 기술이 5개 이상인 포켓몬만",
+                    "strWidth": 659.3125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "사용할 수 있으며 가방에 있는 기술머신의",
+                    "strWidth": 597.28125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "기술도 배울 수 있습니다.",
+                    "strWidth": 360.5625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "그럼... ",
+                    "strWidth": 100.4375
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#F01E1EFF>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "기술마니아",
+                    "strWidth": 160.0
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "</color>",
+                    "strWidth": -1.0
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "then?)",
-                    "strWidth": 84.671875
+                    "str": "는 어디로...?",
+                    "strWidth": 182.21875
                 }
             ]
         },
@@ -8892,76 +9108,188 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
-                    "patternID": 7,
-                    "eventID": 3,
+                    "patternID": 0,
+                    "eventID": 0,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "The <color=#F01E1EFF>Move Reminder</color> is now in your party menu!",
-                    "strWidth": 609.0
+                    "str": "이제 ",
+                    "strWidth": 74.65625
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#F01E1EFF>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "기술 떠올리기",
+                    "strWidth": 202.65625
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "</color>",
+                    "strWidth": -1.0
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "It only appears if the Pokémon can know more",
-                    "strWidth": 601.265625
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 4,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "than four moves, and the selection includes any",
-                    "strWidth": 615.46875
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 3,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "TMs in your inventory.",
-                    "strWidth": 288.546875
+                    "str": "를",
+                    "strWidth": 32.0
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Deleting moves entirely must still be done in",
-                    "strWidth": 577.359375
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 3,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Canalave City.",
-                    "strWidth": 188.40625
+                    "str": "파티 메뉴에서 사용할 수 있습니다!",
+                    "strWidth": 499.53125
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "(If the Move Reminder is here... wonder what the",
-                    "strWidth": 635.546875
+                    "str": "떠올릴 기술이 5개 이상인 포켓몬만",
+                    "strWidth": 511.75
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "사용할 수 있으며",
+                    "strWidth": 245.3125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "가방에 있는 기술머신의",
+                    "strWidth": 341.3125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "기술도 배울 수 있습니다.",
+                    "strWidth": 360.5625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "그러나 기술지우기는 여전히",
+                    "strWidth": 405.3125
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#F01E1EFF>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "운하시티",
+                    "strWidth": 128.0
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "</color>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "에서만",
+                    "strWidth": 96.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "할 수 있습니다.",
+                    "strWidth": 221.90625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "그렇다면... ",
+                    "strWidth": 164.4375
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#F01E1EFF>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "기술마니아",
+                    "strWidth": 160.0
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "</color>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "는 지금",
+                    "strWidth": 106.65625
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "<color=#F01E1EFF>old Reminder's</color> up to?)",
-                    "strWidth": 298.515625
+                    "str": "뭘 하고 있을까요?",
+                    "strWidth": 263.09375
                 }
             ]
         },
@@ -8978,10 +9306,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -8990,8 +9318,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Nicknames",
-                    "strWidth": 139.078125
+                    "str": "이름",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -9008,44 +9336,84 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "포켓몬의 ",
+                    "strWidth": 138.65625
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#F01E1EFF>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "이름",
+                    "strWidth": 64.0
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "</color>",
+                    "strWidth": -1.0
+                },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "You can change your Pokémon’s <color=#F01E1EFF>Nickname</color> at any",
-                    "strWidth": 639.046875
+                    "str": "을",
+                    "strWidth": 32.0
                 },
                 {
                     "patternID": 7,
-                    "eventID": 3,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "time from the party menu!",
-                    "strWidth": 335.65625
+                    "str": "파티 메뉴에서 언제든",
+                    "strWidth": 309.3125
                 },
                 {
                     "patternID": 7,
-                    "eventID": 3,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "If the option is not there, you may have a bad",
-                    "strWidth": 594.765625
+                    "str": "바꿀 수 있습니다.",
+                    "strWidth": 253.90625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "이름 바꾸기 옵션이 없다면",
+                    "strWidth": 383.96875
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "install.",
-                    "strWidth": 83.515625
+                    "str": "모드가 잘못 설치된 상태입니다.",
+                    "strWidth": 456.5625
                 }
             ]
         },
@@ -9062,60 +9430,100 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "포켓몬의 ",
+                    "strWidth": 138.65625
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#F01E1EFF>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "이름",
+                    "strWidth": 64.0
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "</color>",
+                    "strWidth": -1.0
+                },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "You can change your Pokémon’s <color=#F01E1EFF>Nickname</color> at any",
-                    "strWidth": 639.046875
+                    "str": "을",
+                    "strWidth": 32.0
                 },
                 {
                     "patternID": 7,
-                    "eventID": 3,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "time from the party menu!",
-                    "strWidth": 335.65625
+                    "str": "파티 메뉴에서 언제든",
+                    "strWidth": 309.3125
                 },
                 {
                     "patternID": 7,
-                    "eventID": 3,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": 0.0
+                    "str": "바꿀 수 있습니다.",
+                    "strWidth": 253.90625
                 },
                 {
                     "patternID": 7,
-                    "eventID": 3,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "If the option is not there, you may have a bad",
-                    "strWidth": 594.765625
+                    "str": "이름 바꾸기 옵션이 없다면",
+                    "strWidth": 383.96875
                 },
                 {
                     "patternID": 7,
-                    "eventID": 3,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "install. See https://luminescent.team/ for",
-                    "strWidth": 516.859375
+                    "str": "모드가 잘못 설치된 상태입니다.",
+                    "strWidth": 456.5625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "luminescent.team 에서",
+                    "strWidth": 358.09375
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "instructions.",
-                    "strWidth": 153.75
+                    "str": "더 자세한 정보를 볼 수 있습니다.",
+                    "strWidth": 477.875
                 }
             ]
         },
@@ -9132,10 +9540,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -9144,8 +9552,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "IV Judge",
-                    "strWidth": 114.71875
+                    "str": "능력 심판",
+                    "strWidth": 138.65625
                 }
             ]
         },
@@ -9162,44 +9570,116 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "포켓몬의 ",
+                    "strWidth": 138.65625
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#F01E1EFF>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "능력",
+                    "strWidth": 64.0
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "</color>",
+                    "strWidth": -1.0
+                },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "You may see your Pokémon’s <color=#F01E1EFF>IVs</color> at any time",
-                    "strWidth": 580.90625
+                    "str": "을",
+                    "strWidth": 32.0
                 },
                 {
                     "patternID": 7,
-                    "eventID": 3,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "from the PC! Hit + to see the numerical values.",
-                    "strWidth": 595.59375
+                    "str": "PC 메뉴에서 언제든 확인할 수 있습니다.",
+                    "strWidth": 585.125
                 },
                 {
                     "patternID": 7,
-                    "eventID": 3,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "This works from the \"PC Anywhere\" feature",
-                    "strWidth": 550.921875
+                    "str": "+ 버튼을 누르면 숫자로도 볼 수 있습니다.",
+                    "strWidth": 608.8125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "또한 파티 메뉴의 ",
+                    "strWidth": 255.96875
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#F01E1EFF>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "어디서든PC",
+                    "strWidth": 171.25
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "</color>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "에서도",
+                    "strWidth": 96.0
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "via the party menu, too.",
-                    "strWidth": 310.828125
+                    "str": "심판을 사용할 수 있습니다.",
+                    "strWidth": 392.5625
                 }
             ]
         },
@@ -9216,76 +9696,156 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "포켓몬의 ",
+                    "strWidth": 138.65625
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#F01E1EFF>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "능력",
+                    "strWidth": 64.0
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "</color>",
+                    "strWidth": -1.0
+                },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "You may see your Pokémon’s <color=#F01E1EFF>IVs</color> at any time from",
-                    "strWidth": 648.875
+                    "str": "을",
+                    "strWidth": 32.0
                 },
                 {
                     "patternID": 7,
-                    "eventID": 3,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "the PC! Hit + to see the numerical values.",
-                    "strWidth": 527.625
+                    "str": "PC 메뉴에서 언제든",
+                    "strWidth": 288.5625
                 },
                 {
                     "patternID": 7,
-                    "eventID": 3,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": 0.0
+                    "str": "확인할 수 있습니다",
+                    "strWidth": 277.3125
                 },
                 {
                     "patternID": 7,
-                    "eventID": 3,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "This works from the \"PC Anywhere\" feature via",
-                    "strWidth": 596.578125
+                    "str": "+ 버튼을 누르면",
+                    "strWidth": 237.59375
                 },
                 {
                     "patternID": 7,
-                    "eventID": 3,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "the party menu, too.",
-                    "strWidth": 265.171875
+                    "str": "숫자로도 볼 수 있습니다.",
+                    "strWidth": 360.5625
                 },
                 {
                     "patternID": 7,
-                    "eventID": 3,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": 0.0
+                    "str": "또한 파티 메뉴의",
+                    "strWidth": 245.3125
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#F01E1EFF>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "어디서든PC",
+                    "strWidth": 171.25
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "</color>",
+                    "strWidth": -1.0
                 },
                 {
                     "patternID": 7,
-                    "eventID": 3,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Note that stats listed as \"Hyper Trained\" do not",
-                    "strWidth": 612.921875
+                    "str": "에서도",
+                    "strWidth": 96.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "심판을 사용할 수 있습니다.",
+                    "strWidth": 392.5625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "“대단한 특훈”으로 올린 능력치는",
+                    "strWidth": 474.71875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "교배 시 유전되지 않는다는 점을",
+                    "strWidth": 458.625
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "pass down when breeding.",
-                    "strWidth": 341.765625
+                    "str": "꼭 기억하세요!",
+                    "strWidth": 211.5625
                 }
             ]
         },
@@ -9302,10 +9862,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -9314,8 +9874,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Everlasting Candy",
-                    "strWidth": 231.015625
+                    "str": "영원한사탕",
+                    "strWidth": 160.0
                 }
             ]
         },
@@ -9332,52 +9892,108 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "이 ",
+                    "strWidth": 42.65625
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#F01E1EFF>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "영원한사탕",
+                    "strWidth": 160.0
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "</color>",
+                    "strWidth": -1.0
+                },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "These <color=#F01E1EFF>infinite Rare Candies</color>",
-                    "strWidth": 626.25
+                    "str": "만 있으면",
+                    "strWidth": 138.65625
                 },
                 {
                     "patternID": 7,
-                    "eventID": 3,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "will take you as far as you want to go,",
-                    "strWidth": 489.828125
+                    "str": "지루한 반복 작업 없이도",
+                    "strWidth": 351.96875
                 },
                 {
                     "patternID": 7,
-                    "eventID": 3,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "no grinding needed!",
-                    "strWidth": 261.078125
+                    "str": "원하는 수준에 다다를 수 있습니다.",
+                    "strWidth": 499.21875
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#F01E1EFF>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "레벨 제한",
+                    "strWidth": 138.65625
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "</color>",
+                    "strWidth": -1.0
                 },
                 {
                     "patternID": 7,
-                    "eventID": 3,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "If you have the <color=#F01E1EFF>Level Cap</color> feature turned on,",
-                    "strWidth": 576.671875
+                    "str": " 기능을 사용 중일 때는",
+                    "strWidth": 330.625
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "it will not take you over that cap.",
-                    "strWidth": 429.59375
+                    "str": "설정한 제한을 넘을 수 없습니다.",
+                    "strWidth": 467.21875
                 }
             ]
         },
@@ -9394,68 +10010,132 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "이 ",
+                    "strWidth": 42.65625
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#F01E1EFF>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "영원한사탕",
+                    "strWidth": 160.0
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "</color>",
+                    "strWidth": -1.0
+                },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "These <color=#F01E1EFF>infinite Rare Candies</color>",
-                    "strWidth": 626.25
+                    "str": "만 있으면",
+                    "strWidth": 138.65625
                 },
                 {
                     "patternID": 7,
-                    "eventID": 3,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "will take you as far as you want to go,",
-                    "strWidth": 489.828125
+                    "str": "지루한 반복 작업 없이도",
+                    "strWidth": 351.96875
                 },
                 {
                     "patternID": 7,
-                    "eventID": 3,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "no grinding necesary!",
-                    "strWidth": 275.34375
+                    "str": "원하는 수준에 다다를 수 있습니다.",
+                    "strWidth": 499.21875
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#F01E1EFF>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "레벨 제한",
+                    "strWidth": 138.65625
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "</color>",
+                    "strWidth": -1.0
                 },
                 {
                     "patternID": 7,
-                    "eventID": 3,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "If you have the <color=#F01E1EFF>Level Cap</color> feature turned on, it",
-                    "strWidth": 603.0
+                    "str": "기능을",
+                    "strWidth": 96.0
                 },
                 {
                     "patternID": 7,
-                    "eventID": 3,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "will not take you over that cap.",
-                    "strWidth": 403.265625
+                    "str": "사용 중일 때는",
+                    "strWidth": 213.3125
                 },
                 {
                     "patternID": 7,
-                    "eventID": 3,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "However, Rare Candies will break the cap if you",
-                    "strWidth": 623.453125
+                    "str": "설정한 제한을 넘을 수 없습니다.",
+                    "strWidth": 467.21875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "제한을 넘고 싶을 때는",
+                    "strWidth": 319.96875
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "need that extra boost.",
-                    "strWidth": 288.25
+                    "str": "일반 이상한사탕을 사용하세요.",
+                    "strWidth": 445.90625
                 }
             ]
         },
@@ -9472,10 +10152,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -9484,8 +10164,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Badge Tutors",
-                    "strWidth": 171.796875
+                    "str": "배지 기술",
+                    "strWidth": 138.65625
                 }
             ]
         },
@@ -9502,10 +10182,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -9514,24 +10194,56 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "For every badge you earn, these lovely fellows will",
-                    "strWidth": 655.796875
+                    "str": "새 배지를 얻을 때마다",
+                    "strWidth": 319.96875
                 },
                 {
                     "patternID": 7,
-                    "eventID": 4,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "unlock <color=#F01E1EFF>a new set of moves</color> for your Pokémon to",
-                    "strWidth": 615.671875
+                    "str": "포켓몬이 배울 수 있는",
+                    "strWidth": 319.96875
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#F01E1EFF>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "새로운 기술",
+                    "strWidth": 170.65625
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "</color>",
+                    "strWidth": -1.0
                 },
                 {
                     "patternID": 7,
-                    "eventID": 3,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "learn. Make sure to check back often!",
-                    "strWidth": 487.5625
+                    "str": "이 생깁니다.",
+                    "strWidth": 179.25
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "자주 확인해 보세요!",
+                    "strWidth": 286.21875
                 }
             ]
         },
@@ -9548,10 +10260,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -9560,48 +10272,88 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "For every badge you earn, these lovely fellows will",
-                    "strWidth": 655.796875
+                    "str": "새 배지를 얻을 때마다",
+                    "strWidth": 319.96875
                 },
                 {
                     "patternID": 7,
-                    "eventID": 4,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "unlock <color=#F01E1EFF>a new set of moves</color> for your Pokémon to",
-                    "strWidth": 615.671875
+                    "str": "포켓몬이 배울 수 있는",
+                    "strWidth": 319.96875
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#F01E1EFF>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "새로운 기술",
+                    "strWidth": 170.65625
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "</color>",
+                    "strWidth": -1.0
                 },
                 {
                     "patternID": 7,
-                    "eventID": 3,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "learn. Make sure to check back often!",
-                    "strWidth": 487.5625
+                    "str": "이 생깁니다.",
+                    "strWidth": 179.25
                 },
                 {
                     "patternID": 7,
-                    "eventID": 3,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": 0.0
+                    "str": "자주 확인해 보세요!",
+                    "strWidth": 286.21875
                 },
                 {
                     "patternID": 7,
-                    "eventID": 3,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "For a full list of moves per badge unlocked, please",
-                    "strWidth": 658.109375
+                    "str": "각 배지별로 잠금이 해제되는",
+                    "strWidth": 415.96875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "새로운 기술 목록은",
+                    "strWidth": 277.3125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "luminescent.team/docs/npc 에서",
+                    "strWidth": 526.09375
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "see https://luminescent.team/docs/npc!",
-                    "strWidth": 498.109375
+                    "str": "확인할 수 있습니다.",
+                    "strWidth": 285.90625
                 }
             ]
         },
@@ -9618,10 +10370,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -9631,7 +10383,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Placeholder Title.",
-                    "strWidth": 227.8125
+                    "strWidth": 279.1875
                 }
             ]
         },
@@ -9648,10 +10400,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -9661,7 +10413,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Placeholder Message.",
-                    "strWidth": 281.71875
+                    "strWidth": 351.21875
                 }
             ]
         },
@@ -9678,10 +10430,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -9691,7 +10443,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Placeholder Message.",
-                    "strWidth": 281.71875
+                    "strWidth": 351.21875
                 }
             ]
         },
@@ -9708,10 +10460,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -9721,7 +10473,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Placeholder Title.",
-                    "strWidth": 227.8125
+                    "strWidth": 279.1875
                 }
             ]
         },
@@ -9738,10 +10490,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -9751,7 +10503,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Placeholder Message.",
-                    "strWidth": 281.71875
+                    "strWidth": 351.21875
                 }
             ]
         },
@@ -9768,10 +10520,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -9781,7 +10533,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Placeholder Message.",
-                    "strWidth": 281.71875
+                    "strWidth": 351.21875
                 }
             ]
         },
@@ -9798,10 +10550,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -9811,7 +10563,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Placeholder Title.",
-                    "strWidth": 227.8125
+                    "strWidth": 279.1875
                 }
             ]
         },
@@ -9828,10 +10580,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -9841,7 +10593,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Placeholder Message.",
-                    "strWidth": 281.71875
+                    "strWidth": 351.21875
                 }
             ]
         },
@@ -9858,10 +10610,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -9871,7 +10623,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Placeholder Message.",
-                    "strWidth": 281.71875
+                    "strWidth": 351.21875
                 }
             ]
         },
@@ -9888,10 +10640,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -9901,7 +10653,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Placeholder Title.",
-                    "strWidth": 227.8125
+                    "strWidth": 279.1875
                 }
             ]
         },
@@ -9918,10 +10670,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -9931,7 +10683,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Placeholder Message.",
-                    "strWidth": 281.71875
+                    "strWidth": 351.21875
                 }
             ]
         },
@@ -9948,10 +10700,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -9961,7 +10713,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Placeholder Message.",
-                    "strWidth": 281.71875
+                    "strWidth": 351.21875
                 }
             ]
         },
@@ -9978,10 +10730,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -9991,7 +10743,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Placeholder Title.",
-                    "strWidth": 281.71875
+                    "strWidth": 279.1875
                 }
             ]
         },
@@ -10008,10 +10760,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -10021,7 +10773,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Placeholder Message.",
-                    "strWidth": 281.71875
+                    "strWidth": 351.21875
                 }
             ]
         },
@@ -10038,10 +10790,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -10051,7 +10803,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Placeholder Message.",
-                    "strWidth": 281.71875
+                    "strWidth": 351.21875
                 }
             ]
         },
@@ -10068,10 +10820,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -10081,7 +10833,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Placeholder Title.",
-                    "strWidth": 281.71875
+                    "strWidth": 279.1875
                 }
             ]
         },
@@ -10098,10 +10850,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -10111,7 +10863,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Placeholder Message.",
-                    "strWidth": 281.71875
+                    "strWidth": 351.21875
                 }
             ]
         },
@@ -10128,10 +10880,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -10141,7 +10893,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Placeholder Message.",
-                    "strWidth": 281.71875
+                    "strWidth": 351.21875
                 }
             ]
         },
@@ -10158,10 +10910,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -10171,7 +10923,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Placeholder Title.",
-                    "strWidth": 281.71875
+                    "strWidth": 279.1875
                 }
             ]
         },
@@ -10188,10 +10940,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -10201,7 +10953,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Placeholder Message.",
-                    "strWidth": 281.71875
+                    "strWidth": 351.21875
                 }
             ]
         },
@@ -10218,10 +10970,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -10231,7 +10983,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Placeholder Message.",
-                    "strWidth": 281.71875
+                    "strWidth": 351.21875
                 }
             ]
         }

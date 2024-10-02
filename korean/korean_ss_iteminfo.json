@@ -9859,10 +9859,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -9871,24 +9871,24 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "This item, when held by a Pokémon, ",
-                    "strWidth": 720.890625
+                    "str": "지니게 한 포켓몬은 배틀에",
+                    "strWidth": 383.96875
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "allows it to earn EXP gained from defeating a Pokémon, ",
-                    "strWidth": 711.1875
+                    "str": "나가지 않아도 경험치를 나누어",
+                    "strWidth": 447.96875
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "regardless of if it was used in battle or not.",
-                    "strWidth": 185.953125
+                    "str": "받을 수 있는 편리한 장치.",
+                    "strWidth": 371.21875
                 }
             ]
         },
@@ -15377,10 +15377,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -15389,16 +15389,16 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "A unique attack that varies in type depending on the",
-                    "strWidth": 589.90625
+                    "str": "기술을 쓴 포켓몬에 따라",
+                    "strWidth": 351.96875
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon using it",
-                    "strWidth": 180.546875
+                    "str": "기술의 타입이 바뀐다.",
+                    "strWidth": 317.90625
                 }
             ]
         },
@@ -15875,10 +15875,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -15887,24 +15887,24 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "The user eats the dreams of a sleeping target.",
-                    "strWidth": 592.8125
+                    "str": "잠자고 있는 상대의 꿈을 먹어",
+                    "strWidth": 426.625
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "The user’s HP is restored by half the damage taken by",
-                    "strWidth": 700.84375
+                    "str": "공격한다. 데미지의 절반을",
+                    "strWidth": 381.90625
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "the target.",
-                    "strWidth": 135.375
+                    "str": "HP로 회복한다.",
+                    "strWidth": 221.90625
                 }
             ]
         },
@@ -17147,10 +17147,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -17159,16 +17159,24 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "If the target’s HP is half or less, this attack will hit",
-                    "strWidth": 641.375
+                    "str": "상대가 HP의 절반 정도",
+                    "strWidth": 330.625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "상처를 입고 있으면 기술의",
+                    "strWidth": 383.96875
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "with double the power.",
-                    "strWidth": 299.421875
+                    "str": "위력이 2배가 된다.",
+                    "strWidth": 275.03125
                 }
             ]
         },
@@ -17415,10 +17423,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -17427,16 +17435,24 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "The user shoots boiling hot water at its target.",
-                    "strWidth": 596.09375
+                    "str": "뜨겁게 끓어오르는 물을",
+                    "strWidth": 341.3125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "상대에게 발사해서 공격한다.",
+                    "strWidth": 413.90625
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "This may also leave the target with a burn.",
-                    "strWidth": 547.546875
+                    "str": "화상 상태로 만들 때가 있다.",
+                    "strWidth": 403.21875
                 }
             ]
         },
@@ -17499,10 +17515,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -17511,16 +17527,24 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "It damages an enemy, but you'll receive recoil damage,",
-                    "strWidth": 653.9375
+                    "str": "전기를 두르고",
+                    "strWidth": 202.65625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "상대에게 부딪쳐 공격한다.",
+                    "strWidth": 381.90625
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "too.",
-                    "strWidth": 157.75
+                    "str": "자신도 조금 데미지를 입는다.",
+                    "strWidth": 424.5625
                 }
             ]
         },
@@ -18639,10 +18663,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -18651,16 +18675,16 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "The user lets loose a horribly echoing shout with the",
-                    "strWidth": 636.15625
+                    "str": "시끄럽게 울리는 큰 진동을",
+                    "strWidth": 383.96875
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "power to inflict damage.",
-                    "strWidth": 120.078125
+                    "str": "상대에게 전달하여 공격한다.",
+                    "strWidth": 413.90625
                 }
             ]
         },
@@ -18723,10 +18747,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -18735,16 +18759,16 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "The user damages opposing Pokémon by emitting a",
-                    "strWidth": 592.8125
+                    "str": "강력한 빛을 내어",
+                    "strWidth": 245.3125
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "powerful flash.",
-                    "strWidth": 135.375
+                    "str": "상대에게 데미지를 준다.",
+                    "strWidth": 349.90625
                 }
             ]
         },
@@ -18853,10 +18877,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -18865,16 +18889,24 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "The user attacks by wrapping its opponent in a fierce wind that flies up into the sky. This may also confuse the target.",
-                    "strWidth": 656.859375
+                    "str": "강렬한 바람으로 상대를",
+                    "strWidth": 341.3125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "둘러싸서 공격한다.",
+                    "strWidth": 275.25
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": 656.859375
+                    "str": "상대를 혼란시킬 때가 있다.",
+                    "strWidth": 392.5625
                 }
             ]
         },
@@ -19535,20 +19567,28 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "무지갯빛으로 빛나는",
+                    "strWidth": 298.65625
+                },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "A mystical rainbow feather that sparkles.",
-                    "strWidth": 524.09375
+                    "str": "신비한 날개.",
+                    "strWidth": 179.25
                 }
             ]
         },
@@ -20675,10 +20715,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -20687,8 +20727,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "A hot drink which is good for quenching thirst.",
-                    "strWidth": 522.203125
+                    "str": "목을 축이기 좋은 따뜻한 음료.",
+                    "strWidth": 435.21875
                 }
             ]
         },
@@ -22523,20 +22563,28 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "레니게이드파크 내에서",
+                    "strWidth": 330.65625
+                },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "A special Poké Ball for Renegade Park.",
-                    "strWidth": 487.78125
+                    "str": "사용하는 특별한 볼.",
+                    "strWidth": 285.90625
                 }
             ]
         },
@@ -35793,8 +35841,8 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "은색의 아름다운 왕관.",
-                    "strWidth": 317.90625
+                    "str": "은색의 아름다운 병뚜껑.",
+                    "strWidth": 349.90625
                 },
                 {
                     "patternID": 0,
@@ -35831,16 +35879,16 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "금색의 아름다운 왕관.",
-                    "strWidth": 317.90625
+                    "str": "금색의 아름다운 병뚜껑.",
+                    "strWidth": 349.90625
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "은왕관보다 진귀하다.",
-                    "strWidth": 307.25
+                    "str": "은색병뚜껑보다 진귀하다.",
+                    "strWidth": 371.25
                 },
                 {
                     "patternID": 0,
@@ -87033,10 +87081,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -87045,24 +87093,24 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "This item, when held by a Pokémon, ",
-                    "strWidth": 720.890625
+                    "str": "지니게 한 포켓몬은 배틀에",
+                    "strWidth": 383.96875
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "allows it to earn EXP gained from defeating a Pokémon, ",
-                    "strWidth": 711.1875
+                    "str": "나가지 않아도 경험치를 나누어",
+                    "strWidth": 447.96875
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "regardless of if it was used in battle or not.",
-                    "strWidth": 185.953125
+                    "str": "받을 수 있는 편리한 장치.",
+                    "strWidth": 371.21875
                 }
             ]
         },
@@ -87079,10 +87127,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -87091,24 +87139,24 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "A slate overflowing with enigmatic energy. You can feel",
-                    "strWidth": 720.890625
+                    "str": "신비한 힘이 넘치는 석판.",
+                    "strWidth": 360.5625
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "a strong connection between it and the Johto Room at",
-                    "strWidth": 706.640625
+                    "str": "레니게이드파크의 성도의 방과",
+                    "strWidth": 437.3125
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Renegade Park.",
-                    "strWidth": 185.953125
+                    "str": "깊은 연관이 있는 것 같다.",
+                    "strWidth": 371.21875
                 }
             ]
         },
@@ -87125,10 +87173,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -87137,24 +87185,24 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "A slate overflowing with enigmatic energy. You can feel",
-                    "strWidth": 720.890625
+                    "str": "신비한 힘이 넘치는 석판.",
+                    "strWidth": 360.5625
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "a strong connection between it and the Soul Room at",
-                    "strWidth": 690.03125
+                    "str": "레니게이드파크의 마음의 방과",
+                    "strWidth": 437.3125
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Renegade Park.",
-                    "strWidth": 185.953125
+                    "str": "깊은 연관이 있는 것 같다.",
+                    "strWidth": 371.21875
                 }
             ]
         },
@@ -87171,10 +87219,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -87183,24 +87231,24 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "A slate overflowing with enigmatic energy. You can feel",
-                    "strWidth": 720.890625
+                    "str": "신비한 힘이 넘치는 석판.",
+                    "strWidth": 360.5625
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "a strong connection between it and the Rainbow Room",
-                    "strWidth": 710.375
+                    "str": "레니게이드파크의 무지개의 방과",
+                    "strWidth": 469.3125
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "at Renegade Park.",
-                    "strWidth": 219.96875
+                    "str": "깊은 연관이 있는 것 같다.",
+                    "strWidth": 371.21875
                 }
             ]
         },
@@ -87217,10 +87265,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -87229,24 +87277,24 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "A slate overflowing with enigmatic energy. You can feel",
-                    "strWidth": 720.890625
+                    "str": "신비한 힘이 넘치는 석판.",
+                    "strWidth": 360.5625
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "a strong connection between it and the Squall Room at",
-                    "strWidth": 713.234375
+                    "str": "레니게이드파크의 폭풍의 방과",
+                    "strWidth": 437.3125
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Renegade Park.",
-                    "strWidth": 185.953125
+                    "str": "깊은 연관이 있는 것 같다.",
+                    "strWidth": 371.21875
                 }
             ]
         },
@@ -87263,10 +87311,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -87275,24 +87323,24 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "A slate overflowing with enigmatic energy. You can feel",
-                    "strWidth": 720.890625
+                    "str": "신비한 힘이 넘치는 석판.",
+                    "strWidth": 360.5625
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "a strong connection between it and the Oceanic Room",
-                    "strWidth": 706.796875
+                    "str": "레니게이드파크의 대해의 방과",
+                    "strWidth": 437.3125
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "at Renegade Park.",
-                    "strWidth": 219.96875
+                    "str": "깊은 연관이 있는 것 같다.",
+                    "strWidth": 371.21875
                 }
             ]
         },
@@ -87309,10 +87357,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -87321,24 +87369,24 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "A slate overflowing with enigmatic energy. You can feel",
-                    "strWidth": 720.890625
+                    "str": "신비한 힘이 넘치는 석판.",
+                    "strWidth": 360.5625
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "a strong connection between it and the Tectonic Room",
-                    "strWidth": 711.4375
+                    "str": "레니게이드파크의 대륙의 방과",
+                    "strWidth": 437.3125
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "at Renegade Park.",
-                    "strWidth": 219.96875
+                    "str": "깊은 연관이 있는 것 같다.",
+                    "strWidth": 371.21875
                 }
             ]
         },
@@ -87355,10 +87403,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -87367,24 +87415,24 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "A slate overflowing with enigmatic energy. You can feel",
-                    "strWidth": 720.890625
+                    "str": "신비한 힘이 넘치는 석판.",
+                    "strWidth": 360.5625
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "a strong connection between it and the Stratospheric",
-                    "strWidth": 685.90625
+                    "str": "레니게이드파크의 천공의 방과",
+                    "strWidth": 437.3125
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Room at Renegade Park.",
-                    "strWidth": 303.296875
+                    "str": "깊은 연관이 있는 것 같다.",
+                    "strWidth": 371.21875
                 }
             ]
         },
@@ -87401,10 +87449,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -87413,24 +87461,24 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "A slate overflowing with enigmatic energy. You can feel",
-                    "strWidth": 720.890625
+                    "str": "신비한 힘이 넘치는 석판.",
+                    "strWidth": 360.5625
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "a strong connection between it and the Genome Room",
-                    "strWidth": 710.765625
+                    "str": "레니게이드파크의 유전자의 방과",
+                    "strWidth": 469.3125
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "at Renegade Park.",
-                    "strWidth": 219.96875
+                    "str": "깊은 연관이 있는 것 같다.",
+                    "strWidth": 371.21875
                 }
             ]
         },
@@ -87447,10 +87495,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -87459,24 +87507,24 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "A slate overflowing with enigmatic energy. You can feel",
-                    "strWidth": 720.890625
+                    "str": "신비한 힘이 넘치는 석판.",
+                    "strWidth": 360.5625
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "a strong connection between it and the Discovery Room",
-                    "strWidth": 726.46875
+                    "str": "레니게이드파크의 인도의 방과",
+                    "strWidth": 437.3125
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "at Renegade Park.",
-                    "strWidth": 219.96875
+                    "str": "깊은 연관이 있는 것 같다.",
+                    "strWidth": 371.21875
                 }
             ]
         },
@@ -87493,10 +87541,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -87505,24 +87553,24 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "A slate overflowing with enigmatic energy. You can feel",
-                    "strWidth": 720.890625
+                    "str": "신비한 힘이 넘치는 석판.",
+                    "strWidth": 360.5625
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "a strong connection between it and the Distortion Room",
-                    "strWidth": 728.53125
+                    "str": "레니게이드파크의 깨어진 방과",
+                    "strWidth": 437.3125
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "at Renegade Park.",
-                    "strWidth": 219.96875
+                    "str": "깊은 연관이 있는 것 같다.",
+                    "strWidth": 371.21875
                 }
             ]
         },
@@ -87585,10 +87633,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -87597,16 +87645,16 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "A mysterious Ball.",
-                    "strWidth": 229.6875
+                    "str": "숲이 생각나게 하는",
+                    "strWidth": 277.3125
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "This item makes you think of the forest.",
-                    "strWidth": 510.453125
+                    "str": "신비한 볼.",
+                    "strWidth": 147.25
                 }
             ]
         },
@@ -87623,10 +87671,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -87635,24 +87683,24 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "A mysterious invitation given to you by",
-                    "strWidth": 504.265625
+                    "str": "망나뇽에게 받은 신비한 초대장.",
+                    "strWidth": 456.5625
                 },
                 {
                     "patternID": 7,
-                    "eventID": 3,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "a Dragonite. It says to meet somebody ",
-                    "strWidth": 484.015625
+                    "str": "게이트에서 누군가를",
+                    "strWidth": 298.65625
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "at the Gate.",
-                    "strWidth": 122.8125
+                    "str": "만나라고 쓰여 있다.",
+                    "strWidth": 285.90625
                 }
             ]
         },
@@ -87669,10 +87717,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -87681,16 +87729,16 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "A mysterious bag of candies.",
-                    "strWidth": 229.6875
+                    "str": "사탕이 잔뜩 들어 있는 신비한 가방.",
+                    "strWidth": 509.875
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "This item seems inexhaustible.",
-                    "strWidth": 510.453125
+                    "str": "계속 써도 사라지지 않을 것 같다.",
+                    "strWidth": 477.875
                 }
             ]
         },
@@ -87707,10 +87755,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -87719,16 +87767,16 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "The Wind badge, acquired from Heather.",
-                    "strWidth": 229.6875
+                    "str": "히스에게 받은 배지.",
+                    "strWidth": 285.90625
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "This item does absolutely nothing.",
-                    "strWidth": 510.453125
+                    "str": "별 효과는 없다.",
+                    "strWidth": 221.90625
                 }
             ]
         },
@@ -87745,10 +87793,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -87757,16 +87805,16 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "The Fang badge, acquired from Wyver.",
-                    "strWidth": 229.6875
+                    "str": "용태에게 받은 배지.",
+                    "strWidth": 285.90625
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "This badge is totally useless really.",
-                    "strWidth": 510.453125
+                    "str": "아무짝에도 쓸모가 없다.",
+                    "strWidth": 349.90625
                 }
             ]
         },
@@ -87783,10 +87831,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -87795,16 +87843,16 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "The Acid badge, acquired from Slythe.",
-                    "strWidth": 229.6875
+                    "str": "유화에게 받은 배지.",
+                    "strWidth": 285.90625
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "This badge is just a pretty token.",
-                    "strWidth": 510.453125
+                    "str": "조금 예쁜 배지일 뿐이다.",
+                    "strWidth": 360.5625
                 }
             ]
         },
@@ -87821,10 +87869,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -87833,16 +87881,16 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "The Shadow badge, acquired from Shade.",
-                    "strWidth": 229.6875
+                    "str": "셰이드에게 받은 배지.",
+                    "strWidth": 317.90625
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "A reminder of the impending darkness, apparently.",
-                    "strWidth": 510.453125
+                    "str": "다가오는 어둠을 떠오르게 한다.",
+                    "strWidth": 456.5625
                 }
             ]
         },
@@ -87859,10 +87907,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -87871,16 +87919,24 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "The General badge, acquired from Gene.",
-                    "strWidth": 229.6875
+                    "str": "유진에게 받은 배지.",
+                    "strWidth": 285.90625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "단순하지만 위험한 적을 상대로",
+                    "strWidth": 447.96875
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "A token of victory over plain, but dangerous foes.",
-                    "strWidth": 510.453125
+                    "str": "거둔 승리의 상징이다.",
+                    "strWidth": 317.90625
                 }
             ]
         },
@@ -87897,10 +87953,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -87909,16 +87965,16 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "The Moon badge, acquired from Luna.",
-                    "strWidth": 229.6875
+                    "str": "루나에게 받은 배지.",
+                    "strWidth": 285.90625
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "A memento, as beautiful as the moon itself.",
-                    "strWidth": 510.453125
+                    "str": "달처럼 아름다운 기억의 증표.",
+                    "strWidth": 424.5625
                 }
             ]
         },
@@ -87935,10 +87991,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -87947,8 +88003,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "A strange, silvery feather that sparkles.",
-                    "strWidth": 502.5
+                    "str": "은빛으로 빛나는 신비한 날개.",
+                    "strWidth": 424.5625
                 }
             ]
         },
@@ -87965,10 +88021,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -87977,16 +88033,24 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "A small incense burner shaped like a Pokémon from Sinnoh's myths.",
-                    "strWidth": 580.6875
+                    "str": "신오지방 신화에 등장하는 포켓몬의",
+                    "strWidth": 511.96875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "모습을 본따 만들어진 작은 향로.",
+                    "strWidth": 467.21875
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "When filled with flowers, strange Pokémon stir.",
-                    "strWidth": 510.453125
+                    "str": "꽃을 꽂으면 신비한 포켓몬이 깨어난다.",
+                    "strWidth": 563.21875
                 }
             ]
         },
@@ -88003,10 +88067,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -88015,16 +88079,24 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "A suit of armor, perfectly molded to Mewtwo’s form.",
-                    "strWidth": 580.6875
+                    "str": "뮤츠의 몸에 맞추어",
+                    "strWidth": 277.3125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "만든 갑옷.",
+                    "strWidth": 147.25
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "It seems to keep the Pokémon’s powers in check.",
-                    "strWidth": 510.453125
+                    "str": "포켓몬의 능력을 억제하는 것 같다.",
+                    "strWidth": 499.21875
                 }
             ]
         },
@@ -88041,10 +88113,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -88053,16 +88125,24 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "A repel that never runs out, keep Pokémon away forever.",
-                    "strWidth": 580.6875
+                    "str": "약한 포켓몬이 전혀 나오지 않게 된다.",
+                    "strWidth": 541.875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "절대 다 떨어지지 않는 스프레이.",
+                    "strWidth": 467.21875
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "This item does not work with the repel trick.",
-                    "strWidth": 510.453125
+                    "str": "스프레이 트릭에는 사용할 수 없다.",
+                    "strWidth": 499.21875
                 }
             ]
         },
@@ -88079,10 +88159,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -88091,16 +88171,62 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "An old suit of armor, molded to Mewtwo’s form.",
-                    "strWidth": 580.6875
+                    "str": "뮤츠의 몸에 맞추어",
+                    "strWidth": 277.3125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "만든 오래된 갑옷.",
+                    "strWidth": 253.90625
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "It seems to keep the Pokémon’s powers in check.",
-                    "strWidth": 510.453125
+                    "str": "포켓몬의 능력을 억제하는 것 같다.",
+                    "strWidth": 499.21875
+                }
+            ]
+        },
+        {
+            "labelIndex": 1637,
+            "arrayIndex": 1837,
+            "labelName": "1-msg_",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "레니게이드파크 내에서",
+                    "strWidth": 330.65625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "사용하는 특별한 볼.",
+                    "strWidth": 285.90625
                 }
             ]
         }

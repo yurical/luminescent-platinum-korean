@@ -3977,12 +3977,32 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [
+                {
+                    "tagIndex": 2,
+                    "groupID": 1,
+                    "tagID": 0,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                },
+                {
+                    "tagIndex": -1,
+                    "groupID": 25,
+                    "tagID": 0,
+                    "tagPatternID": 5,
+                    "forceArticle": 0,
+                    "tagParameter": 1,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                },
                 {
                     "tagIndex": 0,
                     "groupID": 1,
@@ -3992,17 +4012,19 @@
                     "tagParameter": 0,
                     "tagWordArray": [],
                     "forceGrmID": 0
+                },
+                {
+                    "tagIndex": -1,
+                    "groupID": 25,
+                    "tagID": 0,
+                    "tagPatternID": 5,
+                    "forceArticle": 0,
+                    "tagParameter": 2,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
                 }
             ],
             "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "You received ",
-                    "strWidth": 179.890625
-                },
                 {
                     "patternID": 5,
                     "eventID": 0,
@@ -4012,12 +4034,44 @@
                     "strWidth": -1.0
                 },
                 {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 1,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": 0.0
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 2,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 3,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
                     "patternID": 7,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "!",
-                    "strWidth": 7.265625
+                    "str": " 받았다!",
+                    "strWidth": 115.5625
                 }
             ]
         },
@@ -4034,10 +4088,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [
                 {
@@ -4057,8 +4111,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Choose a starter!",
-                    "strWidth": -1.0
+                    "str": "함께할 포켓몬을 선택하자!",
+                    "strWidth": 382.21875
                 }
             ]
         },
@@ -4075,10 +4129,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -4087,8 +4141,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Gyaoo!",
-                    "strWidth": 94.578125
+                    "str": "갸-오!",
+                    "strWidth": 85.0625
                 }
             ]
         },
@@ -4105,10 +4159,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -4117,8 +4171,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Gyaoo!",
-                    "strWidth": -1.0
+                    "str": "갸-오!",
+                    "strWidth": 85.0625
                 }
             ]
         },
@@ -4135,10 +4189,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -4147,8 +4201,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Gyaoo!",
-                    "strWidth": -1.0
+                    "str": "갸-오!",
+                    "strWidth": 85.0625
                 }
             ]
         },
@@ -4165,10 +4219,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -4177,8 +4231,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Gyaoo!",
-                    "strWidth": 94.578125
+                    "str": "라라이-!!",
+                    "strWidth": 125.96875
                 }
             ]
         },
@@ -4195,10 +4249,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -4207,8 +4261,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Gyaoo!",
-                    "strWidth": 94.578125
+                    "str": "조오-오!!",
+                    "strWidth": 125.96875
                 }
             ]
         },
@@ -4225,10 +4279,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -4237,8 +4291,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Gyaoo!",
-                    "strWidth": 94.578125
+                    "str": "에에이-!!",
+                    "strWidth": 125.96875
                 }
             ]
         },
@@ -4255,10 +4309,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -4267,8 +4321,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Gyaoo!",
-                    "strWidth": 94.578125
+                    "str": "스스이-!!",
+                    "strWidth": 125.96875
                 }
             ]
         },
@@ -4285,10 +4339,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -4297,8 +4351,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Gyaoo!",
-                    "strWidth": 94.578125
+                    "str": "기아-아!!",
+                    "strWidth": 125.96875
                 }
             ]
         },
@@ -4315,10 +4369,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [
                 {
@@ -4338,104 +4392,96 @@
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "What’s this?!",
-                    "strWidth": 164.90625
+                    "str": "오오! 이게 무슨 일이냐?!",
+                    "strWidth": 355.5625
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "You went to the Distortion World and",
-                    "strWidth": 491.453125
+                    "str": "깨어진세계에서 전설의 포켓몬",
+                    "strWidth": 437.3125
                 },
                 {
                     "patternID": 7,
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "battled with the legendary GIRATINA?!",
-                    "strWidth": 509.5625
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Remarkable. Truly remarkable!",
-                    "strWidth": 393.8125
+                    "str": "기라티나와 싸웠단 말이냐?!",
+                    "strWidth": 400.0
                 },
                 {
                     "patternID": 7,
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "This is absolutely unprecedented!",
-                    "strWidth": 433.0625
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "At any rate, you are indeed worthy of",
-                    "strWidth": 487.1875
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "meeting Legendary Pokémon, ",
-                    "strWidth": 393.875
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
+                    "str": "대단하구나",
+                    "strWidth": 160.0
                 },
                 {
                     "patternID": 7,
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "!",
-                    "strWidth": 7.265625
+                    "str": "정말 대단해!",
+                    "strWidth": 179.5625
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "I’m positive they would appear before",
-                    "strWidth": 494.4375
+                    "str": "너는 정말 전설의 포켓몬을",
+                    "strWidth": 383.96875
                 },
                 {
                     "patternID": 7,
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "you if you go to the right place.",
-                    "strWidth": 411.671875
+                    "str": "만날 자격이 있는 것 같구나!",
+                    "strWidth": 403.53125
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Please ask me about anything that",
-                    "strWidth": 443.03125
+                    "str": "장소만 제대로 찾으면",
+                    "strWidth": 309.3125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 4,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "전설의 포켓몬이 네 앞에 분명히",
+                    "strWidth": 458.625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 3,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "나타날 게다",
+                    "strWidth": 170.65625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "궁금한 점이 있으면 뭐든지",
+                    "strWidth": 383.96875
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "you would like to know.",
-                    "strWidth": 308.046875
+                    "str": "내게 물어보도록 해라",
+                    "strWidth": 309.3125
                 }
             ]
         },
@@ -4452,92 +4498,84 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
                     "patternID": 7,
+                    "eventID": 3,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "이건 좀 다른 이야기인데",
+                    "strWidth": 351.96875
+                },
+                {
+                    "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Incidentally, and this is an entirely",
-                    "strWidth": 441.71875
+                    "str": "아주 희귀한 포켓몬이",
+                    "strWidth": 309.3125
                 },
                 {
                     "patternID": 7,
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "different topic...",
-                    "strWidth": 210.046875
+                    "str": "목격되었다는 소문을 들었단다",
+                    "strWidth": 437.3125
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "I’ve heard that there have been",
-                    "strWidth": 408.125
+                    "str": "전설의 새 포켓몬",
+                    "strWidth": 245.3125
                 },
                 {
                     "patternID": 7,
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "sightings of very rare Pokémon.",
-                    "strWidth": 405.671875
+                    "str": "프리져와 썬더와 파이어 말이야!",
+                    "strWidth": 456.875
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "The legendary bird Pokémon: ARTICUNO,",
-                    "strWidth": 551.296875
+                    "str": "신오지방 여러 곳에서",
+                    "strWidth": 309.3125
                 },
                 {
                     "patternID": 7,
-                    "eventID": 3,
+                    "eventID": 4,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "ZAPDOS, and MOLTRES!",
-                    "strWidth": 329.515625
+                    "str": "발견되었다고 했으니 너도 어쩌면",
+                    "strWidth": 479.96875
                 },
                 {
                     "patternID": 7,
-                    "eventID": 1,
+                    "eventID": 4,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "They’ve been spotted at various",
-                    "strWidth": 416.71875
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 3,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "locations here in Sinnoh, no less!",
-                    "strWidth": 422.375
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Why, you may be lucky enough to see",
-                    "strWidth": 494.046875
+                    "str": "여행 중에 전설의 새 포켓몬을",
+                    "strWidth": 426.625
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "them yourself in your journeys!",
-                    "strWidth": 395.171875
+                    "str": "직접 볼 수 있을지도 모르겠구나!",
+                    "strWidth": 467.53125
                 }
             ]
         },
@@ -4554,10 +4592,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -4566,64 +4604,40 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "ARTICUNO, ZAPDOS, and MOLTRES",
-                    "strWidth": 490.625
+                    "str": "관동에서도 보기 힘든 전설의 새",
+                    "strWidth": 458.625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 4,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "포켓몬이 신오지방에서 목격되었다니",
+                    "strWidth": 533.3125
                 },
                 {
                     "patternID": 7,
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "are extremely rare even in Kanto.",
-                    "strWidth": 431.625
+                    "str": "정말 신기한 일이 아니겠느냐!",
+                    "strWidth": 424.875
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "There have been precious few sightings",
-                    "strWidth": 509.40625
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 3,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "as it is.",
-                    "strWidth": 88.84375
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "So why would they be spotted here in",
-                    "strWidth": 489.5
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 3,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Sinnoh of all places?",
-                    "strWidth": 266.984375
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "There are still many, many mysteries",
-                    "strWidth": 467.453125
+                    "str": "포켓몬에는 아직도 수많은 수수께끼가",
+                    "strWidth": 543.96875
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "surrounding Pokémon, it seems!",
-                    "strWidth": 408.5
+                    "str": "남아있는 것 같구나",
+                    "strWidth": 277.3125
                 }
             ]
         },
@@ -4640,10 +4654,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [
                 {
@@ -4660,171 +4674,139 @@
             "wordDataArray": [
                 {
                     "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Take a look at the two feathers",
-                    "strWidth": 405.1875
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "I have here, ",
-                    "strWidth": 161.328125
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": ".",
-                    "strWidth": 7.90625
+                    "str": "여기 있는 깃털 두 장을 보거라",
+                    "strWidth": 437.28125
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "They’re both known as Clear Wings.",
-                    "strWidth": 466.875
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 3,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "You might think they look ordinary...",
-                    "strWidth": 474.390625
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "But these feathers have a puzzle that",
-                    "strWidth": 477.671875
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 3,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "I’m currently trying to solve.",
-                    "strWidth": 362.125
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "They may have a connection to the two",
-                    "strWidth": 510.75
+                    "str": "둘 다 투명한날개라는 이름의 깃털인데",
+                    "strWidth": 554.625
                 },
                 {
                     "patternID": 7,
                     "eventID": 4,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon known as the guardians of the",
-                    "strWidth": 515.5625
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 3,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "sea and sky.",
-                    "strWidth": 156.890625
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Lugia, the guardian of the sea, is",
-                    "strWidth": 423.828125
+                    "str": "너에게는 평범해 보이겠지만",
+                    "strWidth": 405.3125
                 },
                 {
                     "patternID": 7,
                     "eventID": 4,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "said to mediate between the three",
-                    "strWidth": 446.5625
+                    "str": "나는 아직 이 깃털의 수수께끼를",
+                    "strWidth": 458.625
                 },
                 {
                     "patternID": 7,
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "legendary birds of Kanto.",
-                    "strWidth": 329.375
+                    "str": "풀고 있는 중이란다",
+                    "strWidth": 277.3125
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Maybe this Clear Wing would react to",
-                    "strWidth": 492.359375
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 3,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Articuno, Zapdos and Moltres?",
-                    "strWidth": 401.953125
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "If you were to go somewhere very cold,",
-                    "strWidth": 511.34375
+                    "str": "이 깃털은 바다와 하늘의 수호신으로",
+                    "strWidth": 522.625
                 },
                 {
                     "patternID": 7,
                     "eventID": 4,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "somewhere that generates electricity,",
-                    "strWidth": 483.3125
+                    "str": "알려진 두 포켓몬과 관련이",
+                    "strWidth": 383.96875
                 },
                 {
                     "patternID": 7,
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "and somewhere where Trainers gather...",
-                    "strWidth": 513.03125
+                    "str": "있을지도 몰라",
+                    "strWidth": 202.65625
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Well, it would be an amazing encounter",
-                    "strWidth": 515.59375
+                    "str": "바다의 수호신 루기아는 관동지방",
+                    "strWidth": 479.96875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 4,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "전설의 새들 사이를 중재한다고",
+                    "strWidth": 447.96875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 3,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "알려져 있단다",
+                    "strWidth": 202.65625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "어쩌면 이 투명한날개가 프리져나 썬더",
+                    "strWidth": 554.625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 3,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "파이어에게 반응할지도 모르겠구나",
+                    "strWidth": 501.3125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "아주 추운 곳이나 전기가 발생하는 곳",
+                    "strWidth": 533.28125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 3,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "트레이너가 모이는 곳에 가 보고...",
+                    "strWidth": 484.40625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "전설의 새 포켓몬을 실제로 만날 수 있다면",
+                    "strWidth": 607.9375
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "to see any of them, that’s for sure!",
-                    "strWidth": 444.390625
+                    "str": "참으로 좋은 경험이 되지 않겠느냐?",
+                    "strWidth": 508.40625
                 }
             ]
         },
@@ -4841,10 +4823,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -4853,112 +4835,112 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Now, this other Clear Wing...",
-                    "strWidth": 375.953125
+                    "str": "다른 투명한날개 하나는...",
+                    "strWidth": 367.09375
                 },
                 {
                     "patternID": 7,
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Perhaps it could be the Rainbow Wing?",
-                    "strWidth": 510.609375
+                    "str": "혹시 무지개날개가 아닐까?",
+                    "strWidth": 391.09375
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "The guardian of the sky was said to",
-                    "strWidth": 456.609375
+                    "str": "하늘의 수호신이 세 포켓몬을",
+                    "strWidth": 415.96875
                 },
                 {
                     "patternID": 7,
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "have resurrected three Pokémon.",
-                    "strWidth": 426.984375
+                    "str": "부활시켰다는 전설이 있어",
+                    "strWidth": 373.3125
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Raikou, Entei and Suicune.",
-                    "strWidth": 343.75
+                    "str": "바로 라이코, 엔테이, 스이쿤이란다",
+                    "strWidth": 497.15625
                 },
                 {
                     "patternID": 7,
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "The legendary beasts of Johto.",
-                    "strWidth": 400.453125
+                    "str": "성도지방 전설의 포켓몬이지",
+                    "strWidth": 405.3125
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "I’m sure this Clear Wing would respond",
-                    "strWidth": 508.265625
+                    "str": "이 투명한날개는 그 세 마리 포켓몬에게",
+                    "strWidth": 565.28125
                 },
                 {
                     "patternID": 7,
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "to the presence of those Pokémon!",
-                    "strWidth": 452.140625
+                    "str": "대응된다고 볼 수 있겠구나!",
+                    "strWidth": 392.875
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "I would imagine those Pokémon would",
-                    "strWidth": 497.875
+                    "str": "세 마리 모두 높은 곳을",
+                    "strWidth": 330.625
                 },
                 {
                     "patternID": 7,
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "enjoy high places...",
-                    "strWidth": 248.1875
+                    "str": "좋아할 것 같고...",
+                    "strWidth": 239.09375
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Maybe the Rock Climb technique could",
-                    "strWidth": 512.296875
+                    "str": "락클라임이 있으면 찾는 데 훨씬",
+                    "strWidth": 458.625
                 },
                 {
                     "patternID": 7,
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "help you find them?",
-                    "strWidth": 258.71875
+                    "str": "도움이 될지도 모르겠다",
+                    "strWidth": 341.3125
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "If you somehow catch all three...",
-                    "strWidth": 419.15625
+                    "str": "세 마리를 모두 잡게 되면",
+                    "strWidth": 362.625
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Please show them to me.",
-                    "strWidth": 319.671875
+                    "str": "꼭 내게 보여 다오!",
+                    "strWidth": 264.875
                 }
             ]
         },
@@ -4975,10 +4957,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [
                 {
@@ -4995,67 +4977,75 @@
             "wordDataArray": [
                 {
                     "patternID": 7,
+                    "eventID": 3,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "오오!? 네 파티에...",
+                    "strWidth": 265.78125
+                },
+                {
+                    "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "What’s this? In your party...",
-                    "strWidth": 354.734375
+                    "str": "프리져 썬더 파이어가",
+                    "strWidth": 309.3125
                 },
                 {
                     "patternID": 7,
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Articuno, Zapdos and Moltres?!",
-                    "strWidth": 409.21875
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Now that is incredible!",
-                    "strWidth": 290.625
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Thank you, ",
-                    "strWidth": 151.671875
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
+                    "str": "모두 있지 않느냐?!",
+                    "strWidth": 272.0
                 },
                 {
                     "patternID": 7,
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": ".",
-                    "strWidth": 7.90625
+                    "str": "정말 대단하구나!",
+                    "strWidth": 243.5625
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Now, this Clear Wing...",
-                    "strWidth": 298.875
+                    "str": "고맙네",
+                    "strWidth": 96.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 3,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "참으로 고마워",
+                    "strWidth": 202.65625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 3,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "자 그러면",
+                    "strWidth": 138.65625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "이 투명한날개가",
+                    "strWidth": 234.65625
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Will it react, I wonder?",
-                    "strWidth": 296.21875
+                    "str": "과연 반응할는지 궁금하구나",
+                    "strWidth": 405.3125
                 }
             ]
         },
@@ -5072,10 +5062,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [
                 {
@@ -5095,48 +5085,24 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Ah, splendid! It really did work!",
-                    "strWidth": 405.59375
+                    "str": "투명한날개가",
+                    "strWidth": 192.0
                 },
                 {
                     "patternID": 7,
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "This Clear Wing has changed.",
-                    "strWidth": 383.625
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "It’s now a deep silver colour...",
-                    "strWidth": 387.90625
+                    "str": "반짝이는 은빛이 되었구나!",
+                    "strWidth": 382.21875
                 },
                 {
                     "patternID": 7,
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "And it’s sparkling, too.",
-                    "strWidth": 293.625
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 3,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "It must be the Silver Wing!",
-                    "strWidth": 342.296875
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Thanks for your assistance, ",
-                    "strWidth": 355.0625
+                    "str": "이건 틀림없이 은빛날개야",
+                    "strWidth": 373.3125
                 },
                 {
                     "patternID": 5,
@@ -5151,16 +5117,32 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": ".",
-                    "strWidth": 7.90625
+                    "str": "!",
+                    "strWidth": 8.90625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 3,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "다시 한 번 도와줘서 고맙다",
+                    "strWidth": 394.625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "이 은빛날개는",
+                    "strWidth": 202.65625
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "I’d like you to have this Silver Wing.",
-                    "strWidth": 467.671875
+                    "str": "네가 가져가는 게 좋겠구나",
+                    "strWidth": 383.96875
                 }
             ]
         },
@@ -5177,44 +5159,36 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
                     "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Do you know of anywhere in the",
-                    "strWidth": 419.703125
-                },
-                {
-                    "patternID": 7,
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "sea surrounded by small islands?",
-                    "strWidth": 420.484375
+                    "str": "작은 섬으로 둘러싸인 바다를 아느냐?",
+                    "strWidth": 540.40625
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Perhaps you’d somehow find Lugia there",
-                    "strWidth": 524.96875
+                    "str": "은빛날개를 가지고 그곳에 가면",
+                    "strWidth": 447.96875
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "if you carry the Silver Wing with you.",
-                    "strWidth": 476.34375
+                    "str": "루기아를 만날 수 있을지도 모른다",
+                    "strWidth": 490.625
                 }
             ]
         },
@@ -5231,10 +5205,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [
                 {
@@ -5254,24 +5228,16 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "In your party...",
-                    "strWidth": 188.421875
+                    "str": "파티에 있는 포켓몬이...",
+                    "strWidth": 335.09375
                 },
                 {
                     "patternID": 7,
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Raikou, Entei, and Suicune?!",
-                    "strWidth": 366.40625
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "You’ve done it again, ",
-                    "strWidth": 287.90625
+                    "str": "라이코, 엔테이, 스이쿤이라고?!",
+                    "strWidth": 449.1875
                 },
                 {
                     "patternID": 5,
@@ -5283,35 +5249,35 @@
                 },
                 {
                     "patternID": 7,
+                    "eventID": 3,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "! 또 일을 냈구나!",
+                    "strWidth": 241.78125
+                },
+                {
+                    "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "!",
-                    "strWidth": 7.265625
+                    "str": "이번에도 투명한날개가 변하는지",
+                    "strWidth": 469.3125
                 },
                 {
                     "patternID": 7,
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Truly impressive!",
-                    "strWidth": 214.34375
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 3,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Now, let’s see if this Clear Wing...",
-                    "strWidth": 439.703125
+                    "str": "살펴보도록 하자꾸나...",
+                    "strWidth": 324.4375
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Oh?!",
-                    "strWidth": 61.703125
+                    "str": "아니?!",
+                    "strWidth": 90.6875
                 }
             ]
         },
@@ -5328,10 +5294,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [
                 {
@@ -5351,56 +5317,24 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Excellent! This Clear Wing is now",
-                    "strWidth": 428.484375
+                    "str": "투명한날개가",
+                    "strWidth": 192.0
                 },
                 {
                     "patternID": 7,
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "a sparkling, vibrant rainbow colour!",
-                    "strWidth": 454.921875
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "This is clearly the Rainbow Wing!",
-                    "strWidth": 426.328125
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": 0.0
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": ", thank you again.",
-                    "strWidth": 231.140625
+                    "str": "생생한 무지개색이 되었구나!",
+                    "strWidth": 414.21875
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "I’d like you to have this, too.",
-                    "strWidth": 373.625
+                    "str": "이건 틀림없이 무지개날개야!",
+                    "strWidth": 414.21875
                 }
             ]
         },
@@ -5417,10 +5351,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -5429,56 +5363,56 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "A tall place where the departed",
-                    "strWidth": 411.96875
+                    "str": "떠나간 이들을 정중히 모시는",
+                    "strWidth": 415.96875
                 },
                 {
                     "patternID": 7,
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "are given due respect...",
-                    "strWidth": 303.265625
+                    "str": "높은 곳 말이지...",
+                    "strWidth": 239.09375
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "There is a place like that in Sinnoh,",
-                    "strWidth": 455.78125
+                    "str": "신오지방에도 비슷한 곳이",
+                    "strWidth": 373.3125
                 },
                 {
                     "patternID": 7,
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "is there not?",
-                    "strWidth": 160.9375
+                    "str": "있지 않더냐?",
+                    "strWidth": 188.4375
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Taking a Rainbow Wing to a place like",
-                    "strWidth": 499.875
+                    "str": "무지개날개를 그곳에 가져가면",
+                    "strWidth": 437.3125
                 },
                 {
                     "patternID": 7,
                     "eventID": 4,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "that might allow you to meet Ho-oh,",
-                    "strWidth": 473.921875
+                    "str": "하늘의 수호신인 칠색조를",
+                    "strWidth": 373.3125
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "the sky guardian.",
-                    "strWidth": 220.03125
+                    "str": "만날 수 있을지도 모르겠구나",
+                    "strWidth": 415.96875
                 }
             ]
         },
@@ -5495,10 +5429,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [
                 {
@@ -5518,120 +5452,120 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Oh, yes, there was something",
-                    "strWidth": 380.375
+                    "str": "그래",
+                    "strWidth": 64.0
                 },
                 {
                     "patternID": 7,
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "I had to tell you.",
-                    "strWidth": 215.03125
+                    "str": "내 너에게 해줄 말이 있었지",
+                    "strWidth": 394.625
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "The three Pokémon of the lakes appear",
-                    "strWidth": 512.203125
+                    "str": "호수의 3마리 포켓몬이",
+                    "strWidth": 330.4375
                 },
                 {
                     "patternID": 7,
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "to have returned to their homes.",
-                    "strWidth": 418.125
+                    "str": "원래 있던 장소로 돌아간 것 같더구나",
+                    "strWidth": 533.28125
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Oh, yes. I’ve also heard reports that",
-                    "strWidth": 465.453125
+                    "str": "그리고 신오지방에 이상한 포켓몬이",
+                    "strWidth": 511.96875
                 },
                 {
                     "patternID": 7,
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "strange Pokémon have appeared in Sinnoh.",
-                    "strWidth": 489.140625
+                    "str": "나타났다는 소문도 들었단다",
+                    "strWidth": 405.3125
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "It’s likely that their appearance is a",
-                    "strWidth": 454.75
+                    "str": "아마 천관산에서",
+                    "strWidth": 234.65625
                 },
                 {
                     "patternID": 7,
                     "eventID": 4,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "result of the events that occurred",
-                    "strWidth": 429.75
+                    "str": "디아루가와 펄기아에게 일어난",
+                    "strWidth": 437.3125
                 },
                 {
                     "patternID": 7,
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "with Dialga and Palkia at Mt. Coronet.",
-                    "strWidth": 497.59375
+                    "str": "사건 때문인 것 같은데...",
+                    "strWidth": 345.75
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Hm! Perhaps that Red Chain you have",
-                    "strWidth": 489.765625
+                    "str": "네가 지닌 빨강사슬이 수수께끼를",
+                    "strWidth": 479.96875
                 },
                 {
                     "patternID": 7,
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "could be the key to that mystery?",
-                    "strWidth": 435.046875
+                    "str": "푸는 열쇠가 될지도 모르겠어",
+                    "strWidth": 415.96875
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "So, tell me.",
-                    "strWidth": 146.953125
+                    "str": "어쨌든 요즘은",
+                    "strWidth": 202.65625
                 },
                 {
                     "patternID": 7,
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "How are things going for you?",
-                    "strWidth": 390.65625
+                    "str": "어떻게 지내나?",
+                    "strWidth": 220.4375
                 },
                 {
                     "patternID": 7,
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "The Pokédex...?",
-                    "strWidth": 207.46875
+                    "str": "도감은...?",
+                    "strWidth": 139.5625
                 },
                 {
                     "patternID": 0,
                     "eventID": 0,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Hm! A total of ",
-                    "strWidth": 194.0625
+                    "str": "오오! 벌써 ",
+                    "strWidth": 158.21875
                 },
                 {
                     "patternID": 5,
@@ -5646,96 +5580,96 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "!",
-                    "strWidth": 7.265625
+                    "str": "마리나!",
+                    "strWidth": 104.90625
                 },
                 {
                     "patternID": 7,
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "...And the number of Badges?",
-                    "strWidth": 384.6875
+                    "str": "...배지는?",
+                    "strWidth": 139.5625
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Well! You’ve got seven already!",
-                    "strWidth": 412.328125
+                    "str": "7개나 얻었다고!",
+                    "strWidth": 232.6875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 4,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "그럼 이제 물가시티 체육관만",
+                    "strWidth": 415.96875
                 },
                 {
                     "patternID": 7,
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "That only leaves Sunyshore’s Gym.",
-                    "strWidth": 447.609375
+                    "str": "남은 게로군",
+                    "strWidth": 170.65625
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Hm! You’ve come this far.",
-                    "strWidth": 334.640625
+                    "str": "이참에 물가시티의 배지까지",
+                    "strWidth": 405.3125
                 },
                 {
                     "patternID": 7,
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Why not obtain Sunyshore’s Badge?",
-                    "strWidth": 466.5625
+                    "str": "노려보는 건 어떤가?",
+                    "strWidth": 295.09375
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "And why not challenge the Pokémon",
-                    "strWidth": 474.25
+                    "str": "그 다음에는 포켓몬리그에",
+                    "strWidth": 373.3125
                 },
                 {
                     "patternID": 7,
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "League?",
-                    "strWidth": 108.4375
+                    "str": "도전해보는 것도 좋겠지",
+                    "strWidth": 341.3125
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "That will broaden your horizons",
-                    "strWidth": 407.953125
+                    "str": "시야를 넓히고 더 많은",
+                    "strWidth": 319.96875
                 },
                 {
                     "patternID": 7,
-                    "eventID": 3,
+                    "eventID": 4,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "further than ever before.",
-                    "strWidth": 318.109375
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Not to mention the opportunities to",
-                    "strWidth": 465.265625
+                    "str": "포켓몬을 만날 수 있는",
+                    "strWidth": 319.96875
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "meet even more Pokémon.",
-                    "strWidth": 345.390625
+                    "str": "좋은 기회가 될 걸세",
+                    "strWidth": 287.96875
                 }
             ]
         },
@@ -5752,10 +5686,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [
                 {
@@ -5772,11 +5706,11 @@
             "wordDataArray": [
                 {
                     "patternID": 0,
-                    "eventID": 0,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Oh, yes, ",
-                    "strWidth": 116.828125
+                    "str": "아! 그래 ",
+                    "strWidth": 126.21875
                 },
                 {
                     "patternID": 5,
@@ -5791,24 +5725,24 @@
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": ".",
-                    "strWidth": 7.90625
+                    "str": "",
+                    "strWidth": 0.0
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "If you see Cynthia, please give her ",
-                    "strWidth": 455.8125
+                    "str": "난천을 만나게 되거든",
+                    "strWidth": 309.3125
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "my best regards.",
-                    "strWidth": 212.6875
+                    "str": "안부를 좀 전해주게나",
+                    "strWidth": 309.3125
                 }
             ]
         },
@@ -5825,10 +5759,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -5837,8 +5771,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Gyaoo!",
-                    "strWidth": 94.578125
+                    "str": "갸-오!",
+                    "strWidth": 85.0625
                 }
             ]
         },
@@ -5855,10 +5789,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -5867,8 +5801,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Gyaoo!",
-                    "strWidth": 94.578125
+                    "str": "갸-오!",
+                    "strWidth": 85.0625
                 }
             ]
         },
@@ -5885,10 +5819,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [
                 {
@@ -5904,20 +5838,12 @@
             ],
             "wordDataArray": [
                 {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Ah, it’s you! Good to see you!",
-                    "strWidth": 388.734375
-                },
-                {
                     "patternID": 0,
                     "eventID": 0,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "What can I help you with, ",
-                    "strWidth": 340.375
+                    "str": "그래! 잘 왔다 ",
+                    "strWidth": 200.875
                 },
                 {
                     "patternID": 5,
@@ -5928,12 +5854,20 @@
                     "strWidth": -1.0
                 },
                 {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "!",
+                    "strWidth": 8.90625
+                },
+                {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "?",
-                    "strWidth": 14.46875
+                    "str": "오늘은 어쩐 일로 왔느냐?",
+                    "strWidth": 369.75
                 }
             ]
         },
@@ -5950,95 +5884,76 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 0,
-                    "groupID": 1,
-                    "tagID": 0,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
+            "tagDataArray": [],
             "wordDataArray": [
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Do you know the names of any",
-                    "strWidth": 400.609375
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "other Pokémon professors, ",
-                    "strWidth": 354.078125
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
+                    "str": "다른 포켓몬 박사 중에",
+                    "strWidth": 319.96875
                 },
                 {
                     "patternID": 7,
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "?",
-                    "strWidth": 14.46875
+                    "str": "알고 있는 사람이 있느냐?",
+                    "strWidth": 369.75
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "I can assure you there are many more",
-                    "strWidth": 482.171875
+                    "str": "나와 마박사 말고도",
+                    "strWidth": 277.3125
                 },
                 {
                     "patternID": 7,
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "than just myself and Professor Rowan!",
-                    "strWidth": 486.015625
+                    "str": "훨씬 많은 포켓몬 박사가 있다!",
+                    "strWidth": 435.53125
                 },
                 {
                     "patternID": 7,
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Elm, Birch, Juniper, Sycamore, Kukui...",
-                    "strWidth": 495.65625
+                    "str": "공박사, 털보박사, 주박사",
+                    "strWidth": 358.5
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 3,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "플라타느박사, 쿠쿠이박사...",
+                    "strWidth": 397.03125
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "All of these names belong to fellow",
-                    "strWidth": 460.1875
+                    "str": "모두 세계 각지에서 포켓몬 연구를",
+                    "strWidth": 490.625
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon professors around the world!",
-                    "strWidth": 496.609375
+                    "str": "하고 있는 포켓몬 박사란다",
+                    "strWidth": 383.96875
                 }
             ]
         },
@@ -6055,76 +5970,76 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
                     "patternID": 7,
+                    "eventID": 3,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "내 본명은 오용호란다",
+                    "strWidth": 309.3125
+                },
+                {
+                    "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "I should inform you that my full",
-                    "strWidth": 403.875
+                    "str": "알로라지방에 송호 오라는",
+                    "strWidth": 373.3125
                 },
                 {
                     "patternID": 7,
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "name is Professor Samuel Oak.",
-                    "strWidth": 397.25
+                    "str": "사촌이 살고 있는데",
+                    "strWidth": 277.3125
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "I have a cousin in Alola who is known",
-                    "strWidth": 481.3125
+                    "str": "알로라지방에서 발견되는",
+                    "strWidth": 362.65625
                 },
                 {
                     "patternID": 7,
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "as Professor Samson Oak!",
-                    "strWidth": 330.984375
+                    "str": "리전폼을 중점으로 연구하고 있지",
+                    "strWidth": 479.96875
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "His research focuses on the regional",
-                    "strWidth": 467.109375
+                    "str": "알로라지방의 식스테일은",
+                    "strWidth": 362.65625
                 },
                 {
                     "patternID": 7,
-                    "eventID": 3,
+                    "eventID": 4,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "variants found in Alola.",
-                    "strWidth": 299.6875
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Did you know that the Vulpix in Alola",
-                    "strWidth": 488.75
+                    "str": "불꽃타입이 아니라 얼음타입이라는",
+                    "strWidth": 501.3125
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "are Ice-type, rather than Fire-type?",
-                    "strWidth": 457.0
+                    "str": "사실을 알고 있느냐?",
+                    "strWidth": 295.09375
                 }
             ]
         },
@@ -6141,10 +6056,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -6153,80 +6068,72 @@
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "I have a grandson called Blue.",
-                    "strWidth": 388.828125
+                    "str": "나에게는 그린이라는 손자가 있단다",
+                    "strWidth": 511.96875
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "He was the Champion of the Kanto",
-                    "strWidth": 455.3125
+                    "str": "잠깐 동안이지만 관동지방의",
+                    "strWidth": 405.3125
                 },
                 {
                     "patternID": 7,
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon League, in fact.",
-                    "strWidth": 328.640625
+                    "str": "챔피언이었지",
+                    "strWidth": 192.0
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Though only for a brief time.",
-                    "strWidth": 371.828125
+                    "str": "레드라는 녀석에게 져서",
+                    "strWidth": 341.3125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 4,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "금방 챔피언 자리에서 내려왔지만",
+                    "strWidth": 479.96875
                 },
                 {
                     "patternID": 7,
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Then he lost to his rival, Red.",
-                    "strWidth": 378.265625
+                    "str": "상록시티의 체육관 자리를 얻었어",
+                    "strWidth": 479.96875
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "At least Blue found a place as the",
-                    "strWidth": 437.4375
+                    "str": "자주 체육관을 비워서 도전자들을",
+                    "strWidth": 479.96875
                 },
                 {
                     "patternID": 7,
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Viridian City Gym Leader!",
-                    "strWidth": 335.765625
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Though he’s often away from it,",
-                    "strWidth": 411.375
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 3,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "causing trouble for challengers.",
-                    "strWidth": 404.921875
+                    "str": "애먹인다고 하더구나",
+                    "strWidth": 298.65625
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "That boy...",
-                    "strWidth": 139.21875
+                    "str": "그 녀석...",
+                    "strWidth": 132.4375
                 }
             ]
         },
@@ -6243,60 +6150,68 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
                     "patternID": 7,
+                    "eventID": 3,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "참",
+                    "strWidth": 32.0
+                },
+                {
+                    "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Oh, yes. I once had a protégé who",
-                    "strWidth": 448.546875
+                    "str": "필드 리서치를 좋아하는",
+                    "strWidth": 341.3125
                 },
                 {
                     "patternID": 7,
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "very much enjoyed outdoor research.",
-                    "strWidth": 479.78125
+                    "str": "제자도 있었단다",
+                    "strWidth": 234.65625
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "His name is Professor Willow.",
-                    "strWidth": 379.875
+                    "str": "윌로우박사라고 하는데",
+                    "strWidth": 330.65625
                 },
                 {
                     "patternID": 7,
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "He used to study Pokémon under me.",
-                    "strWidth": 486.6875
+                    "str": "이전에 내 밑에서 포켓몬을 연구했어",
+                    "strWidth": 522.625
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Him and his assistants are always",
-                    "strWidth": 423.5
+                    "str": "아직까지도 포켓몬 연구에서",
+                    "strWidth": 405.3125
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "making strides in Pokémon research!",
-                    "strWidth": 468.203125
+                    "str": "좋은 성과를 내는 녀석이지",
+                    "strWidth": 383.96875
                 }
             ]
         },
@@ -6313,111 +6228,68 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 0,
-                    "groupID": 1,
-                    "tagID": 0,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
+            "tagDataArray": [],
             "wordDataArray": [
                 {
                     "patternID": 7,
+                    "eventID": 3,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "사진 작가를 해볼 생각은 없느냐?",
+                    "strWidth": 476.40625
+                },
+                {
+                    "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Have you ever thought of yourself",
-                    "strWidth": 442.390625
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "as a photographer, ",
-                    "strWidth": 253.734375
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
+                    "str": "나는 한때 재능 있는 젊은이를 초대해서",
+                    "strWidth": 565.28125
                 },
                 {
                     "patternID": 7,
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "?",
-                    "strWidth": 14.46875
+                    "str": "포켓몬의 서식지를 찍게 했단다",
+                    "strWidth": 447.96875
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "I once invited a talented young man",
-                    "strWidth": 466.984375
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 4,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "to take photos of Pokémon in their",
-                    "strWidth": 452.703125
+                    "str": "포켓몬섬이라는 곳이었는데...",
+                    "strWidth": 420.4375
                 },
                 {
                     "patternID": 7,
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "natural habitat.",
-                    "strWidth": 196.9375
+                    "str": "정말 아름다운 장소였어!",
+                    "strWidth": 350.21875
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "It was a place called Pokémon Island...",
-                    "strWidth": 499.9375
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 3,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "And what a beautiful place it was!",
-                    "strWidth": 437.71875
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "The young photographer helped me",
-                    "strWidth": 467.53125
+                    "str": "그 젊은 사진 작가 덕분에",
+                    "strWidth": 362.625
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "with completing my Pokémon Report!",
-                    "strWidth": 483.71875
+                    "str": "포켓몬 리포트를 완성할 수 있었지!",
+                    "strWidth": 499.53125
                 }
             ]
         },
@@ -6434,10 +6306,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [
                 {
@@ -6453,22 +6325,6 @@
             ],
             "wordDataArray": [
                 {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "I can’t thank you enough for your",
-                    "strWidth": 431.78125
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "help with my research, ",
-                    "strWidth": 297.828125
-                },
-                {
                     "patternID": 5,
                     "eventID": 0,
                     "tagIndex": 0,
@@ -6477,12 +6333,28 @@
                     "strWidth": -1.0
                 },
                 {
+                    "patternID": 7,
+                    "eventID": 3,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "!",
+                    "strWidth": 8.90625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 4,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "항상 내 연구를 도와줘서",
+                    "strWidth": 351.96875
+                },
+                {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": ".",
-                    "strWidth": 7.90625
+                    "str": "정말 고맙구나",
+                    "strWidth": 202.65625
                 }
             ]
         }

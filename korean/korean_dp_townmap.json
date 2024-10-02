@@ -1620,10 +1620,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -1632,16 +1632,16 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "At the end of the path stands the gateway to",
-                    "strWidth": 582.34375
+                    "str": "길 끝에는 레니게이드파크로 가는",
+                    "strWidth": 479.96875
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Renegade Park.",
-                    "strWidth": 185.953125
+                    "str": "게이트가 세워져 있다.",
+                    "strWidth": 317.90625
                 }
             ]
         },

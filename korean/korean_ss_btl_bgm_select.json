@@ -27,20 +27,20 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
                     "patternID": 0,
-                    "eventID": 0,
+                    "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Cancel",
-                    "strWidth": 97.5
+                    "str": "취소",
+                    "strWidth": 64.0
                 }
             ]
         }

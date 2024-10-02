@@ -8587,20 +8587,36 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
-                    "patternID": 7,
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#ff0000ff>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "0/31",
+                    "strWidth": 79.375
+                },
+                {
+                    "patternID": 2,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "<color=#ff0000ff>0/31</color>",
-                    "strWidth": 404.234375
+                    "str": "</color>",
+                    "strWidth": -1.0
                 }
             ]
         },
@@ -8617,20 +8633,36 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
-                    "patternID": 7,
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#ff0000ff>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "1/31",
+                    "strWidth": 79.375
+                },
+                {
+                    "patternID": 2,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "<color=#ff0000ff>1/31</color>",
-                    "strWidth": 404.234375
+                    "str": "</color>",
+                    "strWidth": -1.0
                 }
             ]
         },
@@ -8647,20 +8679,36 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
-                    "patternID": 7,
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#ff0000ff>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "2/31",
+                    "strWidth": 79.375
+                },
+                {
+                    "patternID": 2,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "<color=#ff0000ff>2/31</color>",
-                    "strWidth": 404.234375
+                    "str": "</color>",
+                    "strWidth": -1.0
                 }
             ]
         },
@@ -8677,20 +8725,36 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
-                    "patternID": 7,
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#ff0000ff>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "3/31",
+                    "strWidth": 79.375
+                },
+                {
+                    "patternID": 2,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "<color=#ff0000ff>3/31</color>",
-                    "strWidth": 404.234375
+                    "str": "</color>",
+                    "strWidth": -1.0
                 }
             ]
         },
@@ -8707,20 +8771,36 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
-                    "patternID": 7,
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#ff0000ff>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "4/31",
+                    "strWidth": 79.375
+                },
+                {
+                    "patternID": 2,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "<color=#ff0000ff>4/31</color>",
-                    "strWidth": 404.234375
+                    "str": "</color>",
+                    "strWidth": -1.0
                 }
             ]
         },
@@ -8737,20 +8817,36 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
-                    "patternID": 7,
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#ff0000ff>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "5/31",
+                    "strWidth": 79.375
+                },
+                {
+                    "patternID": 2,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "<color=#ff0000ff>5/31</color>",
-                    "strWidth": 404.234375
+                    "str": "</color>",
+                    "strWidth": -1.0
                 }
             ]
         },
@@ -8767,20 +8863,36 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
-                    "patternID": 7,
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#ffa500ff>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "6/31",
+                    "strWidth": 79.375
+                },
+                {
+                    "patternID": 2,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "<color=#ffa500ff>6/31</color>",
-                    "strWidth": 404.234375
+                    "str": "</color>",
+                    "strWidth": -1.0
                 }
             ]
         },
@@ -8797,20 +8909,36 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
-                    "patternID": 7,
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#ffa500ff>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "7/31",
+                    "strWidth": 79.375
+                },
+                {
+                    "patternID": 2,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "<color=#ffa500ff>7/31</color>",
-                    "strWidth": 404.234375
+                    "str": "</color>",
+                    "strWidth": -1.0
                 }
             ]
         },
@@ -8827,20 +8955,36 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
-                    "patternID": 7,
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#ffa500ff>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "8/31",
+                    "strWidth": 79.375
+                },
+                {
+                    "patternID": 2,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "<color=#ffa500ff>8/31</color>",
-                    "strWidth": 404.234375
+                    "str": "</color>",
+                    "strWidth": -1.0
                 }
             ]
         },
@@ -8857,20 +9001,36 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
-                    "patternID": 7,
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#ffa500ff>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "9/31",
+                    "strWidth": 79.375
+                },
+                {
+                    "patternID": 2,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "<color=#ffa500ff>9/31</color>",
-                    "strWidth": 404.234375
+                    "str": "</color>",
+                    "strWidth": -1.0
                 }
             ]
         },
@@ -8887,20 +9047,36 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
-                    "patternID": 7,
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#ffa500ff>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "10/31",
+                    "strWidth": 100.5
+                },
+                {
+                    "patternID": 2,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "<color=#ffa500ff>10/31</color>",
-                    "strWidth": 404.234375
+                    "str": "</color>",
+                    "strWidth": -1.0
                 }
             ]
         },
@@ -8917,20 +9093,36 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
-                    "patternID": 7,
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#ffa500ff>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "11/31",
+                    "strWidth": 100.5
+                },
+                {
+                    "patternID": 2,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "<color=#ffa500ff>11/31</color>",
-                    "strWidth": 404.234375
+                    "str": "</color>",
+                    "strWidth": -1.0
                 }
             ]
         },
@@ -8947,20 +9139,36 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
-                    "patternID": 7,
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#ffff00ff>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "12/31",
+                    "strWidth": 100.5
+                },
+                {
+                    "patternID": 2,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "<color=#ffff00ff>12/31</color>",
-                    "strWidth": 404.234375
+                    "str": "</color>",
+                    "strWidth": -1.0
                 }
             ]
         },
@@ -8977,20 +9185,36 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
-                    "patternID": 7,
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#ffff00ff>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "13/31",
+                    "strWidth": 100.5
+                },
+                {
+                    "patternID": 2,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "<color=#ffff00ff>13/31</color>",
-                    "strWidth": 404.234375
+                    "str": "</color>",
+                    "strWidth": -1.0
                 }
             ]
         },
@@ -9007,20 +9231,36 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
-                    "patternID": 7,
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#ffff00ff>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "14/31",
+                    "strWidth": 100.5
+                },
+                {
+                    "patternID": 2,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "<color=#ffff00ff>14/31</color>",
-                    "strWidth": 404.234375
+                    "str": "</color>",
+                    "strWidth": -1.0
                 }
             ]
         },
@@ -9037,20 +9277,36 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
-                    "patternID": 7,
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#ffff00ff>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "15/31",
+                    "strWidth": 100.5
+                },
+                {
+                    "patternID": 2,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "<color=#ffff00ff>15/31</color>",
-                    "strWidth": 404.234375
+                    "str": "</color>",
+                    "strWidth": -1.0
                 }
             ]
         },
@@ -9067,20 +9323,36 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
-                    "patternID": 7,
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#ffff00ff>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "16/31",
+                    "strWidth": 100.5
+                },
+                {
+                    "patternID": 2,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "<color=#ffff00ff>16/31</color>",
-                    "strWidth": 404.234375
+                    "str": "</color>",
+                    "strWidth": -1.0
                 }
             ]
         },
@@ -9097,20 +9369,36 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
-                    "patternID": 7,
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#ffff00ff>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "17/31",
+                    "strWidth": 100.5
+                },
+                {
+                    "patternID": 2,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "<color=#ffff00ff>17/31</color>",
-                    "strWidth": 404.234375
+                    "str": "</color>",
+                    "strWidth": -1.0
                 }
             ]
         },
@@ -9127,20 +9415,36 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
-                    "patternID": 7,
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#0000ffff>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "18/31",
+                    "strWidth": 100.5
+                },
+                {
+                    "patternID": 2,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "<color=#0000ffff>18/31</color>",
-                    "strWidth": 404.234375
+                    "str": "</color>",
+                    "strWidth": -1.0
                 }
             ]
         },
@@ -9157,20 +9461,36 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
-                    "patternID": 7,
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#0000ffff>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "19/31",
+                    "strWidth": 100.5
+                },
+                {
+                    "patternID": 2,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "<color=#0000ffff>19/31</color>",
-                    "strWidth": 404.234375
+                    "str": "</color>",
+                    "strWidth": -1.0
                 }
             ]
         },
@@ -9187,20 +9507,36 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
-                    "patternID": 7,
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#0000ffff>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "20/31",
+                    "strWidth": 100.5
+                },
+                {
+                    "patternID": 2,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "<color=#0000ffff>20/31</color>",
-                    "strWidth": 404.234375
+                    "str": "</color>",
+                    "strWidth": -1.0
                 }
             ]
         },
@@ -9217,20 +9553,36 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
-                    "patternID": 7,
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#0000ffff>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "21/31",
+                    "strWidth": 100.5
+                },
+                {
+                    "patternID": 2,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "<color=#0000ffff>21/31</color>",
-                    "strWidth": 404.234375
+                    "str": "</color>",
+                    "strWidth": -1.0
                 }
             ]
         },
@@ -9247,20 +9599,36 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
-                    "patternID": 7,
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#0000ffff>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "22/31",
+                    "strWidth": 100.5
+                },
+                {
+                    "patternID": 2,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "<color=#0000ffff>22/31</color>",
-                    "strWidth": 404.234375
+                    "str": "</color>",
+                    "strWidth": -1.0
                 }
             ]
         },
@@ -9277,20 +9645,36 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
-                    "patternID": 7,
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#0000ffff>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "23/31",
+                    "strWidth": 100.5
+                },
+                {
+                    "patternID": 2,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "<color=#0000ffff>23/31</color>",
-                    "strWidth": 404.234375
+                    "str": "</color>",
+                    "strWidth": -1.0
                 }
             ]
         },
@@ -9307,20 +9691,36 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
-                    "patternID": 7,
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#800080ff>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "24/31",
+                    "strWidth": 100.5
+                },
+                {
+                    "patternID": 2,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "<color=#800080ff>24/31</color>",
-                    "strWidth": 404.234375
+                    "str": "</color>",
+                    "strWidth": -1.0
                 }
             ]
         },
@@ -9337,20 +9737,36 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
-                    "patternID": 7,
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#800080ff>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "25/31",
+                    "strWidth": 100.5
+                },
+                {
+                    "patternID": 2,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "<color=#800080ff>25/31</color>",
-                    "strWidth": 404.234375
+                    "str": "</color>",
+                    "strWidth": -1.0
                 }
             ]
         },
@@ -9367,20 +9783,36 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
-                    "patternID": 7,
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#800080ff>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "26/31",
+                    "strWidth": 100.5
+                },
+                {
+                    "patternID": 2,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "<color=#800080ff>26/31</color>",
-                    "strWidth": 404.234375
+                    "str": "</color>",
+                    "strWidth": -1.0
                 }
             ]
         },
@@ -9397,20 +9829,36 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
-                    "patternID": 7,
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#800080ff>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "27/31",
+                    "strWidth": 100.5
+                },
+                {
+                    "patternID": 2,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "<color=#800080ff>27/31</color>",
-                    "strWidth": 404.234375
+                    "str": "</color>",
+                    "strWidth": -1.0
                 }
             ]
         },
@@ -9427,20 +9875,36 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
-                    "patternID": 7,
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#800080ff>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "28/31",
+                    "strWidth": 100.5
+                },
+                {
+                    "patternID": 2,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "<color=#800080ff>28/31</color>",
-                    "strWidth": 404.234375
+                    "str": "</color>",
+                    "strWidth": -1.0
                 }
             ]
         },
@@ -9457,20 +9921,36 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
-                    "patternID": 7,
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#800080ff>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "29/31",
+                    "strWidth": 100.5
+                },
+                {
+                    "patternID": 2,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "<color=#800080ff>29/31</color>",
-                    "strWidth": 404.234375
+                    "str": "</color>",
+                    "strWidth": -1.0
                 }
             ]
         },
@@ -9487,20 +9967,36 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
-                    "patternID": 7,
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#800080ff>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "30/31",
+                    "strWidth": 100.5
+                },
+                {
+                    "patternID": 2,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "<color=#800080ff>30/31</color>",
-                    "strWidth": 404.234375
+                    "str": "</color>",
+                    "strWidth": -1.0
                 }
             ]
         },
@@ -9517,20 +10013,36 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
                 {
-                    "patternID": 7,
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#800080ff>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "31/31",
+                    "strWidth": 100.5
+                },
+                {
+                    "patternID": 2,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "<color=#800080ff>31/31</color>",
-                    "strWidth": 404.234375
+                    "str": "</color>",
+                    "strWidth": -1.0
                 }
             ]
         }

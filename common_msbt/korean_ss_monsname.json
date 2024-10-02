@@ -27010,7 +27010,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "신비록",
-                    "strWidth": 26.015625
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -27040,7 +27040,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "사마자르",
-                    "strWidth": 34.6875
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -27070,7 +27070,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "다투곰",
-                    "strWidth": 26.015625
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -27100,7 +27100,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "대쓰여너",
-                    "strWidth": 34.6875
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -27130,7 +27130,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "포푸니크",
-                    "strWidth": 34.6875
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -27160,7 +27160,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "장침바루",
-                    "strWidth": 34.6875
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -27190,7 +27190,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "러브로스",
-                    "strWidth": 34.6875
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -27219,8 +27219,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Sprigatito",
-                    "strWidth": 129.453125
+                    "str": "나오하",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -27249,8 +27249,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Floragato",
-                    "strWidth": 129.453125
+                    "str": "나로테",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -27279,8 +27279,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Meowscarada",
-                    "strWidth": 129.453125
+                    "str": "마스카나",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -27309,8 +27309,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Fuecoco",
-                    "strWidth": 129.453125
+                    "str": "뜨아거",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -27339,8 +27339,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Crocalor",
-                    "strWidth": 129.453125
+                    "str": "악뜨거",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -27369,8 +27369,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Skeledirge",
-                    "strWidth": 129.453125
+                    "str": "라우드본",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -27399,8 +27399,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Quaxly",
-                    "strWidth": 129.453125
+                    "str": "꾸왁스",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -27429,8 +27429,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Quaxwell",
-                    "strWidth": 129.453125
+                    "str": "아꾸왁",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -27459,8 +27459,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Quaquaval",
-                    "strWidth": 129.453125
+                    "str": "웨이니발",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -27489,8 +27489,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Lechonk",
-                    "strWidth": 129.453125
+                    "str": "맛보돈",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -27519,8 +27519,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Oinkologne",
-                    "strWidth": 102.734375
+                    "str": "퍼퓨돈",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -27549,8 +27549,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Tarountula",
-                    "strWidth": 129.453125
+                    "str": "타랜툴라",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -27579,8 +27579,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Spidops",
-                    "strWidth": 129.453125
+                    "str": "트래피더",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -27609,8 +27609,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Nymble",
-                    "strWidth": 129.453125
+                    "str": "콩알뚜기",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -27639,8 +27639,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Lokix",
-                    "strWidth": 129.453125
+                    "str": "엑스레그",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -27669,8 +27669,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pawmi",
-                    "strWidth": 129.453125
+                    "str": "빠모",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -27699,8 +27699,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pawmo",
-                    "strWidth": 129.453125
+                    "str": "빠모트",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -27729,8 +27729,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pawmot",
-                    "strWidth": 129.453125
+                    "str": "빠르모트",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -27759,8 +27759,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Tandemaus",
-                    "strWidth": 106.609375
+                    "str": "두리쥐",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -27789,8 +27789,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Maushold",
-                    "strWidth": 106.609375
+                    "str": "파밀리쥐",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -27819,8 +27819,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Fidough",
-                    "strWidth": 129.453125
+                    "str": "쫀도기",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -27849,8 +27849,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Dachsbun",
-                    "strWidth": 129.453125
+                    "str": "바우첼",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -27879,8 +27879,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Smoliv",
-                    "strWidth": 129.453125
+                    "str": "미니브",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -27909,8 +27909,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Dolliv",
-                    "strWidth": 129.453125
+                    "str": "올리뇨",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -27939,8 +27939,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Arboliva",
-                    "strWidth": 129.453125
+                    "str": "올리르바",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -27969,8 +27969,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Squawkabilly",
-                    "strWidth": 129.453125
+                    "str": "시비꼬",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -27999,8 +27999,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Nacli",
-                    "strWidth": 129.453125
+                    "str": "베베솔트",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -28029,8 +28029,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Naclstack",
-                    "strWidth": 129.453125
+                    "str": "스태솔트",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -28059,8 +28059,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Garganacl",
-                    "strWidth": 129.453125
+                    "str": "콜로솔트",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -28089,8 +28089,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Charcadet",
-                    "strWidth": 129.453125
+                    "str": "카르본",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -28119,8 +28119,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Armarouge",
-                    "strWidth": 129.453125
+                    "str": "카디나르마",
+                    "strWidth": 160.0
                 }
             ]
         },
@@ -28149,8 +28149,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Ceruledge",
-                    "strWidth": 129.453125
+                    "str": "파라블레이즈",
+                    "strWidth": 192.0
                 }
             ]
         },
@@ -28179,8 +28179,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Tadbulb",
-                    "strWidth": 129.453125
+                    "str": "빈나두",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -28209,8 +28209,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Bellibolt",
-                    "strWidth": 129.453125
+                    "str": "찌리배리",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -28239,8 +28239,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Wattrel",
-                    "strWidth": 129.453125
+                    "str": "찌리비",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -28269,8 +28269,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Kilowattrel",
-                    "strWidth": 129.453125
+                    "str": "찌리비크",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -28299,8 +28299,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Maschiff",
-                    "strWidth": 129.453125
+                    "str": "오라티프",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -28329,8 +28329,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Mabosstiff",
-                    "strWidth": 129.453125
+                    "str": "마피티프",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -28359,8 +28359,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Shroodle",
-                    "strWidth": 129.453125
+                    "str": "땃쭈르",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -28389,8 +28389,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Grafaiai",
-                    "strWidth": 129.453125
+                    "str": "태깅구르",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -28419,8 +28419,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Bramblin",
-                    "strWidth": 129.453125
+                    "str": "그푸리",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -28449,8 +28449,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Brambleghast",
-                    "strWidth": 129.453125
+                    "str": "공푸리",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -28479,8 +28479,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Toedscool",
-                    "strWidth": 129.453125
+                    "str": "들눈해",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -28509,8 +28509,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Toedscruel",
-                    "strWidth": 129.453125
+                    "str": "육파리",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -28539,8 +28539,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Klawf",
-                    "strWidth": 129.453125
+                    "str": "절벼게",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -28569,8 +28569,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Capsakid",
-                    "strWidth": 129.453125
+                    "str": "캡싸이",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -28599,8 +28599,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Scovillain",
-                    "strWidth": 129.453125
+                    "str": "스코빌런",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -28629,8 +28629,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Rellor",
-                    "strWidth": 129.453125
+                    "str": "구르데",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -28659,8 +28659,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Rabsca",
-                    "strWidth": 129.453125
+                    "str": "베라카스",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -28689,8 +28689,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Flittle",
-                    "strWidth": 129.453125
+                    "str": "하느라기",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -28719,8 +28719,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Espathra",
-                    "strWidth": 129.453125
+                    "str": "클레스퍼트라",
+                    "strWidth": 192.0
                 }
             ]
         },
@@ -28750,7 +28750,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "어리짱",
-                    "strWidth": 26.015625
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -28780,7 +28780,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "벼리짱",
-                    "strWidth": 26.015625
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -28810,7 +28810,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "두드리짱",
-                    "strWidth": 34.6875
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -28839,8 +28839,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Wiglett",
-                    "strWidth": 129.453125
+                    "str": "바다그다",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -28869,8 +28869,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Wugtrio",
-                    "strWidth": 129.453125
+                    "str": "바닥트리오",
+                    "strWidth": 160.0
                 }
             ]
         },
@@ -28899,8 +28899,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Bombirdier",
-                    "strWidth": 129.453125
+                    "str": "떨구새",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -28929,8 +28929,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Finizen",
-                    "strWidth": 129.453125
+                    "str": "맨돌핀",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -28959,8 +28959,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Palafin",
-                    "strWidth": 129.453125
+                    "str": "돌핀맨",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -28989,8 +28989,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Varoom",
-                    "strWidth": 129.453125
+                    "str": "부르롱",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -29019,8 +29019,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Revravroom",
-                    "strWidth": 129.453125
+                    "str": "부르르룸",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -29049,8 +29049,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Cyclizar",
-                    "strWidth": 129.453125
+                    "str": "모토마",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -29079,8 +29079,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Orthworm",
-                    "strWidth": 129.453125
+                    "str": "꿈트렁",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -29109,8 +29109,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Glimmet",
-                    "strWidth": 129.453125
+                    "str": "초롱순",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -29139,8 +29139,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Glimmora",
-                    "strWidth": 129.453125
+                    "str": "킬라플로르",
+                    "strWidth": 160.0
                 }
             ]
         },
@@ -29169,8 +29169,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Greavard",
-                    "strWidth": 129.453125
+                    "str": "망망이",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -29199,8 +29199,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Houndstone",
-                    "strWidth": 129.453125
+                    "str": "묘두기",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -29229,8 +29229,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Flamigo",
-                    "strWidth": 129.453125
+                    "str": "꼬이밍고",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -29259,8 +29259,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Cetoddle",
-                    "strWidth": 129.453125
+                    "str": "터벅고래",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -29289,8 +29289,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Cetitan",
-                    "strWidth": 129.453125
+                    "str": "우락고래",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -29319,8 +29319,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Veluza",
-                    "strWidth": 129.453125
+                    "str": "가비루사",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -29349,8 +29349,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Dondozo",
-                    "strWidth": 129.453125
+                    "str": "어써러셔",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -29379,8 +29379,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Tatsugiri",
-                    "strWidth": 129.453125
+                    "str": "싸리용",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -29409,8 +29409,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Annihilape",
-                    "strWidth": 129.453125
+                    "str": "저승갓숭",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -29439,8 +29439,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Clodsire",
-                    "strWidth": 129.453125
+                    "str": "토오",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -29469,8 +29469,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Farigiraf",
-                    "strWidth": 129.453125
+                    "str": "키키링",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -29499,8 +29499,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Dudunsparce",
-                    "strWidth": 129.453125
+                    "str": "노고고치",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -29529,8 +29529,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Kingambit",
-                    "strWidth": 129.453125
+                    "str": "대도각참",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -29559,8 +29559,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Great Tusk",
-                    "strWidth": 106.609375
+                    "str": "위대한엄니",
+                    "strWidth": 160.0
                 }
             ]
         },
@@ -29589,8 +29589,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Scream Tail",
-                    "strWidth": 106.609375
+                    "str": "우렁찬꼬리",
+                    "strWidth": 160.0
                 }
             ]
         },
@@ -29619,8 +29619,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Brute Bonnet",
-                    "strWidth": 106.609375
+                    "str": "사나운버섯",
+                    "strWidth": 160.0
                 }
             ]
         },
@@ -29649,8 +29649,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Flutter Mane",
-                    "strWidth": 106.609375
+                    "str": "날개치는머리",
+                    "strWidth": 192.0
                 }
             ]
         },
@@ -29679,8 +29679,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Slither Wing",
-                    "strWidth": 106.609375
+                    "str": "땅을기는날개",
+                    "strWidth": 192.0
                 }
             ]
         },
@@ -29709,8 +29709,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Sandy Shocks",
-                    "strWidth": 106.609375
+                    "str": "모래털가죽",
+                    "strWidth": 160.0
                 }
             ]
         },
@@ -29739,8 +29739,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Iron Treads",
-                    "strWidth": 106.609375
+                    "str": "무쇠바퀴",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -29769,8 +29769,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Iron Bundle",
-                    "strWidth": 106.609375
+                    "str": "무쇠보따리",
+                    "strWidth": 160.0
                 }
             ]
         },
@@ -29799,8 +29799,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Iron Hands",
-                    "strWidth": 106.609375
+                    "str": "무쇠손",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -29829,8 +29829,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Iron Jugulis",
-                    "strWidth": 106.609375
+                    "str": "무쇠머리",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -29859,8 +29859,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Iron Moth",
-                    "strWidth": 106.609375
+                    "str": "무쇠독나방",
+                    "strWidth": 160.0
                 }
             ]
         },
@@ -29889,8 +29889,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Iron Thorns",
-                    "strWidth": 106.609375
+                    "str": "무쇠가시",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -29919,8 +29919,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Frigibax",
-                    "strWidth": 129.453125
+                    "str": "드니차",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -29949,8 +29949,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Arctibax",
-                    "strWidth": 129.453125
+                    "str": "드니꽁",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -29979,8 +29979,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Baxcalibur",
-                    "strWidth": 129.453125
+                    "str": "드닐레이브",
+                    "strWidth": 160.0
                 }
             ]
         },
@@ -30009,8 +30009,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Gimmighoul",
-                    "strWidth": 106.609375
+                    "str": "모으령",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -30039,8 +30039,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Gholdengo",
-                    "strWidth": 106.609375
+                    "str": "타부자고",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -30069,8 +30069,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Wo-Chien",
-                    "strWidth": 106.609375
+                    "str": "총지엔",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -30099,8 +30099,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Chien-Pao",
-                    "strWidth": 106.609375
+                    "str": "파오젠",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -30129,8 +30129,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Ting-Lu",
-                    "strWidth": 106.609375
+                    "str": "딩루",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -30159,8 +30159,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Chi-Yu",
-                    "strWidth": 106.609375
+                    "str": "위유이",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -30189,8 +30189,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Roaring Moon",
-                    "strWidth": 106.609375
+                    "str": "고동치는달",
+                    "strWidth": 160.0
                 }
             ]
         },
@@ -30219,8 +30219,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Iron Valiant",
-                    "strWidth": 106.609375
+                    "str": "무쇠무인",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -30249,8 +30249,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Koraidon",
-                    "strWidth": 106.609375
+                    "str": "코라이돈",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -30279,8 +30279,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Miraidon",
-                    "strWidth": 106.609375
+                    "str": "미라이돈",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -30309,8 +30309,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Walking Wake",
-                    "strWidth": 106.609375
+                    "str": "굽이치는물결",
+                    "strWidth": 192.0
                 }
             ]
         },
@@ -30339,8 +30339,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Iron Leaves",
-                    "strWidth": 106.609375
+                    "str": "무쇠잎새",
+                    "strWidth": 128.0
                 }
             ]
         }

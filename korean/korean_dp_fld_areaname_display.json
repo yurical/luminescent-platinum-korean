@@ -717,10 +717,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                1
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -729,8 +729,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Renegade Park",
-                    "strWidth": 178.046875
+                    "str": "레니게이드파크",
+                    "strWidth": 224.0
                 }
             ]
         },
@@ -4287,10 +4287,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -4299,8 +4299,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Trainers’ School",
-                    "strWidth": 149.8125
+                    "str": "트레이너스쿨",
+                    "strWidth": 192.0
                 }
             ]
         },
@@ -4317,10 +4317,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -4329,8 +4329,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Mining Museum",
-                    "strWidth": 149.8125
+                    "str": "탄갱박물관",
+                    "strWidth": 160.0
                 }
             ]
         },
@@ -4347,10 +4347,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -4359,8 +4359,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "T.G. Eterna Bldg",
-                    "strWidth": 149.8125
+                    "str": "갤럭시단 영원시티 빌딩",
+                    "strWidth": 341.3125
                 }
             ]
         },
@@ -4377,10 +4377,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -4389,8 +4389,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Cycle Shop",
-                    "strWidth": 149.8125
+                    "str": "사이클숍",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -4407,10 +4407,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -4419,8 +4419,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Lost Tower",
-                    "strWidth": 149.8125
+                    "str": "로스트타워",
+                    "strWidth": 160.0
                 }
             ]
         }

@@ -2687,10 +2687,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -2699,16 +2699,24 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "A peculiar stone that can make certain species of",
-                    "strWidth": 636.265625
+                    "str": "어느 특정 포켓몬을",
+                    "strWidth": 277.3125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "진화시키는 이상한 돌.",
+                    "strWidth": 317.90625
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon evolve. It sparkles like a glittering eye.",
-                    "strWidth": 627.90625
+                    "str": "눈동자처럼 아름답다.",
+                    "strWidth": 307.25
                 }
             ]
         },
@@ -2725,10 +2733,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -2737,24 +2745,24 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "A peculiar stone that can make certain species of",
-                    "strWidth": 636.265625
+                    "str": "어느 특정 포켓몬을",
+                    "strWidth": 277.3125
                 },
                 {
                     "patternID": 7,
-                    "eventID": 4,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon evolve. It holds shadows as dark as can",
-                    "strWidth": 633.390625
+                    "str": "진화시키는 이상한 돌.",
+                    "strWidth": 317.90625
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "be.",
-                    "strWidth": 41.125
+                    "str": "칠흑처럼 어둡다.",
+                    "strWidth": 243.25
                 }
             ]
         },
@@ -2771,10 +2779,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -2783,16 +2791,24 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "A peculiar stone that can make certain species of",
-                    "strWidth": 636.265625
+                    "str": "어느 특정 포켓몬을",
+                    "strWidth": 277.3125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "진화시키는 이상한 돌.",
+                    "strWidth": 317.90625
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon evolve. It shines with a dazzling light.",
-                    "strWidth": 608.765625
+                    "str": "빛처럼 눈부시다.",
+                    "strWidth": 243.25
                 }
             ]
         },
@@ -2809,10 +2825,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -2821,24 +2837,24 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "A peculiar stone that can make certain species of",
-                    "strWidth": 636.265625
+                    "str": "어느 특정 포켓몬을",
+                    "strWidth": 277.3125
                 },
                 {
                     "patternID": 7,
-                    "eventID": 4,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon evolve. It has an unmistakable snowflake",
-                    "strWidth": 653.484375
+                    "str": "진화시키는 이상한 돌.",
+                    "strWidth": 317.90625
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "pattern.",
-                    "strWidth": 101.75
+                    "str": "눈송이 무늬가 있다.",
+                    "strWidth": 285.90625
                 }
             ]
         },
@@ -2855,10 +2871,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -2867,24 +2883,24 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "When combined with an Apricorn, this mysterious,",
-                    "strWidth": 648.765625
+                    "str": "규토리와 조합하면",
+                    "strWidth": 266.65625
                 },
                 {
                     "patternID": 7,
-                    "eventID": 4,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "tumbled stone draws out the properties needed to",
-                    "strWidth": 652.859375
+                    "str": "몬스터볼의 성능을 끌어내는",
+                    "strWidth": 405.3125
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "craft certain Poké Balls.",
-                    "strWidth": 304.65625
+                    "str": "신비하고 둥근 돌.",
+                    "strWidth": 253.90625
                 }
             ]
         },
@@ -2901,10 +2917,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -2913,24 +2929,24 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "When combined with an Apricorn, this dark",
-                    "strWidth": 560.84375
+                    "str": "규토리와 조합하면",
+                    "strWidth": 266.65625
                 },
                 {
                     "patternID": 7,
-                    "eventID": 4,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "tumbled stone draws out the properties needed to",
-                    "strWidth": 652.859375
+                    "str": "헤비볼의 성능을 끌어낼 수 있는",
+                    "strWidth": 458.625
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "craft certain Poké Balls.",
-                    "strWidth": 304.65625
+                    "str": "신비한 검은 돌.",
+                    "strWidth": 221.90625
                 }
             ]
         },
@@ -2947,10 +2963,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -2959,24 +2975,24 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "When combined with an Apricorn, this sky-colored",
-                    "strWidth": 654.65625
+                    "str": "규토리와 조합하면",
+                    "strWidth": 266.65625
                 },
                 {
                     "patternID": 7,
-                    "eventID": 4,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "tumbled stone draws out the properties needed",
-                    "strWidth": 616.984375
+                    "str": "페더볼의 성능을 끌어낼 수 있는",
+                    "strWidth": 458.625
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "to craft certain Poké Balls.",
-                    "strWidth": 340.53125
+                    "str": "신비한 하늘색 돌.",
+                    "strWidth": 253.90625
                 }
             ]
         },
@@ -2993,10 +3009,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -3005,24 +3021,24 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "A shard that fell to the ground when a comet",
-                    "strWidth": 582.078125
+                    "str": "혜성이 가까워졌을 때",
+                    "strWidth": 309.3125
                 },
                 {
                     "patternID": 7,
-                    "eventID": 4,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "approached. It can be sold at a high price to",
-                    "strWidth": 578.09375
+                    "str": "지표면에 떨어진 조각.",
+                    "strWidth": 317.90625
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "shops.",
-                    "strWidth": 80.921875
+                    "str": "상점에서 비싸게 팔린다.",
+                    "strWidth": 349.90625
                 }
             ]
         },
@@ -3045,24 +3061,24 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "A fossil from a prehistoric Pokémon that once",
-                    "strWidth": 590.0625
+                    "str": "오랜 옛날 바다에 살았던",
+                    "strWidth": 351.96875
                 },
                 {
                     "patternID": 7,
-                    "eventID": 4,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "lived in the sea. It appears as though it could be",
-                    "strWidth": 625.140625
+                    "str": "고대 포켓몬의 화석.",
+                    "strWidth": 285.90625
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "part of its back.",
-                    "strWidth": 203.578125
+                    "str": "등의 일부인 듯하다.",
+                    "strWidth": 285.90625
                 }
             ]
         },
@@ -3085,24 +3101,24 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "A fossil from a prehistoric Pokémon that once",
-                    "strWidth": 590.0625
+                    "str": "새포켓몬의 조상이라 불리는",
+                    "strWidth": 405.3125
                 },
                 {
                     "patternID": 7,
-                    "eventID": 4,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "lived in the sky. It looks as if it could come from",
-                    "strWidth": 621.046875
+                    "str": "고대 포켓몬의 화석.",
+                    "strWidth": 285.90625
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "part of its wing.",
-                    "strWidth": 201.453125
+                    "str": "날개의 일부인 듯하다.",
+                    "strWidth": 317.90625
                 }
             ]
         },
@@ -3125,24 +3141,24 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "A fossil from a prehistoric Pokémon that once",
-                    "strWidth": 590.0625
+                    "str": "오랜 옛날 지상에서 살았던",
+                    "strWidth": 383.96875
                 },
                 {
                     "patternID": 7,
-                    "eventID": 4,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "lived on land. It looks like the impression from a",
-                    "strWidth": 623.140625
+                    "str": "고대 포켓몬의 화석.",
+                    "strWidth": 285.90625
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "skin sail.",
-                    "strWidth": 108.296875
+                    "str": "목지느러미의 일부인 듯하다.",
+                    "strWidth": 413.90625
                 }
             ]
         },
@@ -3165,24 +3181,24 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "A fossil from a prehistoric Pokémon that once",
-                    "strWidth": 590.0625
+                    "str": "오랜 옛날 지상에서 살았던",
+                    "strWidth": 383.96875
                 },
                 {
                     "patternID": 7,
-                    "eventID": 4,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "lived on the land. It looks as if it could be a piece",
-                    "strWidth": 644.671875
+                    "str": "고대 포켓몬의 화석.",
+                    "strWidth": 285.90625
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "of a large jaw.",
-                    "strWidth": 183.46875
+                    "str": "커다란 턱의 일부인 듯하다.",
+                    "strWidth": 392.5625
                 }
             ]
         },
@@ -3205,16 +3221,24 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "An extremely bitter medicinal root. It can be used",
-                    "strWidth": 645.15625
+                    "str": "매우 쓴 뿌리.",
+                    "strWidth": 189.90625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "포켓몬 1마리의 HP를",
+                    "strWidth": 309.09375
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "to restore 120 HP to a single Pokémon.",
-                    "strWidth": 460.890625
+                    "str": "120만큼 회복한다.",
+                    "strWidth": 274.625
                 }
             ]
         },
@@ -3237,16 +3261,24 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "A terribly bitter medicinal herb. It revives a fainted",
-                    "strWidth": 656.734375
+                    "str": "매우 쓴 약초.",
+                    "strWidth": 189.90625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "기절한 포켓몬 1마리의",
+                    "strWidth": 330.4375
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon and fully restores its max HP.",
-                    "strWidth": 504.484375
+                    "str": "HP를 모두 회복한다.",
+                    "strWidth": 296.5625
                 }
             ]
         },

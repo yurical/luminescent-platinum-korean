@@ -27,10 +27,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -39,16 +39,16 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Only English is available in the base mod.",
-                    "strWidth": 538.28125
+                    "str": "어떤 언어로 플레이하겠습니까?",
+                    "strWidth": 455.09375
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Translations may appear on Nexus Mods.",
-                    "strWidth": 532.359375
+                    "str": "취소선이 없는 언어만 지원합니다",
+                    "strWidth": 479.96875
                 }
             ]
         },

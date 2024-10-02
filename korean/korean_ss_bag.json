@@ -1303,7 +1303,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "",
-                    "strWidth": 0.0
+                    "strWidth": -1.0
                 }
             ]
         },
@@ -1430,7 +1430,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "",
-                    "strWidth": 0.0
+                    "strWidth": -1.0
                 }
             ]
         },
@@ -1862,7 +1862,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "",
-                    "strWidth": 0.0
+                    "strWidth": -1.0
                 }
             ]
         },
@@ -6108,7 +6108,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "",
-                    "strWidth": 0.0
+                    "strWidth": -1.0
                 }
             ]
         },
@@ -6534,7 +6534,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "",
-                    "strWidth": 0.0
+                    "strWidth": -1.0
                 }
             ]
         },
@@ -8256,10 +8256,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -8268,8 +8268,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Disable",
-                    "strWidth": 225.78125
+                    "str": "제거",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -8286,10 +8286,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -8298,8 +8298,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Unova",
-                    "strWidth": 225.78125
+                    "str": "하나",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -8316,10 +8316,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -8328,8 +8328,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Kalos",
-                    "strWidth": 225.78125
+                    "str": "칼로스",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -8346,10 +8346,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -8358,8 +8358,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Alola",
-                    "strWidth": 225.78125
+                    "str": "알로라",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -8376,10 +8376,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -8388,8 +8388,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Hisui",
-                    "strWidth": 225.78125
+                    "str": "히스이",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -8406,10 +8406,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -8418,8 +8418,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Galar",
-                    "strWidth": 225.78125
+                    "str": "가라르",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -8436,10 +8436,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -8448,8 +8448,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Which flower would you like to use?",
-                    "strWidth": 541.65625
+                    "str": "어떤 꽃을 사용하겠습니까?",
+                    "strWidth": 391.09375
                 }
             ]
         },
@@ -8466,10 +8466,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -8478,16 +8478,16 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "You remove the flowers,",
-                    "strWidth": 541.65625
+                    "str": "향로에서 꽃을 빼자",
+                    "strWidth": 277.3125
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "and the air returns to normal.",
-                    "strWidth": 541.65625
+                    "str": "공기가 원래대로 돌아왔다",
+                    "strWidth": 373.3125
                 }
             ]
         },
@@ -8504,10 +8504,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -8516,16 +8516,16 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "You sense Pokémon shifting",
-                    "strWidth": 541.65625
+                    "str": "새로운 향기가 퍼지면서",
+                    "strWidth": 341.3125
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "as the new scent rises.",
-                    "strWidth": 541.65625
+                    "str": "포켓몬이 움직이는 느낌이 든다...",
+                    "strWidth": 473.75
                 }
             ]
         },
@@ -8542,20 +8542,28 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "무한스프레이를 다시 사용하면",
+                    "strWidth": 437.3125
+                },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Use the Infinite Repel again to turn it off.",
-                    "strWidth": 461.734375
+                    "str": "스프레이의 효과를 털어낼 수 있다",
+                    "strWidth": 490.625
                 }
             ]
         },
@@ -8572,10 +8580,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -8584,8 +8592,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "The Infinite Repel wore off.",
-                    "strWidth": 355.6875
+                    "str": "몸에서 무한스프레이를 털어냈다",
+                    "strWidth": 469.3125
                 }
             ]
         }

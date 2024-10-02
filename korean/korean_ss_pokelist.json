@@ -1330,10 +1330,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -1342,8 +1342,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Change Moves",
-                    "strWidth": 326.9375
+                    "str": "기술을 바꾼다",
+                    "strWidth": 202.65625
                 }
             ]
         },
@@ -1360,10 +1360,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -1372,8 +1372,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Change Name",
-                    "strWidth": 326.9375
+                    "str": "이름을 바꾼다",
+                    "strWidth": 202.65625
                 }
             ]
         }

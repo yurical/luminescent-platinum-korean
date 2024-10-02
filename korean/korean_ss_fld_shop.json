@@ -5035,10 +5035,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -5047,8 +5047,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Which items do you want to get?",
-                    "strWidth": 414.171875
+                    "str": "어느 상품과 교환할래?",
+                    "strWidth": 327.09375
                 }
             ]
         },

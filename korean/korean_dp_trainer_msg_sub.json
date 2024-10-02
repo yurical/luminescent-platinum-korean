@@ -10681,10 +10681,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -10693,56 +10693,56 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "A Technical Machine, or TM for short,",
-                    "strWidth": 493.078125
+                    "str": "기술머신에는 포켓몬의",
+                    "strWidth": 330.65625
                 },
                 {
                     "patternID": 7,
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "contains a Pokémon move.",
-                    "strWidth": 345.546875
+                    "str": "기술이 담겨 있어서",
+                    "strWidth": 277.3125
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Using a TM, you can instantly teach",
-                    "strWidth": 462.109375
+                    "str": "포켓몬에게 사용하면",
+                    "strWidth": 298.65625
                 },
                 {
                     "patternID": 7,
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "its move to a Pokémon.",
-                    "strWidth": 303.859375
+                    "str": "그 기술을 가르칠 수 있어",
+                    "strWidth": 362.625
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "You’ll find you receive lots of copies",
-                    "strWidth": 475.75
+                    "str": "기술머신은 한 번에 엄청나게",
+                    "strWidth": 415.96875
                 },
                 {
                     "patternID": 7,
-                    "eventID": 3,
+                    "eventID": 4,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "of a TM when you obtain it.",
-                    "strWidth": 359.90625
+                    "str": "많이 얻을 수 있으니까",
+                    "strWidth": 319.96875
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Don’t be shy to use them!",
-                    "strWidth": 333.453125
+                    "str": "아끼지 말고 써 봐!",
+                    "strWidth": 264.875
                 }
             ]
         }

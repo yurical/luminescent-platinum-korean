@@ -15027,10 +15027,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -15039,8 +15039,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Evey",
-                    "strWidth": 54.5625
+                    "str": "이비",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -15177,10 +15177,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -15189,8 +15189,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Kayla",
-                    "strWidth": 80.46875
+                    "str": "카일라",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -15267,10 +15267,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -15279,8 +15279,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Jenny",
-                    "strWidth": 82.8125
+                    "str": "제니",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -15327,10 +15327,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -15339,8 +15339,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Helen",
-                    "strWidth": 85.984375
+                    "str": "헬렌",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -31347,10 +31347,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -31359,8 +31359,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Falkner",
-                    "strWidth": 95.25
+                    "str": "비상",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -31377,10 +31377,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -31389,8 +31389,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Bugsy",
-                    "strWidth": 74.96875
+                    "str": "호일",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -31407,10 +31407,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -31419,8 +31419,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Whitney",
-                    "strWidth": 107.796875
+                    "str": "꼭두",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -31437,10 +31437,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -31449,8 +31449,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Morty",
-                    "strWidth": 77.21875
+                    "str": "유빈",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -31467,10 +31467,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -31479,8 +31479,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Chuck",
-                    "strWidth": 80.171875
+                    "str": "사도",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -31497,10 +31497,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -31509,8 +31509,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Jasmine",
-                    "strWidth": 101.328125
+                    "str": "규리",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -31527,10 +31527,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -31539,8 +31539,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pryce",
-                    "strWidth": 70.234375
+                    "str": "류옹",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -31557,10 +31557,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -31570,7 +31570,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Claire",
-                    "strWidth": 76.5625
+                    "strWidth": 93.25
                 }
             ]
         },
@@ -31587,10 +31587,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -31599,8 +31599,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Aran",
-                    "strWidth": 60.65625
+                    "str": "아란",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -31617,10 +31617,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -31629,8 +31629,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Nephenee",
-                    "strWidth": 133.90625
+                    "str": "네페니",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -31647,10 +31647,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -31659,8 +31659,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Mewtwo",
-                    "strWidth": 76.5625
+                    "str": "뮤츠",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -31677,10 +31677,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -31689,8 +31689,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Aitwo",
-                    "strWidth": 74.75
+                    "str": "제이",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -31707,10 +31707,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -31719,8 +31719,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Darach",
-                    "strWidth": 80.75
+                    "str": "코크런",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -31737,10 +31737,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -31749,8 +31749,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Mr. Backlot",
-                    "strWidth": 110.75
+                    "str": "한자랑",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -31767,10 +31767,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -31779,8 +31779,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Nils",
-                    "strWidth": 70.75
+                    "str": "닐스",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -31797,10 +31797,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -31810,7 +31810,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Drayano",
-                    "strWidth": 100.75
+                    "strWidth": 136.59375
                 }
             ]
         },
@@ -31827,10 +31827,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -31839,8 +31839,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Heather",
-                    "strWidth": 100.75
+                    "str": "히스",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -31857,10 +31857,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -31869,8 +31869,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Wyver",
-                    "strWidth": 100.75
+                    "str": "용태",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -31887,10 +31887,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -31899,8 +31899,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Slythe",
-                    "strWidth": 100.75
+                    "str": "유화",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -31917,10 +31917,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -31929,8 +31929,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Shade",
-                    "strWidth": 100.75
+                    "str": "셰이드",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -31947,10 +31947,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -31959,8 +31959,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Gene",
-                    "strWidth": 100.75
+                    "str": "유진",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -31977,10 +31977,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -31989,8 +31989,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Luna",
-                    "strWidth": 100.75
+                    "str": "루나",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -32007,10 +32007,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -32019,8 +32019,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Siegiswald",
-                    "strWidth": 100.75
+                    "str": "지기스발트",
+                    "strWidth": 160.0
                 }
             ]
         },
@@ -32037,10 +32037,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -32049,8 +32049,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Randy",
-                    "strWidth": 100.75
+                    "str": "유랑",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -32067,10 +32067,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -32079,8 +32079,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Thea",
-                    "strWidth": 100.75
+                    "str": "티아",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -32097,10 +32097,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -32109,8 +32109,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Donnie",
-                    "strWidth": 100.75
+                    "str": "도니",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -32127,10 +32127,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -32139,8 +32139,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Dexter",
-                    "strWidth": 100.75
+                    "str": "빅",
+                    "strWidth": 32.0
                 }
             ]
         },
@@ -32157,10 +32157,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -32169,8 +32169,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Jeffrey",
-                    "strWidth": 100.75
+                    "str": "이사나",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -32187,10 +32187,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -32199,8 +32199,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Louie",
-                    "strWidth": 100.75
+                    "str": "루이",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -32217,10 +32217,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -32229,8 +32229,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Ari",
-                    "strWidth": 100.75
+                    "str": "아리",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -32247,10 +32247,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -32259,8 +32259,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Julian",
-                    "strWidth": 100.75
+                    "str": "푸른",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -32277,10 +32277,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -32289,8 +32289,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Edmund",
-                    "strWidth": 100.75
+                    "str": "에드먼드",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -32307,10 +32307,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -32319,8 +32319,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Tessa",
-                    "strWidth": 100.75
+                    "str": "네사",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -32337,10 +32337,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -32349,8 +32349,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Sal",
-                    "strWidth": 100.75
+                    "str": "샐",
+                    "strWidth": 32.0
                 }
             ]
         },
@@ -32367,10 +32367,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -32379,8 +32379,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Stephan",
-                    "strWidth": 100.75
+                    "str": "케니언",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -32397,10 +32397,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -32409,8 +32409,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Fraiser",
-                    "strWidth": 100.75
+                    "str": "프레이저",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -32427,10 +32427,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -32439,8 +32439,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Rosalyne",
-                    "strWidth": 100.75
+                    "str": "로잘린",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -32457,10 +32457,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -32469,8 +32469,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Grayson",
-                    "strWidth": 100.75
+                    "str": "그레이슨",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -32487,10 +32487,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -32499,8 +32499,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Franklin",
-                    "strWidth": 100.75
+                    "str": "두철",
+                    "strWidth": 64.0
                 }
             ]
         },
@@ -32517,10 +32517,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -32529,8 +32529,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Marilyn",
-                    "strWidth": 100.75
+                    "str": "마릴린",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -32547,10 +32547,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -32559,8 +32559,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Dahlia",
-                    "strWidth": 100.75
+                    "str": "달리아",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -32577,10 +32577,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -32589,8 +32589,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Steven",
-                    "strWidth": 100.75
+                    "str": "성호",
+                    "strWidth": 64.0
                 }
             ]
         }

@@ -1585,10 +1585,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -1598,7 +1598,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Greetings, Pokémon Trainer.",
-                    "strWidth": 370.5
+                    "strWidth": 456.78125
                 },
                 {
                     "patternID": 7,
@@ -1606,7 +1606,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "I bare an invitation.",
-                    "strWidth": 251.96875
+                    "strWidth": 308.4375
                 },
                 {
                     "patternID": 7,
@@ -1614,7 +1614,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "You have been invited to a battle by",
-                    "strWidth": 477.140625
+                    "strWidth": 586.0
                 },
                 {
                     "patternID": 7,
@@ -1622,7 +1622,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "the world's greatest Pokémon.",
-                    "strWidth": 391.90625
+                    "strWidth": 492.0625
                 },
                 {
                     "patternID": 7,
@@ -1630,7 +1630,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Please accept this invitation and",
-                    "strWidth": 417.484375
+                    "strWidth": 518.6875
                 },
                 {
                     "patternID": 0,
@@ -1638,7 +1638,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "attend me at the Gate.",
-                    "strWidth": 289.171875
+                    "strWidth": 367.96875
                 }
             ]
         },
@@ -1655,10 +1655,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -1668,7 +1668,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "I shall await your arrival.",
-                    "strWidth": 313.140625
+                    "strWidth": 391.21875
                 }
             ]
         },
@@ -1685,10 +1685,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -1698,7 +1698,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Hm? Where am I..?",
-                    "strWidth": 247.71875
+                    "strWidth": 306.03125
                 },
                 {
                     "patternID": 7,
@@ -1706,7 +1706,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "This is the Battleground?",
-                    "strWidth": 320.921875
+                    "strWidth": 399.0
                 },
                 {
                     "patternID": 7,
@@ -1714,7 +1714,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "I don’t understand what happened...",
-                    "strWidth": 470.375
+                    "strWidth": 586.09375
                 },
                 {
                     "patternID": 7,
@@ -1722,7 +1722,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "But your Pokémon need healing, right?",
-                    "strWidth": 503.90625
+                    "strWidth": 623.5
                 },
                 {
                     "patternID": 7,
@@ -1730,7 +1730,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "A true Pokémon nurse never rests!",
-                    "strWidth": 439.921875
+                    "strWidth": 553.96875
                 },
                 {
                     "patternID": 0,
@@ -1738,7 +1738,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Speak to me if your team needs help.",
-                    "strWidth": 484.34375
+                    "strWidth": 602.1875
                 }
             ]
         },
@@ -1755,10 +1755,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [
                 {
@@ -1787,7 +1787,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": " received the Odd Invitation! ",
-                    "strWidth": 390.65625
+                    "strWidth": 469.03125
                 }
             ]
         },
@@ -1804,10 +1804,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -1817,7 +1817,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "A mysterious voice calls out to you.",
-                    "strWidth": 458.390625
+                    "strWidth": 571.65625
                 }
             ]
         },
@@ -1834,10 +1834,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -1847,7 +1847,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "It seems you've accepted my invitation.",
-                    "strWidth": 510.796875
+                    "strWidth": 632.84375
                 }
             ]
         },
@@ -1864,10 +1864,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -1877,7 +1877,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "A mysterious force stops you from leaving",
-                    "strWidth": 541.1875
+                    "strWidth": 675.125
                 }
             ]
         },
@@ -1894,10 +1894,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -1907,7 +1907,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "...",
-                    "strWidth": 23.71875
+                    "strWidth": 25.78125
                 }
             ]
         },
@@ -1924,10 +1924,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -1937,7 +1937,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "You may be strong enough after all.",
-                    "strWidth": 465.390625
+                    "strWidth": 576.40625
                 }
             ]
         },
@@ -1954,10 +1954,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -1967,7 +1967,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "What a shame, not even Sinnoh’s champion can ",
-                    "strWidth": 625.78125
+                    "strWidth": 784.75
                 },
                 {
                     "patternID": 0,
@@ -1975,7 +1975,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "match my strength",
-                    "strWidth": 236.609375
+                    "strWidth": 300.6875
                 }
             ]
         },
@@ -1992,10 +1992,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -2005,7 +2005,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "For years I have traveled the world to test my ",
-                    "strWidth": 597.046875
+                    "strWidth": 747.125
                 },
                 {
                     "patternID": 7,
@@ -2013,7 +2013,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "strength against any who dare face me.",
-                    "strWidth": 505.71875
+                    "strWidth": 636.65625
                 },
                 {
                     "patternID": 7,
@@ -2021,7 +2021,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Only one has proven any challenge at all.",
-                    "strWidth": 537.0625
+                    "strWidth": 667.75
                 },
                 {
                     "patternID": 0,
@@ -2029,7 +2029,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "But now, I have cloned his Pokémon.",
-                    "strWidth": 475.65625
+                    "strWidth": 593.0625
                 }
             ]
         },
@@ -2046,10 +2046,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -2059,7 +2059,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Do you truly think you stand a chance?",
-                    "strWidth": 505.0625
+                    "strWidth": 630.90625
                 }
             ]
         },
@@ -2076,10 +2076,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -2089,7 +2089,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Fine, I'll do it myself.",
-                    "strWidth": 273.734375
+                    "strWidth": 328.65625
                 }
             ]
         },
@@ -2106,10 +2106,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -2119,7 +2119,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Back again?",
-                    "strWidth": 154.484375
+                    "strWidth": 192.5625
                 }
             ]
         },
@@ -2136,10 +2136,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -2149,7 +2149,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "For years I have traveled the world in this form to ",
-                    "strWidth": 648.28125
+                    "strWidth": 808.125
                 },
                 {
                     "patternID": 7,
@@ -2157,7 +2157,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "test my strength against any who dare face me. ",
-                    "strWidth": 616.40625
+                    "strWidth": 776.46875
                 },
                 {
                     "patternID": 7,
@@ -2165,7 +2165,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Only one has proven any challenge at all. But now,",
-                    "strWidth": 658.71875
+                    "strWidth": 820.625
                 },
                 {
                     "patternID": 7,
@@ -2173,7 +2173,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "I have cloned his Pokémon",
-                    "strWidth": 346.09375
+                    "strWidth": 431.59375
                 }
             ]
         }

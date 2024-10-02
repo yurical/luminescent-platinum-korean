@@ -19733,10 +19733,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -19745,16 +19745,16 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Pokémon! Pokémon! We’re full of Pokémon",
-                    "strWidth": 563.796875
+                    "str": "포켓몬! 포켓몬!",
+                    "strWidth": 220.46875
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "at Renegade Park!",
-                    "strWidth": 219.328125
+                    "str": "포켓몬 가득한! 레니게이드파크",
+                    "strWidth": 446.21875
                 }
             ]
         },

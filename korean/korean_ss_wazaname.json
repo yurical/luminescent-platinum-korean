@@ -18117,10 +18117,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -18129,8 +18129,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Gigaton Hammer",
-                    "strWidth": 174.265625
+                    "str": "거대해머",
+                    "strWidth": 128.0
                 }
             ]
         },
@@ -24837,10 +24837,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -24849,8 +24849,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Cancel",
-                    "strWidth": 88.828125
+                    "str": "취소",
+                    "strWidth": 64.0
                 }
             ]
         }

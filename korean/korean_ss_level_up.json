@@ -741,7 +741,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "",
-                    "strWidth": 0.0
+                    "strWidth": -1.0
                 }
             ]
         },
@@ -1173,7 +1173,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "",
-                    "strWidth": 0.0
+                    "strWidth": -1.0
                 }
             ]
         },

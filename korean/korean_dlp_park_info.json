@@ -133,10 +133,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -145,24 +145,24 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "A slate overflowing with enigmatic energy. You can feel",
-                    "strWidth": 720.890625
+                    "str": "신비한 힘이 넘치는 석판.",
+                    "strWidth": 360.5625
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "a strong connection between it and the Discovery Room",
-                    "strWidth": 726.46875
+                    "str": "레니게이드파크의 인도의 방과",
+                    "strWidth": 437.3125
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "at Renegade Park.",
-                    "strWidth": 219.96875
+                    "str": "깊은 연관이 있는 것 같다.",
+                    "strWidth": 371.21875
                 }
             ]
         },
@@ -269,10 +269,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -281,24 +281,24 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "A slate overflowing with enigmatic energy. You can feel",
-                    "strWidth": 720.890625
+                    "str": "신비한 힘이 넘치는 석판.",
+                    "strWidth": 360.5625
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "a strong connection between it and the Kanto Room at",
-                    "strWidth": 711.1875
+                    "str": "레니게이드파크의 관동의 방과",
+                    "strWidth": 437.3125
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Renegade Park.",
-                    "strWidth": 185.953125
+                    "str": "깊은 연관이 있는 것 같다.",
+                    "strWidth": 371.21875
                 }
             ]
         },
@@ -405,10 +405,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -417,24 +417,24 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "A slate overflowing with enigmatic energy. You can feel",
-                    "strWidth": 720.890625
+                    "str": "신비한 힘이 넘치는 석판.",
+                    "strWidth": 360.5625
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "a strong connection between it and the Johto Room at",
-                    "strWidth": 706.640625
+                    "str": "레니게이드파크의 성도의 방과",
+                    "strWidth": 437.3125
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Renegade Park.",
-                    "strWidth": 185.953125
+                    "str": "깊은 연관이 있는 것 같다.",
+                    "strWidth": 371.21875
                 }
             ]
         },
@@ -541,10 +541,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -553,24 +553,24 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "A slate overflowing with enigmatic energy. You can feel",
-                    "strWidth": 720.890625
+                    "str": "신비한 힘이 넘치는 석판.",
+                    "strWidth": 360.5625
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "a strong connection between it and the Soul Room at",
-                    "strWidth": 690.03125
+                    "str": "레니게이드파크의 마음의 방과",
+                    "strWidth": 437.3125
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Renegade Park.",
-                    "strWidth": 185.953125
+                    "str": "깊은 연관이 있는 것 같다.",
+                    "strWidth": 371.21875
                 }
             ]
         },
@@ -647,10 +647,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -659,24 +659,24 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "A slate overflowing with enigmatic energy. You can feel",
-                    "strWidth": 720.890625
+                    "str": "신비한 힘이 넘치는 석판.",
+                    "strWidth": 360.5625
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "a strong connection between it and the Rainbow Room",
-                    "strWidth": 710.375
+                    "str": "레니게이드파크의 무지개의 방과",
+                    "strWidth": 469.3125
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "at Renegade Park.",
-                    "strWidth": 219.96875
+                    "str": "깊은 연관이 있는 것 같다.",
+                    "strWidth": 371.21875
                 }
             ]
         },
@@ -723,10 +723,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -735,24 +735,24 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "A slate overflowing with enigmatic energy. You can feel",
-                    "strWidth": 720.890625
+                    "str": "신비한 힘이 넘치는 석판.",
+                    "strWidth": 360.5625
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "a strong connection between it and the Squall Room at",
-                    "strWidth": 713.234375
+                    "str": "레니게이드파크의 폭풍의 방과",
+                    "strWidth": 437.3125
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Renegade Park.",
-                    "strWidth": 185.953125
+                    "str": "깊은 연관이 있는 것 같다.",
+                    "strWidth": 371.21875
                 }
             ]
         },
@@ -799,10 +799,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -811,24 +811,24 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "A slate overflowing with enigmatic energy. You can feel",
-                    "strWidth": 720.890625
+                    "str": "신비한 힘이 넘치는 석판.",
+                    "strWidth": 360.5625
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "a strong connection between it and the Oceanic Room",
-                    "strWidth": 706.796875
+                    "str": "레니게이드파크의 대해의 방과",
+                    "strWidth": 437.3125
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "at Renegade Park.",
-                    "strWidth": 219.96875
+                    "str": "깊은 연관이 있는 것 같다.",
+                    "strWidth": 371.21875
                 }
             ]
         },
@@ -875,10 +875,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -887,24 +887,24 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "A slate overflowing with enigmatic energy. You can feel",
-                    "strWidth": 720.890625
+                    "str": "신비한 힘이 넘치는 석판.",
+                    "strWidth": 360.5625
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "a strong connection between it and the Tectonic Room",
-                    "strWidth": 711.4375
+                    "str": "레니게이드파크의 대륙의 방과",
+                    "strWidth": 437.3125
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "at Renegade Park.",
-                    "strWidth": 219.96875
+                    "str": "깊은 연관이 있는 것 같다.",
+                    "strWidth": 371.21875
                 }
             ]
         },
@@ -951,10 +951,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -963,24 +963,24 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "A slate overflowing with enigmatic energy. You can feel",
-                    "strWidth": 720.890625
+                    "str": "신비한 힘이 넘치는 석판.",
+                    "strWidth": 360.5625
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "a strong connection between it and the Stratospheric",
-                    "strWidth": 685.90625
+                    "str": "레니게이드파크의 천공의 방과",
+                    "strWidth": 437.3125
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Room at Renegade Park.",
-                    "strWidth": 303.296875
+                    "str": "깊은 연관이 있는 것 같다.",
+                    "strWidth": 371.21875
                 }
             ]
         },
@@ -1027,10 +1027,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -1039,24 +1039,24 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "A slate overflowing with enigmatic energy. You can feel",
-                    "strWidth": 720.890625
+                    "str": "신비한 힘이 넘치는 석판.",
+                    "strWidth": 360.5625
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "a strong connection between it and the Genome Room",
-                    "strWidth": 710.765625
+                    "str": "레니게이드파크의 유전자의 방과",
+                    "strWidth": 469.3125
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "at Renegade Park.",
-                    "strWidth": 219.96875
+                    "str": "깊은 연관이 있는 것 같다.",
+                    "strWidth": 371.21875
                 }
             ]
         },
@@ -1103,10 +1103,10 @@
             },
             "attributeValueArray": [
                 -1,
-                0,
-                0,
                 -1,
-                0
+                -1,
+                -1,
+                -1
             ],
             "tagDataArray": [],
             "wordDataArray": [
@@ -1115,24 +1115,24 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "A slate overflowing with enigmatic energy. You can feel",
-                    "strWidth": 720.890625
+                    "str": "신비한 힘이 넘치는 석판.",
+                    "strWidth": 360.5625
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "a strong connection between it and the Distortion Room",
-                    "strWidth": 728.53125
+                    "str": "레니게이드파크의 깨어진 방과",
+                    "strWidth": 437.3125
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "at Renegade Park.",
-                    "strWidth": 219.96875
+                    "str": "깊은 연관이 있는 것 같다.",
+                    "strWidth": 371.21875
                 }
             ]
         },
