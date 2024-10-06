@@ -68202,8 +68202,8 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "자 여기 있다",
-                    "strWidth": 181.3125
+                    "str": "기술머신은 가져가거라",
+                    "strWidth": 330.65625
                 },
                 {
                     "patternID": 7,
@@ -79992,24 +79992,24 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "미루의 윤겔라가 구조 신호를",
-                    "strWidth": 415.96875
+                    "str": "미루의 윤겔라가 구조 신호를 보냈지만",
+                    "strWidth": 554.625
                 },
                 {
                     "patternID": 7,
                     "eventID": 4,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "보내긴 했지만 설마 아무도",
-                    "strWidth": 383.96875
+                    "str": "설마 아무도 응답하지",
+                    "strWidth": 309.3125
                 },
                 {
                     "patternID": 7,
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "응답하지 않을 줄은 몰랐어...",
-                    "strWidth": 409.75
+                    "str": "않을 줄은 몰랐어...",
+                    "strWidth": 271.09375
                 },
                 {
                     "patternID": 7,
@@ -80032,31 +80032,39 @@
                     "eventID": 4,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "정말 소중한 물건을 잃어버렸어...",
-                    "strWidth": 473.75
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "부탁이야! 잃어버린 물건을",
-                    "strWidth": 382.21875
+                    "str": "정말 소중한 물건을",
+                    "strWidth": 277.3125
                 },
                 {
                     "patternID": 7,
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "같이 찾아 줘!",
-                    "strWidth": 190.21875
+                    "str": "잃어버렸어...",
+                    "strWidth": 185.78125
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "미루가 아무래도 동굴 저 안쪽에",
+                    "str": "부탁이야!",
+                    "strWidth": 136.90625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 3,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "잃어버린 물건을 같이 찾아 줘!",
+                    "strWidth": 435.53125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "아무래도 미루가 동굴 저 안쪽에",
                     "strWidth": 458.625
                 },
                 {
@@ -93960,16 +93968,16 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "내 사랑스러운 드래곤타입 팀이랑",
-                    "strWidth": 479.96875
+                    "str": "내 멋진 드래곤타입 팀과",
+                    "strWidth": 351.96875
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "승부를 해보는 건 어때?",
-                    "strWidth": 337.75
+                    "str": "승부해 보겠어?",
+                    "strWidth": 220.4375
                 }
             ]
         },
@@ -103487,48 +103495,48 @@
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Thank you...",
-                    "strWidth": 193.75
+                    "str": "고마워...",
+                    "strWidth": 121.78125
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "That must have been the Pokémon that",
-                    "strWidth": 637.28125
+                    "str": "분명 지금 것이 감사의 기분을",
+                    "strWidth": 426.625
                 },
                 {
                     "patternID": 7,
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "conveys the feelings of gratitude...",
-                    "strWidth": 548.03125
+                    "str": "전해주는 포켓몬...",
+                    "strWidth": 260.4375
                 },
                 {
                     "patternID": 7,
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "You made it so I could see it...",
-                    "strWidth": 486.09375
+                    "str": "네 덕분에 볼 수 있었어...",
+                    "strWidth": 356.40625
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "So, I’ll have to convey thanks in my own",
-                    "strWidth": 643.375
+                    "str": "그러니까 나도 자신의 입으로",
+                    "strWidth": 415.96875
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "words, too...",
-                    "strWidth": 199.75
+                    "str": "감사를 전할 거야...",
+                    "strWidth": 271.09375
                 }
             ]
         },
@@ -104829,24 +104837,24 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Oh,",
-                    "strWidth": 57.46875
+                    "str": "이런",
+                    "strWidth": 64.0
                 },
                 {
                     "patternID": 7,
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "it seems you only have one Pokémon.",
-                    "strWidth": 608.71875
+                    "str": "포켓몬이 한 마리뿐이구나",
+                    "strWidth": 373.3125
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Please return with another.",
-                    "strWidth": 434.8125
+                    "str": "한 마리 더 데려와 줘",
+                    "strWidth": 298.625
                 }
             ]
         },
