@@ -70517,16 +70517,16 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "혹시 희귀한 나무열매 사지 않을래?",
-                    "strWidth": 508.40625
+                    "str": "혹시 희귀한 나무열매 사지 않으실래요?",
+                    "strWidth": 572.40625
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "엄청 대단한 효과가 있어!",
-                    "strWidth": 360.875
+                    "str": "엄청 대단한 효과가 있어요!",
+                    "strWidth": 392.875
                 }
             ]
         },
@@ -73846,8 +73846,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "안농에 쓰인 글귀가 바뀌었다...",
-                    "strWidth": 441.75
+                    "str": "벽에 쓰인 글귀가 바뀌었다...",
+                    "strWidth": 409.75
                 }
             ]
         },
@@ -73930,16 +73930,16 @@
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "안농의 글귀가 지워져 있다...",
-                    "strWidth": 409.75
+                    "str": "벽의 글귀가 지워져 있다...",
+                    "strWidth": 377.75
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "지라치는 안농을 통해",
-                    "strWidth": 309.3125
+                    "str": "지라치는 벽을 통해",
+                    "strWidth": 277.3125
                 },
                 {
                     "patternID": 0,
@@ -129344,8 +129344,8 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "이제 가 줄 수 있을까?",
-                    "strWidth": 316.40625
+                    "str": "이제 가 주지 않을래?",
+                    "strWidth": 305.75
                 },
                 {
                     "patternID": 7,
@@ -129530,16 +129530,16 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "이 탑에 대한 끔찍한 소문까지",
-                    "strWidth": 426.625
+                    "str": "이 탑에 대한 무서운 소문을",
+                    "strWidth": 394.625
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "듣고 왔어요",
-                    "strWidth": 170.65625
+                    "str": "듣고 여기까지 찾아왔어요",
+                    "strWidth": 373.3125
                 }
             ]
         },
@@ -129730,8 +129730,8 @@
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "조금 피곤한 것 같기도 해",
-                    "strWidth": 362.625
+                    "str": "조금 피곤한 것 같기도 하고...",
+                    "strWidth": 420.40625
                 },
                 {
                     "patternID": 0,
@@ -129765,15 +129765,15 @@
             "wordDataArray": [
                 {
                     "patternID": 7,
-                    "eventID": 1,
+                    "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "이제 가 줄 수 있을까?",
+                    "str": "그만 가 줄 수 있을까?",
                     "strWidth": 316.40625
                 },
                 {
                     "patternID": 7,
-                    "eventID": 4,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "난 좀 더",
@@ -129982,8 +129982,8 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "갑자기 다가오더니 내 포켓몬들이",
-                    "strWidth": 479.96875
+                    "str": "갑자기 다가오더니 내 포켓몬이",
+                    "strWidth": 447.96875
                 },
                 {
                     "patternID": 7,
@@ -129998,24 +129998,24 @@
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "이런 경우는 처음이야",
-                    "strWidth": 309.3125
+                    "str": "이런 건 처음이야",
+                    "strWidth": 245.3125
                 },
                 {
                     "patternID": 7,
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "미안하지만 난 포켓몬센터에",
-                    "strWidth": 405.3125
+                    "str": "미안하지만 난",
+                    "strWidth": 202.65625
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "가봐야 할 것 같아",
-                    "strWidth": 255.96875
+                    "str": "포켓몬센터에 가봐야겠어",
+                    "strWidth": 362.65625
                 }
             ]
         },
@@ -130041,7 +130041,7 @@
             "wordDataArray": [
                 {
                     "patternID": 7,
-                    "eventID": 1,
+                    "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "여인은 멀쩡하게 자고 있는 듯하다",
@@ -130174,8 +130174,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "감사합니다",
-                    "strWidth": 160.0
+                    "str": "고마워",
+                    "strWidth": 96.0
                 }
             ]
         },
@@ -130258,8 +130258,8 @@
                     "eventID": 4,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "갑자기 진화해 버려서 말썽인 것 같아",
-                    "strWidth": 533.28125
+                    "str": "갑자기 진화해 버려서 말썽인가 봐",
+                    "strWidth": 490.625
                 },
                 {
                     "patternID": 0,
@@ -131729,16 +131729,16 @@
                     "eventID": 3,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "너를 따라가고 싶은 것 같아",
-                    "strWidth": 394.625
+                    "str": "포켓몬은 당신을 따라가고 싶은 듯하다",
+                    "strWidth": 554.625
                 },
                 {
                     "patternID": 0,
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "네가 데려가지 않을래?",
-                    "strWidth": 327.09375
+                    "str": "포켓몬을 데려가겠습니까?",
+                    "strWidth": 380.4375
                 }
             ]
         }
